@@ -8,6 +8,27 @@
 - 定时抓取新闻：`.github/workflows/update-news.yml`（每小时）
 - 自动部署页面：`.github/workflows/deploy-pages.yml`
 - 抓取脚本：`scripts/fetch_news.py`
+- 后台管理（轻量）：`site/admin.html` + `config/news_config.json`
+
+## 管理后台怎么用
+
+1. 打开后台页：`https://<你的用户名>.github.io/<仓库名>/admin.html`
+2. 输入默认密码：`changeme-admin`
+3. 编辑抓取源、黑名单、置顶链接、最大条数
+4. 下载 `news_config.json` 覆盖仓库里的 `config/news_config.json`
+5. 提交后，在 Actions 手动运行一次 `Update AI News`
+
+> 注意：这是“静态站点轻后台”，配置最终仍通过 Git 提交生效。
+
+## 命令行管理（推荐）
+
+```bash
+python3 scripts/manage_config.py show
+python3 scripts/manage_config.py add-feed <rss-url>
+python3 scripts/manage_config.py add-blacklist <keyword>
+python3 scripts/manage_config.py pin <news-link>
+python3 scripts/fetch_news.py
+```
 
 ## 部署步骤
 
@@ -21,4 +42,4 @@
 ## 说明
 
 - 本地环境如果没有外网，抓取脚本会拿不到新闻；在 GitHub Actions 上会正常执行。
-- 你可以在 `scripts/fetch_news.py` 里修改 RSS 源，定制成你自己的 AI 资讯来源。
+- 你可以在 `config/news_config.json` 中调整 RSS 源和过滤规则。

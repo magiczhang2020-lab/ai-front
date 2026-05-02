@@ -1,0 +1,14 @@
+{
+  "maxItems": 40,
+  "feeds": [
+    "https://techcrunch.com/feed/",
+    "https://www.theverge.com/rss/index.xml",
+    "https://www.wired.com/feed/rss",
+    "https://news.google.com/rss/search?q=artificial+intelligence&hl=en-US&gl=US&ceid=US:en"
+  ],
+  "blacklistKeywords": [
+    "sponsored",
+    "advertisement"
+  ],
+  "pinnedLinks": []
+}

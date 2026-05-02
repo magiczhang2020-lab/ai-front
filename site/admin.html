@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI Front Admin</title>
+    <style>
+      body { font-family: Arial, sans-serif; margin: 0; background: #f6f8fa; color: #222; }
+      .wrap { max-width: 900px; margin: 0 auto; padding: 20px; }
+      .card { background: #fff; border: 1px solid #d8dee4; border-radius: 10px; padding: 16px; margin-bottom: 14px; }
+      h1 { margin: 0 0 8px; }
+      h2 { margin: 0 0 10px; font-size: 1.05rem; }
+      input, textarea { width: 100%; padding: 10px; border: 1px solid #c9d1d9; border-radius: 8px; margin-top: 6px; }
+      textarea { min-height: 100px; resize: vertical; }
+      button { border: 0; border-radius: 8px; padding: 9px 12px; margin-right: 8px; cursor: pointer; }
+      .primary { background: #0a7f52; color: #fff; }
+      .muted { background: #e9eef2; }
+      .tip { color: #57606a; font-size: 0.92rem; }
+      .hidden { display: none; }
+      .row { display: grid; gap: 10px; grid-template-columns: 1fr 1fr; }
+      @media (max-width: 720px) { .row { grid-template-columns: 1fr; } }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <div class="card" id="login-card">
+        <h1>后台管理</h1>
+        <p class="tip">这是轻量后台（基于 Git 配置）。输入管理密码后可编辑配置并导出 JSON。</p>
+        <input id="pwd" type="password" placeholder="管理密码" />
+        <button class="primary" id="login-btn">进入后台</button>
+      </div>
+
+      <div id="admin-panel" class="hidden">
+        <div class="card">
+          <h2>抓取配置</h2>
+          <label>最大新闻条数
+            <input id="max-items" type="number" min="1" />
+          </label>
+          <label>RSS 源（每行一个 URL）
+            <textarea id="feeds"></textarea>
+          </label>
+          <label>黑名单关键词（每行一个）
+            <textarea id="blacklist"></textarea>
+          </label>
+          <label>置顶链接（每行一个新闻 link）
+            <textarea id="pinned"></textarea>
+          </label>
+          <div>
+            <button class="primary" id="download-btn">下载 news_config.json</button>
+            <button class="muted" id="copy-btn">复制 JSON</button>
+          </div>
+          <p class="tip">将导出的文件覆盖仓库里的 <code>config/news_config.json</code> 并提交，然后在 Actions 运行 Update AI News。</p>
+        </div>
+
+        <div class="card">
+          <h2>快速操作命令</h2>
+          <pre id="cmds" class="tip"></pre>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      const ADMIN_PASSWORD = "changeme-admin";
+      const el = (id) => document.getElementById(id);
+
+      function parseLines(text) {
+        return text.split("\n").map((x) => x.trim()).filter(Boolean);
+      }
+
+      function buildConfig() {
+        return {
+          maxItems: Math.max(1, Number(el("max-items").value || 40)),
+          feeds: parseLines(el("feeds").value),
+          blacklistKeywords: parseLines(el("blacklist").value).map((x) => x.toLowerCase()),
+          pinnedLinks: parseLines(el("pinned").value),
+        };
+      }
+
+      function renderCmds() {
+        el("cmds").textContent = [
+          "python3 scripts/manage_config.py show",
+          "python3 scripts/manage_config.py add-feed <rss-url>",
+          "python3 scripts/manage_config.py add-blacklist <keyword>",
+          "python3 scripts/manage_config.py pin <news-link>",
+          "python3 scripts/fetch_news.py",
+        ].join("\n");
+      }
+
+      async function loadCurrentConfig() {
+        const res = await fetch("../config/news_config.json", { cache: "no-store" });
+        const cfg = await res.json();
+        el("max-items").value = cfg.maxItems || 40;
+        el("feeds").value = (cfg.feeds || []).join("\n");
+        el("blacklist").value = (cfg.blacklistKeywords || []).join("\n");
+        el("pinned").value = (cfg.pinnedLinks || []).join("\n");
+      }
+
+      el("login-btn").addEventListener("click", async () => {
+        if (el("pwd").value !== ADMIN_PASSWORD) {
+          alert("密码错误");
+          return;
+        }
+        el("login-card").classList.add("hidden");
+        el("admin-panel").classList.remove("hidden");
+        renderCmds();
+        try {
+          await loadCurrentConfig();
+        } catch (e) {
+          alert("读取当前配置失败，请手动填写。" + e.message);
+        }
+      });
+
+      el("download-btn").addEventListener("click", () => {
+        const cfg = buildConfig();
+        const blob = new Blob([JSON.stringify(cfg, null, 2) + "\n"], { type: "application/json" });
+        const a = document.createElement("a");
+        a.href = URL.createObjectURL(blob);
+        a.download = "news_config.json";
+        a.click();
+      });
+
+      el("copy-btn").addEventListener("click", async () => {
+        const text = JSON.stringify(buildConfig(), null, 2);
+        await navigator.clipboard.writeText(text);
+        alert("已复制 JSON");
+      });
+    </script>
+  </body>
+</html>

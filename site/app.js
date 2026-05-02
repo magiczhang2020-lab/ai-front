@@ -18,39 +18,64 @@ function escapeHtml(text) {
     .replaceAll("'", "&#39;");
 }
 
-function renderList(items) {
+function categoryOf(item) {
+  const source = (item.source || "").toLowerCase();
+  if (source.includes("openai") || source.includes("anthropic") || source.includes("ai")) return "AI";
+  if (source.includes("reddit")) return "Community";
+  if (source.includes("tech") || source.includes("venture")) return "Startups";
+  return "News";
+}
+
+function cardHtml(item) {
+  const pub = formatDate(item.pubDate);
+  const source = item.source || "Unknown";
+  const category = categoryOf(item);
+  return `
+    <span class="category">${escapeHtml(category)}</span>
+    <a href="${escapeHtml(item.link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title)}</a>
+    <div class="meta">${escapeHtml(source)}${pub ? ` · ${escapeHtml(pub)}` : ""}</div>
+  `;
+}
+
+function renderSections(items) {
+  const lead = document.getElementById("lead-story");
+  const secondary = document.getElementById("secondary-list");
   const list = document.getElementById("news-list");
+  const popular = document.getElementById("popular-list");
 
   if (items.length === 0) {
-    list.innerHTML = "<li>没有匹配的新闻。</li>";
+    lead.innerHTML = "<p>没有匹配的新闻。</p>";
+    secondary.innerHTML = "";
+    list.innerHTML = "";
+    popular.innerHTML = "";
     return;
   }
 
-  list.innerHTML = items
-    .map((item) => {
-      const pub = formatDate(item.pubDate);
-      const source = item.source || "来源未知";
-      return `
-        <li>
-          <a href="${escapeHtml(item.link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title)}</a>
-          <div class="meta">${escapeHtml(source)}${pub ? ` · ${escapeHtml(pub)}` : ""}</div>
-        </li>
-      `;
-    })
+  const leadItem = items[0];
+  const secondaryItems = items.slice(1, 5);
+  const feedItems = items.slice(5);
+  const popularItems = items.slice(0, 8);
+
+  lead.innerHTML = cardHtml(leadItem);
+  secondary.innerHTML = secondaryItems.map((i) => `<li>${cardHtml(i)}</li>`).join("");
+  list.innerHTML = feedItems.map((i) => `<li>${cardHtml(i)}</li>`).join("");
+  popular.innerHTML = popularItems
+    .map(
+      (i) =>
+        `<li><a href="${escapeHtml(i.link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(i.title)}</a><span class="meta">${escapeHtml(i.source || "Unknown")}</span></li>`
+    )
     .join("");
 }
 
 function uniqueSources(items) {
-  const set = new Set();
-  items.forEach((item) => {
-    if (item.source) set.add(item.source);
-  });
-  return [...set].sort((a, b) => a.localeCompare(b, "zh-CN"));
+  return [...new Set(items.map((item) => item.source).filter(Boolean))].sort((a, b) =>
+    a.localeCompare(b, "zh-CN")
+  );
 }
 
 async function loadNews() {
   const updated = document.getElementById("last-updated");
-  const totalCount = document.getElementById("total-count");
+  const count = document.getElementById("total-count");
   const searchInput = document.getElementById("search-input");
   const sourceSelect = document.getElementById("source-select");
   const sortBtn = document.getElementById("sort-btn");
@@ -62,8 +87,7 @@ async function loadNews() {
     const data = await res.json();
     const allItems = Array.isArray(data.items) ? data.items.slice() : [];
 
-    updated.textContent = `最后更新：${formatDate(data.updatedAt) || "未知"}`;
-    totalCount.textContent = `${allItems.length} 篇`;
+    updated.textContent = `Updated: ${formatDate(data.updatedAt) || "Unknown"}`;
 
     uniqueSources(allItems).forEach((source) => {
       const op = document.createElement("option");
@@ -72,19 +96,14 @@ async function loadNews() {
       sourceSelect.appendChild(op);
     });
 
-    const state = {
-      q: "",
-      source: "all",
-      sort: "desc",
-    };
+    const state = { q: "", source: "all", sort: "desc" };
 
     const apply = () => {
       const q = state.q.trim().toLowerCase();
       let items = allItems.filter((it) => {
         if (state.source !== "all" && (it.source || "") !== state.source) return false;
         if (!q) return true;
-        const hay = `${it.title || ""} ${it.source || ""}`.toLowerCase();
-        return hay.includes(q);
+        return `${it.title || ""} ${it.source || ""}`.toLowerCase().includes(q);
       });
 
       items = items.sort((a, b) => {
@@ -92,8 +111,8 @@ async function loadNews() {
         return state.sort === "asc" ? diff : -diff;
       });
 
-      totalCount.textContent = `${items.length} / ${allItems.length} 篇`;
-      renderList(items);
+      count.textContent = `${items.length} / ${allItems.length} stories`;
+      renderSections(items);
     };
 
     searchInput.addEventListener("input", (e) => {
@@ -108,16 +127,14 @@ async function loadNews() {
 
     sortBtn.addEventListener("click", () => {
       state.sort = state.sort === "desc" ? "asc" : "desc";
-      sortBtn.dataset.sort = state.sort;
-      sortBtn.textContent =
-        state.sort === "desc" ? "按时间: 最新优先" : "按时间: 最早优先";
+      sortBtn.textContent = state.sort === "desc" ? "Latest first" : "Oldest first";
       apply();
     });
 
     apply();
   } catch (err) {
     updated.textContent = "加载失败";
-    document.getElementById("news-list").innerHTML = `<li>新闻加载失败：${escapeHtml(err.message)}</li>`;
+    document.getElementById("lead-story").innerHTML = `<p>新闻加载失败：${escapeHtml(err.message)}</p>`;
   }
 }
 

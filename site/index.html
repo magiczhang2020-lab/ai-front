@@ -3,40 +3,46 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>AI 热点新闻周刊</title>
+    <title>AI Front | Tech News</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <main class="page">
-      <section class="hero">
-        <p class="kicker">Tech Briefing</p>
-        <h1>AI 热点新闻周刊</h1>
-        <p class="intro">像博客一样浏览今天最值得关注的 AI 资讯，快速找到你关心的来源与议题。</p>
-        <div class="hero-meta">
-          <span id="last-updated">加载中...</span>
-          <span id="total-count">0 篇</span>
-        </div>
+    <header class="topbar">
+      <div class="wrap topbar-inner">
+        <a class="brand" href="#">AI FRONT</a>
+        <nav class="nav" aria-label="主导航">
+          <a href="#">AI</a>
+          <a href="#">Startups</a>
+          <a href="#">Apps</a>
+          <a href="#">Security</a>
+          <a href="#">Venture</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="wrap page">
+      <section class="controls" aria-label="新闻筛选">
+        <input id="search-input" type="search" placeholder="Search headlines or source" autocomplete="off" />
+        <select id="source-select">
+          <option value="all">All sources</option>
+        </select>
+        <button id="sort-btn" type="button" data-sort="desc">Latest first</button>
       </section>
 
-      <section class="layout">
-        <aside class="sidebar">
-          <h2>筛选</h2>
-          <label>
-            <span>关键词</span>
-            <input id="search-input" type="search" placeholder="搜索标题或来源" autocomplete="off" />
-          </label>
-          <label>
-            <span>来源</span>
-            <select id="source-select">
-              <option value="all">全部来源</option>
-            </select>
-          </label>
-          <button id="sort-btn" type="button" data-sort="desc">按时间: 最新优先</button>
-        </aside>
+      <p id="last-updated" class="last-updated">Loading...</p>
 
-        <section class="feed" aria-label="新闻列表">
+      <section class="grid">
+        <section class="main-column">
+          <article id="lead-story" class="lead-story"></article>
+          <ul id="secondary-list" class="secondary-list"></ul>
           <ul id="news-list" class="news-list"></ul>
         </section>
+
+        <aside class="sidebar">
+          <h2>Most Popular</h2>
+          <p id="total-count" class="count">0 stories</p>
+          <ol id="popular-list" class="popular-list"></ol>
+        </aside>
       </section>
     </main>
 

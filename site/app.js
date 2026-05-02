@@ -4,36 +4,99 @@ function formatDate(input) {
   return d.toLocaleString("zh-CN", { hour12: false });
 }
 
-async function loadNews() {
+function parseTimestamp(input) {
+  const t = Date.parse(input || "");
+  return Number.isNaN(t) ? 0 : t;
+}
+
+function escapeHtml(text) {
+  return String(text || "")
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#39;");
+}
+
+function renderList(items) {
   const list = document.getElementById("news-list");
+
+  if (items.length === 0) {
+    list.innerHTML = "<li>没有匹配的新闻。</li>";
+    return;
+  }
+
+  list.innerHTML = items
+    .map((item) => {
+      const pub = formatDate(item.pubDate);
+      const source = item.source || "来源未知";
+      return `
+        <li>
+          <a href="${escapeHtml(item.link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title)}</a>
+          <div class="meta">${escapeHtml(source)}${pub ? ` · ${escapeHtml(pub)}` : ""}</div>
+        </li>
+      `;
+    })
+    .join("");
+}
+
+async function loadNews() {
   const updated = document.getElementById("last-updated");
+  const searchInput = document.getElementById("search-input");
+  const sortBtn = document.getElementById("sort-btn");
 
   try {
     const res = await fetch("news.json", { cache: "no-store" });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
 
     const data = await res.json();
-    updated.textContent = `最后更新：${formatDate(data.updatedAt)}`;
+    const allItems = Array.isArray(data.items) ? data.items.slice() : [];
 
-    if (!data.items || data.items.length === 0) {
-      list.innerHTML = "<li>暂无新闻。</li>";
+    updated.textContent = `最后更新：${formatDate(data.updatedAt) || "未知"}`;
+
+    if (allItems.length === 0) {
+      renderList([]);
       return;
     }
 
-    list.innerHTML = data.items
-      .map((item) => {
-        const pub = formatDate(item.pubDate);
-        return `
-          <li>
-            <a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a>
-            <div class="meta">${item.source || "来源未知"}${pub ? ` · ${pub}` : ""}</div>
-          </li>
-        `;
-      })
-      .join("");
+    const state = {
+      q: "",
+      sort: "desc",
+    };
+
+    const apply = () => {
+      const q = state.q.trim().toLowerCase();
+      let items = allItems.filter((it) => {
+        if (!q) return true;
+        const hay = `${it.title || ""} ${it.source || ""}`.toLowerCase();
+        return hay.includes(q);
+      });
+
+      items = items.sort((a, b) => {
+        const diff = parseTimestamp(a.pubDate) - parseTimestamp(b.pubDate);
+        return state.sort === "asc" ? diff : -diff;
+      });
+
+      renderList(items);
+    };
+
+    searchInput.addEventListener("input", (e) => {
+      state.q = e.target.value;
+      apply();
+    });
+
+    sortBtn.addEventListener("click", () => {
+      state.sort = state.sort === "desc" ? "asc" : "desc";
+      sortBtn.dataset.sort = state.sort;
+      sortBtn.textContent =
+        state.sort === "desc" ? "按时间: 最新优先" : "按时间: 最早优先";
+      apply();
+    });
+
+    apply();
   } catch (err) {
     updated.textContent = "加载失败";
-    list.innerHTML = `<li>新闻加载失败：${err.message}</li>`;
+    document.getElementById("news-list").innerHTML = `<li>新闻加载失败：${escapeHtml(err.message)}</li>`;
   }
 }
 

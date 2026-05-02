@@ -8,10 +8,15 @@
   </head>
   <body>
     <main class="container">
-      <header>
+      <header class="hero">
         <h1>AI 热点新闻</h1>
         <p id="last-updated">加载中...</p>
       </header>
+
+      <section class="toolbar" aria-label="新闻筛选">
+        <input id="search-input" type="search" placeholder="搜索标题或来源..." autocomplete="off" />
+        <button id="sort-btn" type="button" data-sort="desc">按时间: 最新优先</button>
+      </section>
 
       <section>
         <ul id="news-list" class="news-list"></ul>

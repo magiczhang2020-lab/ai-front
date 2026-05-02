@@ -19,19 +19,33 @@ function escapeHtml(text) {
 }
 
 function categoryOf(item) {
-  const source = (item.source || "").toLowerCase();
-  if (source.includes("openai") || source.includes("anthropic") || source.includes("ai")) return "AI";
-  if (source.includes("reddit")) return "Community";
-  if (source.includes("tech") || source.includes("venture")) return "Startups";
-  return "News";
+  const text = `${item.title || ""} ${item.source || ""}`.toLowerCase();
+  if (text.includes("security") || text.includes("privacy") || text.includes("hack")) return "security";
+  if (text.includes("startup") || text.includes("fund") || text.includes("venture")) return "startups";
+  if (text.includes("app") || text.includes("mobile") || text.includes("ios") || text.includes("android")) return "apps";
+  if (text.includes("transport") || text.includes("ev") || text.includes("uber") || text.includes("tesla")) return "transportation";
+  if (text.includes("ai") || text.includes("openai") || text.includes("anthropic") || text.includes("llm")) return "ai";
+  return "venture";
+}
+
+function prettyCategory(cat) {
+  const map = {
+    ai: "AI",
+    startups: "Startups",
+    apps: "Apps",
+    security: "Security",
+    venture: "Venture",
+    transportation: "Transportation",
+  };
+  return map[cat] || "News";
 }
 
 function cardHtml(item) {
   const pub = formatDate(item.pubDate);
   const source = item.source || "Unknown";
-  const category = categoryOf(item);
+  const cat = prettyCategory(categoryOf(item));
   return `
-    <span class="category">${escapeHtml(category)}</span>
+    <span class="category">${escapeHtml(cat)}</span>
     <a href="${escapeHtml(item.link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title)}</a>
     <div class="meta">${escapeHtml(source)}${pub ? ` · ${escapeHtml(pub)}` : ""}</div>
   `;
@@ -79,6 +93,7 @@ async function loadNews() {
   const searchInput = document.getElementById("search-input");
   const sourceSelect = document.getElementById("source-select");
   const sortBtn = document.getElementById("sort-btn");
+  const topicsNav = document.getElementById("topics-nav");
 
   try {
     const res = await fetch("news.json", { cache: "no-store" });
@@ -96,11 +111,12 @@ async function loadNews() {
       sourceSelect.appendChild(op);
     });
 
-    const state = { q: "", source: "all", sort: "desc" };
+    const state = { q: "", source: "all", sort: "desc", topic: "all" };
 
     const apply = () => {
       const q = state.q.trim().toLowerCase();
       let items = allItems.filter((it) => {
+        if (state.topic !== "all" && categoryOf(it) !== state.topic) return false;
         if (state.source !== "all" && (it.source || "") !== state.source) return false;
         if (!q) return true;
         return `${it.title || ""} ${it.source || ""}`.toLowerCase().includes(q);
@@ -128,6 +144,15 @@ async function loadNews() {
     sortBtn.addEventListener("click", () => {
       state.sort = state.sort === "desc" ? "asc" : "desc";
       sortBtn.textContent = state.sort === "desc" ? "Latest first" : "Oldest first";
+      apply();
+    });
+
+    topicsNav.addEventListener("click", (e) => {
+      const btn = e.target.closest(".topic-tab");
+      if (!btn) return;
+      state.topic = btn.dataset.topic || "all";
+      topicsNav.querySelectorAll(".topic-tab").forEach((el) => el.classList.remove("active"));
+      btn.classList.add("active");
       apply();
     });
 

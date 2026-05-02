@@ -30,7 +30,7 @@ body {
   border-bottom: 1px solid var(--line);
   position: sticky;
   top: 0;
-  z-index: 10;
+  z-index: 20;
 }
 
 .topbar-inner {
@@ -49,21 +49,60 @@ body {
   font-size: 1.35rem;
 }
 
-.nav {
+.primary-nav {
   display: flex;
   gap: 14px;
   flex-wrap: wrap;
 }
 
-.nav a {
+.primary-nav a {
   text-decoration: none;
   color: #2e3736;
-  font-size: 0.92rem;
+  font-size: 0.8rem;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 800;
 }
 
-.nav a:hover {
+.primary-nav a:hover {
+  color: var(--brand-deep);
+}
+
+.topics-wrap {
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  background: #fff;
+}
+
+.topics-nav {
+  min-height: 48px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  overflow-x: auto;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.topic-tab {
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: #2e3736;
+  font-size: 0.77rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-weight: 800;
+  padding: 8px 11px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.topic-tab:hover {
+  color: var(--brand-deep);
+}
+
+.topic-tab.active {
+  background: #def8ec;
   color: var(--brand-deep);
 }
 
@@ -224,10 +263,6 @@ body {
   margin: 6px 0 10px;
 }
 
-.popular-list {
-  counter-reset: top;
-}
-
 .popular-list li {
   border-top: 1px solid var(--line);
   padding: 10px 0;
@@ -273,5 +308,9 @@ body {
 
   .brand {
     font-size: 1.15rem;
+  }
+
+  .primary-nav {
+    display: none;
   }
 }

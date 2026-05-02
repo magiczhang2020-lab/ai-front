@@ -40,9 +40,19 @@ function renderList(items) {
     .join("");
 }
 
+function uniqueSources(items) {
+  const set = new Set();
+  items.forEach((item) => {
+    if (item.source) set.add(item.source);
+  });
+  return [...set].sort((a, b) => a.localeCompare(b, "zh-CN"));
+}
+
 async function loadNews() {
   const updated = document.getElementById("last-updated");
+  const totalCount = document.getElementById("total-count");
   const searchInput = document.getElementById("search-input");
+  const sourceSelect = document.getElementById("source-select");
   const sortBtn = document.getElementById("sort-btn");
 
   try {
@@ -53,20 +63,25 @@ async function loadNews() {
     const allItems = Array.isArray(data.items) ? data.items.slice() : [];
 
     updated.textContent = `最后更新：${formatDate(data.updatedAt) || "未知"}`;
+    totalCount.textContent = `${allItems.length} 篇`;
 
-    if (allItems.length === 0) {
-      renderList([]);
-      return;
-    }
+    uniqueSources(allItems).forEach((source) => {
+      const op = document.createElement("option");
+      op.value = source;
+      op.textContent = source;
+      sourceSelect.appendChild(op);
+    });
 
     const state = {
       q: "",
+      source: "all",
       sort: "desc",
     };
 
     const apply = () => {
       const q = state.q.trim().toLowerCase();
       let items = allItems.filter((it) => {
+        if (state.source !== "all" && (it.source || "") !== state.source) return false;
         if (!q) return true;
         const hay = `${it.title || ""} ${it.source || ""}`.toLowerCase();
         return hay.includes(q);
@@ -77,11 +92,17 @@ async function loadNews() {
         return state.sort === "asc" ? diff : -diff;
       });
 
+      totalCount.textContent = `${items.length} / ${allItems.length} 篇`;
       renderList(items);
     };
 
     searchInput.addEventListener("input", (e) => {
       state.q = e.target.value;
+      apply();
+    });
+
+    sourceSelect.addEventListener("change", (e) => {
+      state.source = e.target.value;
       apply();
     });
 

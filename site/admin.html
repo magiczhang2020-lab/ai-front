@@ -86,9 +86,37 @@
         ].join("\n");
       }
 
+      async function loadConfigFrom(url) {
+        const res = await fetch(url, { cache: "no-store" });
+        const text = await res.text();
+        if (!res.ok) throw new Error(`HTTP ${res.status} @ ${url}`);
+        const trimmed = text.trim();
+        if (!trimmed.startsWith("{")) throw new Error(`non-json response @ ${url}`);
+        return JSON.parse(trimmed);
+      }
+
       async function loadCurrentConfig() {
-        const res = await fetch("news_config.json", { cache: "no-store" });
-        const cfg = await res.json();
+        const seg = location.pathname.split("/").filter(Boolean);
+        const repo = seg.length > 0 ? seg[0] : "";
+        const candidates = [
+          "news_config.json",
+          "./news_config.json",
+          repo ? `/${repo}/news_config.json` : "/news_config.json",
+          "../news_config.json",
+        ];
+
+        let cfg = null;
+        let lastErr = null;
+        for (const url of candidates) {
+          try {
+            cfg = await loadConfigFrom(url);
+            break;
+          } catch (e) {
+            lastErr = e;
+          }
+        }
+        if (!cfg) throw lastErr || new Error("failed to load config");
+
         el("max-items").value = cfg.maxItems || 40;
         el("feeds").value = (cfg.feeds || []).join("\n");
         el("blacklist").value = (cfg.blacklistKeywords || []).join("\n");
@@ -106,7 +134,7 @@
         try {
           await loadCurrentConfig();
         } catch (e) {
-          alert("读取当前配置失败，请手动填写。" + e.message);
+          alert("读取当前配置失败，请手动填写。错误: " + e.message);
         }
       });
 

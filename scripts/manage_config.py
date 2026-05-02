@@ -3,7 +3,7 @@ import argparse
 import json
 from pathlib import Path
 
-CONFIG_PATH = Path("config/news_config.json")
+CONFIG_PATH = Path("site/news_config.json")
 
 
 def load_config():

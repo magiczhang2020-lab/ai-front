@@ -7,7 +7,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
 
-CONFIG_PATH = Path("config/news_config.json")
+CONFIG_PATH = Path("site/news_config.json")
 OUTPUT_PATH = Path("site/news.json")
 
 DEFAULT_CONFIG = {

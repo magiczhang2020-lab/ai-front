@@ -49,7 +49,7 @@
             <button class="primary" id="download-btn">下载 news_config.json</button>
             <button class="muted" id="copy-btn">复制 JSON</button>
           </div>
-          <p class="tip">将导出的文件覆盖仓库里的 <code>config/news_config.json</code> 并提交，然后在 Actions 运行 Update AI News。</p>
+          <p class="tip">将导出的文件覆盖仓库里的 <code>site/news_config.json</code> 并提交，然后在 Actions 运行 Update AI News。</p>
         </div>
 
         <div class="card">
@@ -87,7 +87,7 @@
       }
 
       async function loadCurrentConfig() {
-        const res = await fetch("../config/news_config.json", { cache: "no-store" });
+        const res = await fetch("news_config.json", { cache: "no-store" });
         const cfg = await res.json();
         el("max-items").value = cfg.maxItems || 40;
         el("feeds").value = (cfg.feeds || []).join("\n");

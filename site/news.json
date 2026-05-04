@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-05-04T08:44:33.501519+00:00",
+  "updatedAt": "2026-05-04T15:33:36.588369+00:00",
   "items": [
+    {
+      "title": "As X shuts down Communities, Acorn debuts an alternative that puts creators in control",
+      "link": "https://techcrunch.com/2026/05/04/as-x-shuts-down-communities-acorn-debuts-an-alternative-that-puts-creators-in-control/",
+      "pubDate": "Mon, 04 May 2026 15:33:01 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+      "link": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
+      "pubDate": "Mon, 04 May 2026 14:30:23 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Amazon opens up its global logistics network to all businesses",
+      "link": "https://techcrunch.com/2026/05/04/amazon-opens-up-its-global-logistics-network-to-all-businesses/",
+      "pubDate": "Mon, 04 May 2026 14:13:53 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "5 days only: Bring a partner or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "link": "https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "pubDate": "Mon, 04 May 2026 14:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Barocal can cool your food and drink by squeezing a hunk of plastic crystals",
+      "link": "https://techcrunch.com/2026/05/04/barocal-can-cool-your-food-and-drink-by-squeezing-a-hunk-of-plastic-crystals/",
+      "pubDate": "Mon, 04 May 2026 13:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Doordash adds AI tools to speed up merchant onboarding, edit photos of dishes",
+      "link": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
+      "pubDate": "Mon, 04 May 2026 13:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Ouster’s new color lidar is coming to replace cameras",
+      "link": "https://techcrunch.com/2026/05/04/ousters-new-color-lidar-is-coming-to-replace-cameras/",
+      "pubDate": "Mon, 04 May 2026 10:00:00 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Nicolas Sauvage is betting on the boring parts of AI",
       "link": "https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/",
@@ -80,46 +122,70 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Musely secures $360M from General Catalyst without giving up equity",
-      "link": "https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/",
-      "pubDate": "Fri, 01 May 2026 22:39:05 +0000",
-      "source": "techcrunch.com"
+      "title": "DHS Demanded Google Surrender Data on Canadian’s Activity, Location Over Anti-ICE Posts",
+      "link": "https://www.wired.com/story/dhs-demanded-google-surrender-data-on-canadians-activity-location-over-anti-ice-posts/",
+      "pubDate": "Mon, 04 May 2026 14:45:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-      "link": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-      "pubDate": "Fri, 01 May 2026 22:13:27 +0000",
-      "source": "techcrunch.com"
+      "title": "Exclusive: Metalenz Has Figured Out a Way to Make Face ID Invisible",
+      "link": "https://www.wired.com/story/metalenz-has-figured-out-a-way-to-make-face-id-invisible/",
+      "pubDate": "Mon, 04 May 2026 14:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic",
-      "link": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
-      "pubDate": "Fri, 01 May 2026 18:23:04 +0000",
-      "source": "techcrunch.com"
+      "title": "RFK Jr.’s New Podcast Is as Weird as You’d Expect",
+      "link": "https://www.wired.com/story/rfk-jrs-new-podcast-is-as-weird-as-youd-expect/",
+      "pubDate": "Mon, 04 May 2026 11:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-      "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-      "pubDate": "Fri, 01 May 2026 16:02:36 +0000",
-      "source": "techcrunch.com"
+      "title": "Do Lightsaber Blades Have Mass?",
+      "link": "https://www.wired.com/story/do-lightsaber-blades-have-mass/",
+      "pubDate": "Mon, 04 May 2026 11:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Ubuntu services hit by outages after DDoS attack",
-      "link": "https://techcrunch.com/2026/05/01/ubuntu-services-hit-by-outages-after-ddos-attack/",
-      "pubDate": "Fri, 01 May 2026 15:00:14 +0000",
-      "source": "techcrunch.com"
+      "title": "What I Packed to Run 80 Miles Across the Italian Apennine Mountains",
+      "link": "https://www.wired.com/story/what-i-packed-to-run-80-miles-italian-apennine/",
+      "pubDate": "Mon, 04 May 2026 10:32:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Musk v. Altman is just getting started",
-      "link": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
-      "pubDate": "Fri, 01 May 2026 14:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "A Federal Worker Was Fired for Filming DOGE. Now She’s Running for Congress",
+      "link": "https://www.wired.com/story/a-federal-worker-was-fired-for-filming-doge-now-shes-running-for-congress/",
+      "pubDate": "Mon, 04 May 2026 10:30:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "People are finally using Reddit’s search",
-      "link": "https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/",
-      "pubDate": "Fri, 01 May 2026 12:00:11 +0000",
-      "source": "techcrunch.com"
+      "title": "Can Listening to ‘Subliminals’ Make You Beautiful? Plenty of Women Believe It",
+      "link": "https://www.wired.com/story/subliminals-tiktok-youtube-make-you-beautiful/",
+      "pubDate": "Mon, 04 May 2026 10:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Science Has Found Even More Ways Coffee Is Good for You",
+      "link": "https://www.wired.com/story/science-has-found-even-more-ways-coffee-is-good-for-you/",
+      "pubDate": "Mon, 04 May 2026 09:30:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "15 Best MagSafe Wireless Chargers (2026): Power Banks, Stands, Pads, and Travel Chargers",
+      "link": "https://www.wired.com/gallery/best-magsafe-wireless-chargers/",
+      "pubDate": "Mon, 04 May 2026 09:30:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Dating Is a Rich Person’s Game Now",
+      "link": "https://www.wired.com/story/dating-is-a-rich-persons-game-now/",
+      "pubDate": "Mon, 04 May 2026 09:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Welcome to the Great American Satellite Age",
+      "link": "https://www.wired.com/story/welcome-to-the-great-american-satellite-age/",
+      "pubDate": "Mon, 04 May 2026 09:00:00 +0000",
+      "source": "wired.com"
     },
     {
       "title": "The Best Star Wars Gifts for Everyone, From Padawans to Jedi Masters (2026)",
@@ -164,81 +230,15 @@
       "source": "wired.com"
     },
     {
-      "title": "Limited Time: TurboTax Full Service Coupons This May",
-      "link": "https://www.wired.com/story/turbotax-coupon/",
-      "pubDate": "Sun, 03 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Ulta Promo Codes: Up to 50% Off in May",
-      "link": "https://www.wired.com/story/ulta-coupon/",
-      "pubDate": "Sun, 03 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
       "title": "Top Rover Promo Codes and Referral Deals for May 2026",
       "link": "https://www.wired.com/story/rover-promo-code/",
       "pubDate": "Sun, 03 May 2026 05:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Castlery Promo Code: 15% Off in May 2026",
-      "link": "https://www.wired.com/story/castlery-promo-code/",
+      "title": "Limited Time: TurboTax Full Service Coupons This May",
+      "link": "https://www.wired.com/story/turbotax-coupon/",
       "pubDate": "Sun, 03 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Skullcandy Discount Code: 30% Off | May 2026",
-      "link": "https://www.wired.com/story/skullcandy-discount-code/",
-      "pubDate": "Sun, 03 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Shark Promo Code: $100 Off  | This May",
-      "link": "https://www.wired.com/story/shark-promo-code/",
-      "pubDate": "Sun, 03 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Tovala Family Meals Review: Good Food, Lots of Salt",
-      "link": "https://www.wired.com/review/tovala-oven-meal-kit-review-2026/",
-      "pubDate": "Sat, 02 May 2026 13:33:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "What You Need to Know About the Foreign-Made Router Ban in the US",
-      "link": "https://www.wired.com/story/us-government-foreign-made-router-ban-explained/",
-      "pubDate": "Sat, 02 May 2026 11:30:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Disneyland Now Uses Face Recognition on Visitors",
-      "link": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
-      "pubDate": "Sat, 02 May 2026 10:30:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "8 Best Travel Adapters (2026), Tested and Reviewed",
-      "link": "https://www.wired.com/gallery/best-travel-adapters/",
-      "pubDate": "Sat, 02 May 2026 10:30:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Apple AirPods Max 2 Review: The Best Over-Ears for iOS",
-      "link": "https://www.wired.com/review/apple-airpods-max-2/",
-      "pubDate": "Sat, 02 May 2026 10:14:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Ottocast Cabin Care Wireless CarPlay Adapter Review: Tiny Tracker",
-      "link": "https://www.wired.com/review/ottocast-cabin-care-wireless-carplay-adapter/",
-      "pubDate": "Sat, 02 May 2026 10:08:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "A Professional Bike Fitting Will Make You Want to Ride Even More",
-      "link": "https://www.wired.com/story/professional-bike-fitting-benefits/",
-      "pubDate": "Sat, 02 May 2026 10:00:00 +0000",
       "source": "wired.com"
     }
   ],

@@ -1,6 +1,84 @@
 {
-  "updatedAt": "2026-05-05T11:52:38.144683+00:00",
+  "updatedAt": "2026-05-05T17:08:19.939255+00:00",
   "items": [
+    {
+      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+      "link": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+      "pubDate": "Tue, 05 May 2026 17:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "PayPal says it’s ‘becoming a technology company again.’ That means AI.",
+      "link": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
+      "pubDate": "Tue, 05 May 2026 15:49:55 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Etsy launches its app within ChatGPT as it continues its AI push",
+      "link": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
+      "pubDate": "Tue, 05 May 2026 15:31:37 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Kaspersky suspects Chinese hackers planted a backdoor into Daemon Tools in ‘widespread’ attack",
+      "link": "https://techcrunch.com/2026/05/05/kaspersky-suspects-chinese-hackers-planted-a-backdoor-into-daemon-tools-in-widespread-attack/",
+      "pubDate": "Tue, 05 May 2026 15:20:24 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Hackers steal students’ data during breach at education tech giant Instructure",
+      "link": "https://techcrunch.com/2026/05/05/hackers-steal-students-data-during-breach-at-education-tech-giant-instructure/",
+      "pubDate": "Tue, 05 May 2026 14:31:50 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
+      "link": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
+      "pubDate": "Tue, 05 May 2026 14:27:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "ElevenLabs lists BlackRock, Jamie Foxx and Eva Longoria as new investors",
+      "link": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
+      "pubDate": "Tue, 05 May 2026 14:20:50 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
+      "link": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
+      "pubDate": "Tue, 05 May 2026 14:07:47 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "4 days left: Get 50% off a second TechCrunch Disrupt 2026 pass to make more deals faster",
+      "link": "https://techcrunch.com/2026/05/05/4-days-left-get-50-off-a-second-techcrunch-disrupt-2026-pass-to-make-more-deals-faster/",
+      "pubDate": "Tue, 05 May 2026 14:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "India’s first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
+      "link": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
+      "pubDate": "Tue, 05 May 2026 13:18:50 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Amazon bets Nobel Prize-based dehumidification can cut its energy use",
+      "link": "https://techcrunch.com/2026/05/05/amazon-bets-nobel-prize-based-dehumidification-can-cut-its-energy-use/",
+      "pubDate": "Tue, 05 May 2026 13:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Coinbase to lay off 14% of staff as part of broader restructuring",
+      "link": "https://techcrunch.com/2026/05/05/coinbase-to-lay-off-14-of-staff-as-part-of-broader-restructuring/",
+      "pubDate": "Tue, 05 May 2026 12:35:46 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Moment Energy raises $40M to meet ‘infinite demand for power’ with EV batteries",
+      "link": "https://techcrunch.com/2026/05/05/moment-energy-raises-40m-to-meet-infinite-demand-for-power-with-ev-batteries/",
+      "pubDate": "Tue, 05 May 2026 12:00:00 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
       "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
@@ -44,82 +122,28 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
-      "link": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
-      "pubDate": "Mon, 04 May 2026 16:57:47 +0000",
-      "source": "techcrunch.com"
+      "title": "The Italian Dubbing of ‘The Devil Wears Prada 2’ Has Stirred Up a Surprising Controversy",
+      "link": "https://www.wired.com/story/the-italian-dubbing-of-the-devil-wears-prada-2-has-stirred-up-a-surprising-controversy/",
+      "pubDate": "Tue, 05 May 2026 15:34:33 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
-      "link": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
-      "pubDate": "Mon, 04 May 2026 16:45:55 +0000",
-      "source": "techcrunch.com"
+      "title": "Pornhub Restores Access for UK Adults Who Use Apple’s Age Verification",
+      "link": "https://www.wired.com/story/pornhub-restores-access-for-uk-adults-who-use-apples-age-verification/",
+      "pubDate": "Tue, 05 May 2026 15:10:19 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
-      "link": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
-      "pubDate": "Mon, 04 May 2026 16:36:03 +0000",
-      "source": "techcrunch.com"
+      "title": "Bose Brings Back Its ‘Lifestyle’ Branding With New Speakers for the Home",
+      "link": "https://www.wired.com/story/bose-brings-back-its-lifestyle-branding-with-new-speakers-for-the-home/",
+      "pubDate": "Tue, 05 May 2026 12:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
-      "link": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
-      "pubDate": "Mon, 04 May 2026 15:59:24 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "As X shuts down Communities, Acorn debuts an alternative that puts creators in control",
-      "link": "https://techcrunch.com/2026/05/04/as-x-shuts-down-communities-acorn-debuts-an-alternative-that-puts-creators-in-control/",
-      "pubDate": "Mon, 04 May 2026 15:33:01 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
-      "link": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
-      "pubDate": "Mon, 04 May 2026 14:30:23 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Amazon opens up its global logistics network to all businesses",
-      "link": "https://techcrunch.com/2026/05/04/amazon-opens-up-its-global-logistics-network-to-all-businesses/",
-      "pubDate": "Mon, 04 May 2026 14:13:53 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "5 days only: Bring a partner or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "link": "https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-      "pubDate": "Mon, 04 May 2026 14:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Barocal can cool your food and drink by squeezing a hunk of plastic crystals",
-      "link": "https://techcrunch.com/2026/05/04/barocal-can-cool-your-food-and-drink-by-squeezing-a-hunk-of-plastic-crystals/",
-      "pubDate": "Mon, 04 May 2026 13:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
-      "link": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
-      "pubDate": "Mon, 04 May 2026 13:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Ouster’s new color lidar is coming to replace cameras",
-      "link": "https://techcrunch.com/2026/05/04/ousters-new-color-lidar-is-coming-to-replace-cameras/",
-      "pubDate": "Mon, 04 May 2026 10:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Nicolas Sauvage is betting on the boring parts of AI",
-      "link": "https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/",
-      "pubDate": "Mon, 04 May 2026 07:10:18 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "We’ll take it: A TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse",
-      "link": "https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/",
-      "pubDate": "Mon, 04 May 2026 02:02:25 +0000",
-      "source": "techcrunch.com"
+      "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
+      "link": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
+      "pubDate": "Tue, 05 May 2026 11:59:20 +0000",
+      "source": "wired.com"
     },
     {
       "title": "Murena /e/OS Tablet Review: Privacy for a Price",
@@ -215,30 +239,6 @@
       "title": "Design Within Reach Promo Codes: 30% Off | 2026",
       "link": "https://www.wired.com/story/design-within-reach-promo-code/",
       "pubDate": "Tue, 05 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Uplift Desk Coupon Codes & Discounts: Up to $570 Off",
-      "link": "https://www.wired.com/story/uplift-desk-coupon-code/",
-      "pubDate": "Tue, 05 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Visible Promo Code: Save Over $400 in May 2026",
-      "link": "https://www.wired.com/story/visible-promo-code/",
-      "pubDate": "Tue, 05 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’",
-      "link": "https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/",
-      "pubDate": "Mon, 04 May 2026 23:19:52 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "What the Spirit Airlines Implosion Means for Your Vacation",
-      "link": "https://www.wired.com/story/what-the-spirit-airlines-implosion-means-for-your-vacation/",
-      "pubDate": "Mon, 04 May 2026 23:00:55 +0000",
       "source": "wired.com"
     }
   ],

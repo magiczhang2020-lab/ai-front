@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-05-06T15:54:36.558778+00:00",
+  "updatedAt": "2026-05-06T20:54:01.065697+00:00",
   "items": [
+    {
+      "title": "Insurance startup Corgi hits $1.3B valuation 4 months after its Series A",
+      "link": "https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/",
+      "pubDate": "Wed, 06 May 2026 20:39:16 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Microsoft’s AI data center push is colliding with its clean power goals",
+      "link": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/",
+      "pubDate": "Wed, 06 May 2026 19:57:31 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says",
+      "link": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/",
+      "pubDate": "Wed, 06 May 2026 19:10:09 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+      "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+      "pubDate": "Wed, 06 May 2026 18:23:54 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "DOJ says ransomware gang tapped into Russian government databases",
+      "link": "https://techcrunch.com/2026/05/06/doj-says-ransomware-gang-tapped-into-russian-government-databases/",
+      "pubDate": "Wed, 06 May 2026 18:20:21 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
+      "link": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/",
+      "pubDate": "Wed, 06 May 2026 18:05:41 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
+      "link": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
+      "pubDate": "Wed, 06 May 2026 17:23:08 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "DeepSeek could hit $45B valuation from its first investment round",
+      "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+      "pubDate": "Wed, 06 May 2026 17:20:34 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Chrome on Android now supports approximate instead of precise location sharing",
       "link": "https://techcrunch.com/2026/05/06/chrome-on-android-now-supports-approximate-instead-of-precise-location-sharing/",
@@ -8,13 +56,13 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Google updates AI search to include ‘expert advice’ from Reddit and other web forums",
+      "title": "Google updates AI search to include quotes from Reddit and other sources",
       "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
       "pubDate": "Wed, 06 May 2026 15:49:39 +0000",
       "source": "techcrunch.com"
     },
     {
-      "title": "Khosla-backed robotics startup Genesis AI has gone full-stack, demo shows",
+      "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
       "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
       "pubDate": "Wed, 06 May 2026 15:46:38 +0000",
       "source": "techcrunch.com"
@@ -62,7 +110,7 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Some kids are bypassing age verification checks with a fake mustache",
+      "title": "Some kids are bypassing age-verification checks with a fake mustache",
       "link": "https://techcrunch.com/2026/05/06/some-kids-are-bypassing-age-verification-checks-with-a-fake-mustache/",
       "pubDate": "Wed, 06 May 2026 13:49:12 +0000",
       "source": "techcrunch.com"
@@ -74,55 +122,37 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
-      "link": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
-      "pubDate": "Wed, 06 May 2026 06:47:12 +0000",
-      "source": "techcrunch.com"
+      "title": "Trump’s Team Wants Him to Accept an Iran Deal He’s Already Rejected",
+      "link": "https://www.wired.com/story/trumps-team-wants-him-to-accept-an-iran-deal-hes-already-rejected/",
+      "pubDate": "Wed, 06 May 2026 19:32:03 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
-      "link": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
-      "pubDate": "Wed, 06 May 2026 06:34:32 +0000",
-      "source": "techcrunch.com"
+      "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
+      "link": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
+      "pubDate": "Wed, 06 May 2026 18:28:52 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Nuro receives driverless testing permit ahead of Uber robotaxi service launch",
-      "link": "https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/",
-      "pubDate": "Wed, 06 May 2026 00:07:47 +0000",
-      "source": "techcrunch.com"
+      "title": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
+      "link": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
+      "pubDate": "Wed, 06 May 2026 18:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
-      "link": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
-      "pubDate": "Tue, 05 May 2026 23:50:10 +0000",
-      "source": "techcrunch.com"
+      "title": "Mexico City Is Sinking. A Powerful NASA Satellite Just Revealed How Fast",
+      "link": "https://www.wired.com/story/mexico-city-is-sinking-a-powerful-nasa-satellite-just-exposed-how-fast/",
+      "pubDate": "Wed, 06 May 2026 17:35:06 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Bumble’s paying users are slipping as it bets on an overhaul later this year",
-      "link": "https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/",
-      "pubDate": "Tue, 05 May 2026 23:05:50 +0000",
-      "source": "techcrunch.com"
+      "title": "I Am Begging AI Companies to Stop Naming Features After Human Processes",
+      "link": "https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/",
+      "pubDate": "Wed, 06 May 2026 16:51:12 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
-      "link": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
-      "pubDate": "Tue, 05 May 2026 22:57:41 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Lucid Motors doesn’t know how many EVs it will build this year",
-      "link": "https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year/",
-      "pubDate": "Tue, 05 May 2026 22:31:57 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "As crypto cools, a16z crypto raises a $2.2B fund",
-      "link": "https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/",
-      "pubDate": "Tue, 05 May 2026 21:15:56 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Cybercriminals Are Complaining About AI Slop Flooding Their Forums",
+      "title": "Hackers Hate AI Slop Even More Than You Do",
       "link": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
       "pubDate": "Wed, 06 May 2026 15:49:12 +0000",
       "source": "wired.com"
@@ -206,39 +236,9 @@
       "source": "wired.com"
     },
     {
-      "title": "Boycotts Hurt Tesla’s Sales. Now, Activists Are Taking On Elon Musk’s SpaceX IPO",
+      "title": "Activists Are Taking On Elon Musk’s SpaceX IPO",
       "link": "https://www.wired.com/story/activists-call-for-boycott-of-spacex-ipo/",
       "pubDate": "Wed, 06 May 2026 09:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "1Password Coupon: Score a Free Trial in 2026",
-      "link": "https://www.wired.com/story/1password-coupon/",
-      "pubDate": "Wed, 06 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Bose Promo Code: 40% Off for May 2026",
-      "link": "https://www.wired.com/story/bose-coupon-code/",
-      "pubDate": "Wed, 06 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Hydrow Discount Code: Save Up to $150 | May 2026",
-      "link": "https://www.wired.com/story/hydrow-discount-code/",
-      "pubDate": "Wed, 06 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "AirDoctor Coupon Codes: 40% Off | May 2026",
-      "link": "https://www.wired.com/story/airdoctor-coupon-code/",
-      "pubDate": "Wed, 06 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Expedia Coupons: 75% Off",
-      "link": "https://www.wired.com/story/expedia-coupon/",
-      "pubDate": "Wed, 06 May 2026 05:00:00 +0000",
       "source": "wired.com"
     }
   ],

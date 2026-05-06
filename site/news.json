@@ -1,244 +1,244 @@
 {
-  "updatedAt": "2026-05-05T21:40:16.469962+00:00",
+  "updatedAt": "2026-05-06T15:54:36.558778+00:00",
   "items": [
     {
-      "title": "As crypto cools, a16zcrypto raises a $2.2B fund",
+      "title": "Chrome on Android now supports approximate instead of precise location sharing",
+      "link": "https://techcrunch.com/2026/05/06/chrome-on-android-now-supports-approximate-instead-of-precise-location-sharing/",
+      "pubDate": "Wed, 06 May 2026 15:54:06 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Google updates AI search to include ‘expert advice’ from Reddit and other web forums",
+      "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
+      "pubDate": "Wed, 06 May 2026 15:49:39 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Khosla-backed robotics startup Genesis AI has gone full-stack, demo shows",
+      "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+      "pubDate": "Wed, 06 May 2026 15:46:38 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
+      "link": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
+      "pubDate": "Wed, 06 May 2026 15:27:36 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
+      "link": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+      "pubDate": "Wed, 06 May 2026 15:12:49 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
+      "link": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
+      "pubDate": "Wed, 06 May 2026 15:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Aurora lands McLane deal to run driverless truck routes in Texas",
+      "link": "https://techcrunch.com/2026/05/06/aurora-lands-mclane-deal-to-run-driverless-truck-routes-in-texas/",
+      "pubDate": "Wed, 06 May 2026 14:56:55 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "At TechCrunch Disrupt 2026, all your M&A questions will be answered",
+      "link": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/",
+      "pubDate": "Wed, 06 May 2026 14:30:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
+      "pubDate": "Wed, 06 May 2026 14:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "AI boom pushes Samsung to $1T",
+      "link": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
+      "pubDate": "Wed, 06 May 2026 13:54:09 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Some kids are bypassing age verification checks with a fake mustache",
+      "link": "https://techcrunch.com/2026/05/06/some-kids-are-bypassing-age-verification-checks-with-a-fake-mustache/",
+      "pubDate": "Wed, 06 May 2026 13:49:12 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "reMarkable’s new Paper Pure tablet goes back to basics with a monochrome screen",
+      "link": "https://techcrunch.com/2026/05/06/remarkables-new-paper-pure-tablet-goes-back-to-basics-with-a-monochrome-screen/",
+      "pubDate": "Wed, 06 May 2026 12:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
+      "link": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
+      "pubDate": "Wed, 06 May 2026 06:47:12 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
+      "link": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
+      "pubDate": "Wed, 06 May 2026 06:34:32 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Nuro receives driverless testing permit ahead of Uber robotaxi service launch",
+      "link": "https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/",
+      "pubDate": "Wed, 06 May 2026 00:07:47 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+      "link": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+      "pubDate": "Tue, 05 May 2026 23:50:10 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Bumble’s paying users are slipping as it bets on an overhaul later this year",
+      "link": "https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/",
+      "pubDate": "Tue, 05 May 2026 23:05:50 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
+      "link": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+      "pubDate": "Tue, 05 May 2026 22:57:41 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Lucid Motors doesn’t know how many EVs it will build this year",
+      "link": "https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year/",
+      "pubDate": "Tue, 05 May 2026 22:31:57 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "As crypto cools, a16z crypto raises a $2.2B fund",
       "link": "https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/",
       "pubDate": "Tue, 05 May 2026 21:15:56 +0000",
       "source": "techcrunch.com"
     },
     {
-      "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
-      "link": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
-      "pubDate": "Tue, 05 May 2026 20:56:41 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
-      "link": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
-      "pubDate": "Tue, 05 May 2026 20:06:40 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Volkswagen becomes Rivian’s top shareholder, displacing Amazon",
-      "link": "https://techcrunch.com/2026/05/05/volkswagen-becomes-rivians-top-shareholder-displacing-amazon/",
-      "pubDate": "Tue, 05 May 2026 19:58:57 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Threads finally brings messaging to the web",
-      "link": "https://techcrunch.com/2026/05/05/threads-finally-brings-messaging-to-the-web/",
-      "pubDate": "Tue, 05 May 2026 18:34:20 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Airbnb co-founder taps Peter Arnell as first US chief brand architect",
-      "link": "https://techcrunch.com/2026/05/05/airbnb-co-founder-taps-peter-arnell-as-first-u-s-chief-brand-architect/",
-      "pubDate": "Tue, 05 May 2026 18:09:03 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
-      "link": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
-      "pubDate": "Tue, 05 May 2026 17:46:10 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
-      "link": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
-      "pubDate": "Tue, 05 May 2026 17:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
-      "link": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
-      "pubDate": "Tue, 05 May 2026 15:49:55 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Etsy launches its app within ChatGPT as it continues its AI push",
-      "link": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
-      "pubDate": "Tue, 05 May 2026 15:31:37 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Kaspersky suspects Chinese hackers planted a backdoor into Daemon Tools in ‘widespread’ attack",
-      "link": "https://techcrunch.com/2026/05/05/kaspersky-suspects-chinese-hackers-planted-a-backdoor-into-daemon-tools-in-widespread-attack/",
-      "pubDate": "Tue, 05 May 2026 15:20:24 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Hackers steal students’ data during breach at education tech giant Instructure",
-      "link": "https://techcrunch.com/2026/05/05/hackers-steal-students-data-during-breach-at-education-tech-giant-instructure/",
-      "pubDate": "Tue, 05 May 2026 14:31:50 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
-      "link": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
-      "pubDate": "Tue, 05 May 2026 14:27:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
-      "link": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
-      "pubDate": "Tue, 05 May 2026 14:20:50 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
-      "link": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
-      "pubDate": "Tue, 05 May 2026 14:07:47 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "4 days left: Get 50% off a second TechCrunch Disrupt 2026 pass to make more deals faster",
-      "link": "https://techcrunch.com/2026/05/05/4-days-left-get-50-off-a-second-techcrunch-disrupt-2026-pass-to-make-more-deals-faster/",
-      "pubDate": "Tue, 05 May 2026 14:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "India’s first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
-      "link": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
-      "pubDate": "Tue, 05 May 2026 13:18:50 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Amazon bets Nobel Prize-based dehumidification can cut its energy use",
-      "link": "https://techcrunch.com/2026/05/05/amazon-bets-nobel-prize-based-dehumidification-can-cut-its-energy-use/",
-      "pubDate": "Tue, 05 May 2026 13:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Coinbase to lay off 14% of staff as part of broader restructuring",
-      "link": "https://techcrunch.com/2026/05/05/coinbase-to-lay-off-14-of-staff-as-part-of-broader-restructuring/",
-      "pubDate": "Tue, 05 May 2026 12:35:46 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Moment Energy raises $40M to meet ‘infinite demand for power’ with EV batteries",
-      "link": "https://techcrunch.com/2026/05/05/moment-energy-raises-40m-to-meet-infinite-demand-for-power-with-ev-batteries/",
-      "pubDate": "Tue, 05 May 2026 12:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Telehealth Abortion Is Still Possible Without Mifepristone",
-      "link": "https://www.wired.com/story/telehealth-abortion-is-still-possible-without-mifepristone/",
-      "pubDate": "Tue, 05 May 2026 21:05:40 +0000",
+      "title": "Cybercriminals Are Complaining About AI Slop Flooding Their Forums",
+      "link": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
+      "pubDate": "Wed, 06 May 2026 15:49:12 +0000",
       "source": "wired.com"
     },
     {
-      "title": "The Italian Dubbing of ‘The Devil Wears Prada 2’ Has Stirred Up a Surprising Controversy",
-      "link": "https://www.wired.com/story/the-italian-dubbing-of-the-devil-wears-prada-2-has-stirred-up-a-surprising-controversy/",
-      "pubDate": "Tue, 05 May 2026 15:34:33 +0000",
+      "title": "Best Carry-On Suitcases (2026): Away, Rimowa, Tumi",
+      "link": "https://www.wired.com/story/best-carry-on-suitcases/",
+      "pubDate": "Wed, 06 May 2026 14:13:19 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Pornhub Restores Access for UK Adults Who Use Apple’s Age Verification",
-      "link": "https://www.wired.com/story/pornhub-restores-access-for-uk-adults-who-use-apples-age-verification/",
-      "pubDate": "Tue, 05 May 2026 15:10:19 +0000",
+      "title": "A Library Dedicated Solely to the Epstein Files Is Opening in New York",
+      "link": "https://www.wired.com/story/a-library-dedicated-solely-to-the-epstein-files-is-opening-in-new-york/",
+      "pubDate": "Wed, 06 May 2026 13:30:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Bose Brings Back Its ‘Lifestyle’ Branding With New Speakers for the Home",
-      "link": "https://www.wired.com/story/bose-brings-back-its-lifestyle-branding-with-new-speakers-for-the-home/",
-      "pubDate": "Tue, 05 May 2026 12:00:00 +0000",
+      "title": "Zest Maps Is the AI-Powered ‘Spiritual Successor to Foursquare’",
+      "link": "https://www.wired.com/story/zest-maps-is-the-second-coming-of-foursquare/",
+      "pubDate": "Wed, 06 May 2026 13:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
-      "link": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
-      "pubDate": "Tue, 05 May 2026 11:59:20 +0000",
+      "title": "7 Best Digital Notebooks (2026): reMarkable, Kobo, Kindle",
+      "link": "https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/",
+      "pubDate": "Wed, 06 May 2026 12:35:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Murena /e/OS Tablet Review: Privacy for a Price",
-      "link": "https://www.wired.com/review/murena-volla-tablet/",
-      "pubDate": "Tue, 05 May 2026 11:32:00 +0000",
+      "title": "ReMarkable Paper Pure Tablet Review: Back to Basics",
+      "link": "https://www.wired.com/review/remarkable-paper-pure/",
+      "pubDate": "Wed, 06 May 2026 12:02:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "The iPhone That Never Was",
-      "link": "https://www.wired.com/story/book-excerpt-david-epstein-inside-the-box-general-magic/",
-      "pubDate": "Tue, 05 May 2026 11:00:00 +0000",
+      "title": "Best Indoor Security Cameras (2026): For Homes and Apartments",
+      "link": "https://www.wired.com/gallery/best-security-cameras/",
+      "pubDate": "Wed, 06 May 2026 11:32:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "9 Best Portable Power Stations (2026): Power Capacity, Portability, Camping, and More",
-      "link": "https://www.wired.com/gallery/best-portable-power-stations/",
-      "pubDate": "Tue, 05 May 2026 11:00:00 +0000",
+      "title": "Best Webcams (2026): My Honest Take After Testing the Best",
+      "link": "https://www.wired.com/story/best-webcams/",
+      "pubDate": "Wed, 06 May 2026 11:02:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Best Gifts for Mom (2026): E-Readers, Digital Wall Calendar, Smart Bird Feeders",
-      "link": "https://www.wired.com/story/best-gifts-for-mom-2026/",
-      "pubDate": "Tue, 05 May 2026 10:31:00 +0000",
+      "title": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri’s AI Features",
+      "link": "https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/",
+      "pubDate": "Wed, 06 May 2026 10:41:37 +0000",
       "source": "wired.com"
     },
     {
-      "title": "The Secret to Amelia Dimoldenberg’s Online Superstardom? Control",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-amelia-dimoldenberg/",
-      "pubDate": "Tue, 05 May 2026 10:30:00 +0000",
+      "title": "Focal Mu-So Hekla Soundbar Review: Dolby Atmos With 1 Speaker",
+      "link": "https://www.wired.com/review/focal-muso-hekla/",
+      "pubDate": "Wed, 06 May 2026 10:30:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "He Couldn’t Land a Job Interview. Was AI to Blame?",
-      "link": "https://www.wired.com/story/he-couldnt-land-a-job-interview-was-ai-to-blame/",
-      "pubDate": "Tue, 05 May 2026 10:00:00 +0000",
+      "title": "Best Water Leak Detectors (2026): Moen, Phyn, TP-Link",
+      "link": "https://www.wired.com/gallery/best-water-leak-detectors/",
+      "pubDate": "Wed, 06 May 2026 10:28:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "The Best Food Gifts to Buy Online, as Tested by Our Tastebuds (2026)",
-      "link": "https://www.wired.com/gallery/the-best-food-gifts/",
-      "pubDate": "Tue, 05 May 2026 09:39:00 +0000",
+      "title": "Smeg Forte Stand Mixer Review: Big Power, Mixed Results",
+      "link": "https://www.wired.com/review/smeg-forte-stand-mixer/",
+      "pubDate": "Wed, 06 May 2026 10:04:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "The Best Sustainable Surf Gear (2026): Patagonia, Billabong, Outerknown",
-      "link": "https://www.wired.com/story/best-sustainable-surf-gear/",
-      "pubDate": "Tue, 05 May 2026 09:02:00 +0000",
+      "title": "Hasan Piker, Self-Described ‘Ayatollah of Woke,’ Wants AI to Die",
+      "link": "https://www.wired.com/story/hasan-piker-user-behavior/",
+      "pubDate": "Wed, 06 May 2026 10:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Loop Earplugs Discount Codes: 40% Off",
-      "link": "https://www.wired.com/story/loop-earplugs-discount-code/",
-      "pubDate": "Tue, 05 May 2026 05:00:00 +0000",
+      "title": "The Best Bed Frames, Tested in Our Own Rooms (2026)",
+      "link": "https://www.wired.com/story/best-bed-frames/",
+      "pubDate": "Wed, 06 May 2026 09:03:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Meta Quest Promo Codes: $50 Off | May 2026",
-      "link": "https://www.wired.com/story/meta-quest-promo-code/",
-      "pubDate": "Tue, 05 May 2026 05:00:00 +0000",
+      "title": "Boycotts Hurt Tesla’s Sales. Now, Activists Are Taking On Elon Musk’s SpaceX IPO",
+      "link": "https://www.wired.com/story/activists-call-for-boycott-of-spacex-ipo/",
+      "pubDate": "Wed, 06 May 2026 09:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "B&H Photo Promo Codes and Deals This May",
-      "link": "https://www.wired.com/story/bh-photo-coupon/",
-      "pubDate": "Tue, 05 May 2026 05:00:00 +0000",
+      "title": "1Password Coupon: Score a Free Trial in 2026",
+      "link": "https://www.wired.com/story/1password-coupon/",
+      "pubDate": "Wed, 06 May 2026 05:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Exclusive Lovehoney Discount Codes: 15% Off",
-      "link": "https://www.wired.com/story/lovehoney-discount-code/",
-      "pubDate": "Tue, 05 May 2026 05:00:00 +0000",
+      "title": "Bose Promo Code: 40% Off for May 2026",
+      "link": "https://www.wired.com/story/bose-coupon-code/",
+      "pubDate": "Wed, 06 May 2026 05:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Layla Sleep Coupon: Save Up to $600 in May 2026",
-      "link": "https://www.wired.com/story/layla-sleep-coupon/",
-      "pubDate": "Tue, 05 May 2026 05:00:00 +0000",
+      "title": "Hydrow Discount Code: Save Up to $150 | May 2026",
+      "link": "https://www.wired.com/story/hydrow-discount-code/",
+      "pubDate": "Wed, 06 May 2026 05:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Visible Promo Code: Save Over $400 in May 2026",
-      "link": "https://www.wired.com/story/visible-promo-code/",
-      "pubDate": "Tue, 05 May 2026 05:00:00 +0000",
+      "title": "AirDoctor Coupon Codes: 40% Off | May 2026",
+      "link": "https://www.wired.com/story/airdoctor-coupon-code/",
+      "pubDate": "Wed, 06 May 2026 05:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Design Within Reach Promo Codes: 30% Off | 2026",
-      "link": "https://www.wired.com/story/design-within-reach-promo-code/",
-      "pubDate": "Tue, 05 May 2026 05:00:00 +0000",
+      "title": "Expedia Coupons: 75% Off",
+      "link": "https://www.wired.com/story/expedia-coupon/",
+      "pubDate": "Wed, 06 May 2026 05:00:00 +0000",
       "source": "wired.com"
     }
   ],

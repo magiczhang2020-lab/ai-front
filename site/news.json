@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-05-12T08:14:27.727587+00:00",
+  "updatedAt": "2026-05-12T16:38:59.260983+00:00",
   "items": [
+    {
+      "title": "U.S. bank disclose security lapse after sharing customer data with AI app",
+      "link": "https://techcrunch.com/2026/05/12/u-s-bank-disclose-security-lapse-after-sharing-customer-data-with-ai-app/",
+      "pubDate": "Tue, 12 May 2026 16:36:44 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Threads tests a Meta AI integration that works similarly to Grok",
+      "link": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
+      "pubDate": "Tue, 12 May 2026 16:34:36 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen",
+      "link": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/",
+      "pubDate": "Tue, 12 May 2026 15:07:37 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Waymo issues recall to deal with a flooding problem",
+      "link": "https://techcrunch.com/2026/05/12/waymo-issues-recall-to-deal-with-a-flooding-problem/",
+      "pubDate": "Tue, 12 May 2026 14:47:17 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Instructure strikes deal with hackers who breached it twice",
+      "link": "https://techcrunch.com/2026/05/12/instructure-strikes-deal-with-hackers-who-breached-it-twice/",
+      "pubDate": "Tue, 12 May 2026 13:34:04 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Dessn raises $6M for its production focused design tool",
+      "link": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+      "pubDate": "Tue, 12 May 2026 13:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "TikTok now wants to be the place you book the trip you just saw on TikTok",
+      "link": "https://techcrunch.com/2026/05/12/tiktok-now-wants-to-be-the-place-you-book-the-trip-you-just-saw-on-tiktok/",
+      "pubDate": "Tue, 12 May 2026 13:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "AI is turning connected cars into pothole-finding machines",
+      "link": "https://techcrunch.com/2026/05/12/ai-is-turning-connected-cars-into-pothole-finding-machines/",
+      "pubDate": "Tue, 12 May 2026 13:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Spotify’s launches a Wrapped-style recap of your entire listening history",
+      "link": "https://techcrunch.com/2026/05/12/spotifys-launches-a-wrapped-style-recap-of-your-entire-listening-history/",
+      "pubDate": "Tue, 12 May 2026 12:44:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+      "link": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+      "pubDate": "Tue, 12 May 2026 11:30:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Amazon launches 30-minute delivery across the U.S.",
+      "link": "https://techcrunch.com/2026/05/12/amazon-expands-30-minute-delivery-across-the-u-s/",
+      "pubDate": "Tue, 12 May 2026 10:00:00 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Thinking Machines wants to build an AI that actually listens while it talks",
       "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
@@ -56,70 +122,58 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "TikTok launches an ad-free subscription plan in the UK",
-      "link": "https://techcrunch.com/2026/05/11/tiktok-launches-an-ad-free-subscription-plan-in-the-uk/",
-      "pubDate": "Mon, 11 May 2026 14:05:47 +0000",
-      "source": "techcrunch.com"
+      "title": "Trump Media Scales Back Plans for Its Own Prediction Market",
+      "link": "https://www.wired.com/story/trump-media-scales-back-plans-for-its-own-prediction-market/",
+      "pubDate": "Tue, 12 May 2026 15:57:02 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
-      "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
-      "pubDate": "Mon, 11 May 2026 13:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "All Your Hantavirus Questions, Answered by an Infectious Disease Expert",
+      "link": "https://www.wired.com/story/all-your-hantavirus-questions-answered-by-an-infectious-disease-expert/",
+      "pubDate": "Tue, 12 May 2026 15:33:59 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Discord launches Nitro Rewards, giving subscribers access to the base tier of Xbox Game Pass for no extra cost",
-      "link": "https://techcrunch.com/2026/05/11/discord-launches-nitro-rewards-giving-subscribers-access-to-the-base-tier-of-xbox-game-pass-for-no-extra-cost/",
-      "pubDate": "Mon, 11 May 2026 13:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Hantavirus Conspiracy Theories Are Already Spreading Online",
+      "link": "https://www.wired.com/story/hantavirus-conspiracy-theories-are-already-spreading-online/",
+      "pubDate": "Tue, 12 May 2026 14:53:56 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Venmo’s biggest makeover in years comes at a very interesting time",
-      "link": "https://techcrunch.com/2026/05/11/venmos-biggest-makeover-in-years-comes-at-a-very-interesting-time/",
-      "pubDate": "Mon, 11 May 2026 12:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Some Women Are Obsessively Testing Their Vaginas to Optimize Them",
+      "link": "https://www.wired.com/story/some-women-are-obsessively-testing-their-vaginas-to-optimize-them/",
+      "pubDate": "Tue, 12 May 2026 11:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Korea’s biggest manufacturers back Config, the TSMC of robot data",
-      "link": "https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/",
-      "pubDate": "Mon, 11 May 2026 10:58:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Why Soccer Still Defies Statistical Analysis",
+      "link": "https://www.wired.com/story/book-excerpt-how-to-watch-soccer-like-a-genius-nick-greene/",
+      "pubDate": "Tue, 12 May 2026 11:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Get ready for the whisper-filled office of the future",
-      "link": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
-      "pubDate": "Sun, 10 May 2026 21:15:30 +0000",
-      "source": "techcrunch.com"
+      "title": "The Creators of ‘Hacks’ Really, Really, Really Hate AI",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-hacks-cocreators-paul-w-downs-lucia-aniello/",
+      "pubDate": "Tue, 12 May 2026 10:30:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
-      "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
-      "pubDate": "Sun, 10 May 2026 20:40:41 +0000",
-      "source": "techcrunch.com"
+      "title": "Epson Lifestudio Grand Plus Review: Rich Colors, Gemini Support",
+      "link": "https://www.wired.com/review/epson-lifestudio-grand-plus/",
+      "pubDate": "Tue, 12 May 2026 10:30:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Uber has always wanted to be more than a ride; now it has reason to hurry",
-      "link": "https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/",
-      "pubDate": "Sun, 10 May 2026 18:08:54 +0000",
-      "source": "techcrunch.com"
+      "title": "Beatbot Pool-Cleaning Robots Are on Sale",
+      "link": "https://www.wired.com/story/beatbot-deals-may-2026/",
+      "pubDate": "Tue, 12 May 2026 10:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "TechCrunch Mobility: Lime’s IPO gamble",
-      "link": "https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/",
-      "pubDate": "Sun, 10 May 2026 16:05:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
-      "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
-      "pubDate": "Sun, 10 May 2026 15:34:25 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "The hottest place for startups to strike a deal? The F1 paddock",
-      "link": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
-      "pubDate": "Sun, 10 May 2026 15:13:07 +0000",
-      "source": "techcrunch.com"
+      "title": "What Happens When You Try to Treat OCD With Psilocybin",
+      "link": "https://www.wired.com/story/book-excerpt-how-to-not-know-simone-stolzoff/",
+      "pubDate": "Tue, 12 May 2026 10:00:00 +0000",
+      "source": "wired.com"
     },
     {
       "title": "Noom Promo Codes: 50% Off Best Deals & Free Trials for April 2026",
@@ -185,60 +239,6 @@
       "title": "Priceline Promo Codes: 10% Off May 2026",
       "link": "https://www.wired.com/story/priceline-promo-code/",
       "pubDate": "Tue, 12 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "30% Off Samsung Promo Code | May 2026",
-      "link": "https://www.wired.com/story/samsung-promo-codes/",
-      "pubDate": "Tue, 12 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Squarespace Promo Codes: 20% Off in May 2026",
-      "link": "https://www.wired.com/story/squarespace-promo-code/",
-      "pubDate": "Tue, 12 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’",
-      "link": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
-      "pubDate": "Mon, 11 May 2026 23:51:35 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Testing for ‘Bad Cholesterol’ Doesn’t Tell the Whole Story",
-      "link": "https://www.wired.com/story/moving-beyond-bad-cholesterol-test/",
-      "pubDate": "Mon, 11 May 2026 18:40:37 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "The FCC Received Hundreds of Complaints About Bad Bunny’s ‘Vulgar’ Super Bowl Performance",
-      "link": "https://www.wired.com/story/bad-bunny-super-bowl-fcc-complaints/",
-      "pubDate": "Mon, 11 May 2026 18:00:35 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "There’s an Unhinged New Video Game About Trump and the Iran War",
-      "link": "https://www.wired.com/story/video-game-trump-iran-war/",
-      "pubDate": "Mon, 11 May 2026 17:27:22 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "A New Hantavirus Vaccine Is in the Works",
-      "link": "https://www.wired.com/story/a-new-hantavirus-vaccine-is-in-the-works/",
-      "pubDate": "Mon, 11 May 2026 17:16:02 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Update Your iPhone Now for Better Encrypted Messaging With Android",
-      "link": "https://www.wired.com/story/update-your-iphone-now-for-better-encrypted-messaging-with-android/",
-      "pubDate": "Mon, 11 May 2026 17:06:53 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Papa Johns Is Getting Into Drone Delivery—but Not for Pizza",
-      "link": "https://www.wired.com/story/papa-johns-is-getting-into-drone-delivery-but-its-not-flying-pizza/",
-      "pubDate": "Mon, 11 May 2026 12:00:00 +0000",
       "source": "wired.com"
     }
   ],

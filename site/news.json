@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-05-14T09:17:16.406378+00:00",
+  "updatedAt": "2026-05-14T17:17:44.166157+00:00",
   "items": [
+    {
+      "title": "Cerebras raises $5.5B, kicking off 2026’s IPO season with a bang",
+      "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+      "pubDate": "Thu, 14 May 2026 16:30:02 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "OpenAI says hackers stole some data after latest code security issue",
+      "link": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
+      "pubDate": "Thu, 14 May 2026 16:25:20 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Spotify to adopt Apple’s new video podcast tech, offering creators easier cross-platform distribution",
+      "link": "https://techcrunch.com/2026/05/14/spotify-to-adopt-apples-new-video-podcast-tech-offering-creators-easier-cross-platform-distribution/",
+      "pubDate": "Thu, 14 May 2026 15:42:18 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
+      "link": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
+      "pubDate": "Thu, 14 May 2026 15:20:18 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "How to turn off Instagram’s new Instants feature and retract photos you accidentally shared",
+      "link": "https://techcrunch.com/2026/05/14/how-to-turn-of-instagrams-new-instants-feature-and-retract-photos-you-accidentally-shared/",
+      "pubDate": "Thu, 14 May 2026 15:06:39 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "A spyware investigator exposed Russian government hackers trying to hijack Signal accounts",
+      "link": "https://techcrunch.com/2026/05/14/a-spyware-investigator-exposed-russian-government-hackers-trying-to-hijack-signal-accounts/",
+      "pubDate": "Thu, 14 May 2026 14:07:40 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
+      "link": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+      "pubDate": "Thu, 14 May 2026 14:01:14 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Wirestock raises $23M to supply creative multi-modal data to AI labs",
+      "link": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
+      "pubDate": "Thu, 14 May 2026 14:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Two weeks left: Startup Battlefield 200 applications close May 27",
+      "link": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
+      "pubDate": "Thu, 14 May 2026 14:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Uber to open 2 campuses in India to support product development, operations",
+      "link": "https://techcrunch.com/2026/05/14/uber-to-open-2-campuses-in-india-to-support-product-development-operations/",
+      "pubDate": "Thu, 14 May 2026 13:43:27 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
       "link": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
@@ -62,64 +122,46 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Who trusts Sam Altman?",
-      "link": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
-      "pubDate": "Wed, 13 May 2026 16:31:04 +0000",
-      "source": "techcrunch.com"
+      "title": "AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It",
+      "link": "https://www.wired.com/story/ai-ruined-the-audemars-piguet-x-swatch-collaboration-china-could-save-it/",
+      "pubDate": "Thu, 14 May 2026 12:52:28 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
-      "link": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
-      "pubDate": "Wed, 13 May 2026 16:22:01 +0000",
-      "source": "techcrunch.com"
+      "title": "InstaFarm Automated Indoor Microgreens Garden Review: Easy Being Green",
+      "link": "https://www.wired.com/review/instafarm-automated-indoor-microgreens-garden/",
+      "pubDate": "Thu, 14 May 2026 11:02:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Anthropic courts a new kind of customer: small business owners",
-      "link": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
-      "pubDate": "Wed, 13 May 2026 16:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Gen Z Is Pioneering a New Understanding of Truth",
+      "link": "https://www.wired.com/story/book-excerpt-the-future-of-truth-steven-rosenbaum/",
+      "pubDate": "Thu, 14 May 2026 11:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Ransomware hackers claim breach at Foxconn, a major electronics manufacturer for Apple, Google, and Nvidia",
-      "link": "https://techcrunch.com/2026/05/13/ransomware-hackers-claim-breach-at-foxconn-a-major-electronics-manufacturer-for-apple-google-and-nvidia/",
-      "pubDate": "Wed, 13 May 2026 15:39:37 +0000",
-      "source": "techcrunch.com"
+      "title": "Klipsch the Fives II Speakers Review for Music, Movies, More (2026)",
+      "link": "https://www.wired.com/review/klipsch-the-fives-ii/",
+      "pubDate": "Thu, 14 May 2026 10:32:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
-      "link": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
-      "pubDate": "Wed, 13 May 2026 14:59:32 +0000",
-      "source": "techcrunch.com"
+      "title": "HelloFresh Meal Kit Review (2026): Vast Options, Good Execution",
+      "link": "https://www.wired.com/review/hellofresh-meal-kit-2026/",
+      "pubDate": "Thu, 14 May 2026 10:02:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Anduril raises $5B, doubles valuation to $61B",
-      "link": "https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/",
-      "pubDate": "Wed, 13 May 2026 14:44:25 +0000",
-      "source": "techcrunch.com"
+      "title": "Your iPhone Gets Stolen. Then the Hacking Begins",
+      "link": "https://www.wired.com/story/your-iphone-gets-stolen-then-the-hacking-begins/",
+      "pubDate": "Thu, 14 May 2026 10:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "r/WallStreetBets really hates the SEC’s proposal to weaken quarterly reporting",
-      "link": "https://techcrunch.com/2026/05/13/r-wallstreetbets-really-hates-the-secs-proposal-to-weaken-quarterly-reporting/",
-      "pubDate": "Wed, 13 May 2026 14:42:11 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "US lawmakers demand answers from Instructure after Canvas data breaches",
-      "link": "https://techcrunch.com/2026/05/13/us-lawmakers-demand-answers-from-instructure-after-canvas-data-breaches/",
-      "pubDate": "Wed, 13 May 2026 14:32:45 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
-      "link": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
-      "pubDate": "Wed, 13 May 2026 14:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher startup market",
-      "link": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/",
-      "pubDate": "Wed, 13 May 2026 14:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "These Instagram Ads Sure Seem to Be Selling Cocaine Accessories",
+      "link": "https://www.wired.com/story/it-sure-seems-like-these-instagram-ads-think-youre-doing-cocaine-all-wrong/",
+      "pubDate": "Thu, 14 May 2026 09:30:00 +0000",
+      "source": "wired.com"
     },
     {
       "title": "Meta’s New Reality: Record High Profits. Record Low Morale",
@@ -197,48 +239,6 @@
       "title": "eBay Coupons: 20% Off in May 2026",
       "link": "https://www.wired.com/story/ebay-coupon-code/",
       "pubDate": "Thu, 14 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Petlibro Offers: 60% Off in May",
-      "link": "https://www.wired.com/story/petlibro-discount-code/",
-      "pubDate": "Thu, 14 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Sealy Promo Codes: $100 Off",
-      "link": "https://www.wired.com/story/sealy-promo-code/",
-      "pubDate": "Thu, 14 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Newegg Promo Code: 10% Off in May 2026",
-      "link": "https://www.wired.com/story/newegg-promo-code/",
-      "pubDate": "Thu, 14 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Top Home Chef Promo Codes for May 2026",
-      "link": "https://www.wired.com/story/home-chef-promo-code/",
-      "pubDate": "Thu, 14 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Dermstore Promo Codes: 25% Off",
-      "link": "https://www.wired.com/story/dermstore-promo-code/",
-      "pubDate": "Thu, 14 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
-      "link": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/",
-      "pubDate": "Wed, 13 May 2026 21:58:47 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Instagram’s New Instants App Is a Snapchat Clone for Thirst Traps",
-      "link": "https://www.wired.com/story/instagrams-new-instants-app-is-a-snapchat-clone-for-thirst-traps/",
-      "pubDate": "Wed, 13 May 2026 20:49:17 +0000",
       "source": "wired.com"
     }
   ],

@@ -1,8 +1,56 @@
 {
-  "updatedAt": "2026-05-14T17:17:44.166157+00:00",
+  "updatedAt": "2026-05-14T21:55:18.163629+00:00",
   "items": [
     {
-      "title": "Cerebras raises $5.5B, kicking off 2026’s IPO season with a bang",
+      "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+      "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+      "pubDate": "Thu, 14 May 2026 21:30:44 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "OpenAI says Codex is coming to your phone",
+      "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+      "pubDate": "Thu, 14 May 2026 20:58:55 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Lovable just backed a company that’s looking to bring vibe coding to hardware",
+      "link": "https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/",
+      "pubDate": "Thu, 14 May 2026 20:43:03 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn’t take the meeting",
+      "link": "https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/",
+      "pubDate": "Thu, 14 May 2026 20:23:03 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "What happens when AI starts building itself?",
+      "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+      "pubDate": "Thu, 14 May 2026 19:57:20 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+      "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+      "pubDate": "Thu, 14 May 2026 19:12:03 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+      "link": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+      "pubDate": "Thu, 14 May 2026 19:05:01 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "YouTube viewers watch 2 billion hours of Shorts on TVs each month",
+      "link": "https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/",
+      "pubDate": "Thu, 14 May 2026 18:56:43 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
       "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
       "pubDate": "Thu, 14 May 2026 16:30:02 +0000",
       "source": "techcrunch.com"
@@ -44,7 +92,7 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Wirestock raises $23M to supply creative multi-modal data to AI labs",
+      "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
       "link": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
       "pubDate": "Thu, 14 May 2026 14:00:00 +0000",
       "source": "techcrunch.com"
@@ -74,52 +122,34 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Notion just turned its workspace into a hub for AI agents",
-      "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
-      "pubDate": "Wed, 13 May 2026 21:45:09 +0000",
-      "source": "techcrunch.com"
+      "title": "We Now Know How Many People the CDC Is Monitoring for Hantavirus",
+      "link": "https://www.wired.com/story/how-many-people-cdc-is-monitoring-for-hantavirus/",
+      "pubDate": "Thu, 14 May 2026 21:00:29 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
-      "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
-      "pubDate": "Wed, 13 May 2026 19:49:42 +0000",
-      "source": "techcrunch.com"
+      "title": "An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta",
+      "link": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/",
+      "pubDate": "Thu, 14 May 2026 20:27:34 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
-      "link": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
-      "pubDate": "Wed, 13 May 2026 19:28:06 +0000",
-      "source": "techcrunch.com"
+      "title": "Best Early Memorial Day Mattress Deals: Helix, Saatva (2026)",
+      "link": "https://www.wired.com/story/memorial-day-mattress-deals-2026/",
+      "pubDate": "Thu, 14 May 2026 20:20:06 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "This is what some of the world’s largest banks of malware look like stacked as hard drives",
-      "link": "https://techcrunch.com/2026/05/13/this-is-what-some-of-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/",
-      "pubDate": "Wed, 13 May 2026 18:12:29 +0000",
-      "source": "techcrunch.com"
+      "title": "Trump’s Tech Posse in China, Who’s Winning in Musk v. Altman, and Hantavirus Conspiracy Theories",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-trump-tech-posse-china-musk-v-altman-trial-hantavirus-conspiracy-theories/",
+      "pubDate": "Thu, 14 May 2026 19:04:47 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Geothermal startup Fervo Energy pops 33% in IPO debut fueled by AI data center demand",
-      "link": "https://techcrunch.com/2026/05/13/geothermal-startup-fervo-energy-pops-33-in-ipo-debut-fueled-by-ai-data-center-demand/",
-      "pubDate": "Wed, 13 May 2026 17:42:20 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "X launches a History tab for bookmarks, likes, videos, and articles",
-      "link": "https://techcrunch.com/2026/05/13/x-launches-a-history-tab-for-bookmarks-likes-videos-and-articles/",
-      "pubDate": "Wed, 13 May 2026 17:16:32 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Instagram’s new ‘Instants’ feature combines elements from Snapchat and BeReal",
-      "link": "https://techcrunch.com/2026/05/13/instagrams-new-instants-feature-combines-elements-from-snapchat-and-bereal/",
-      "pubDate": "Wed, 13 May 2026 16:57:40 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Rivian spinoff Mind Robotics raises another $400M",
-      "link": "https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/",
-      "pubDate": "Wed, 13 May 2026 16:34:21 +0000",
-      "source": "techcrunch.com"
+      "title": "Early Memorial Day Tech Deals: Sony, Apple, Beats (2026)",
+      "link": "https://www.wired.com/story/memorial-day-tech-deals-2026/",
+      "pubDate": "Thu, 14 May 2026 18:59:33 +0000",
+      "source": "wired.com"
     },
     {
       "title": "AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It",
@@ -182,12 +212,6 @@
       "source": "wired.com"
     },
     {
-      "title": "Mattress Promo Code: 20% Off │May",
-      "link": "https://www.wired.com/story/mattress-firm-coupon/",
-      "pubDate": "Thu, 14 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
       "title": "Birdfy Discount Codes: 15% Off Sitewide",
       "link": "https://www.wired.com/story/birdfy-discount-code/",
       "pubDate": "Thu, 14 May 2026 05:00:00 +0000",
@@ -212,32 +236,8 @@
       "source": "wired.com"
     },
     {
-      "title": "KitchenAid Promo Codes: Save Up to 20%",
-      "link": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
-      "pubDate": "Thu, 14 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Bartesian Discount Codes and Deals: Up to 35% Off",
-      "link": "https://www.wired.com/story/bartesian-discount-code/",
-      "pubDate": "Thu, 14 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Starz Promo Codes: $5 Off for May 2026",
-      "link": "https://www.wired.com/story/starz-promo-code/",
-      "pubDate": "Thu, 14 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Tuft & Needle Promo Codes: 30% Off | May 2026",
-      "link": "https://www.wired.com/story/tuft-and-needle-promo-code/",
-      "pubDate": "Thu, 14 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "eBay Coupons: 20% Off in May 2026",
-      "link": "https://www.wired.com/story/ebay-coupon-code/",
+      "title": "Mattress Promo Code: 20% Off │May",
+      "link": "https://www.wired.com/story/mattress-firm-coupon/",
       "pubDate": "Thu, 14 May 2026 05:00:00 +0000",
       "source": "wired.com"
     }

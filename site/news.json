@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-05-18T12:56:56.542143+00:00",
+  "updatedAt": "2026-05-18T19:13:57.033837+00:00",
   "items": [
+    {
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "pubDate": "Mon, 18 May 2026 17:34:43 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "NYC Health and Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
+      "link": "https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/",
+      "pubDate": "Mon, 18 May 2026 16:32:33 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Kin Health raises $9M to build an AI notetaker for patients",
+      "link": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
+      "pubDate": "Mon, 18 May 2026 15:26:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
+      "link": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+      "pubDate": "Mon, 18 May 2026 14:56:47 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom",
+      "link": "https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/",
+      "pubDate": "Mon, 18 May 2026 13:42:19 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "South Korea’s LetinAR is building optics behind AI glasses",
       "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
@@ -38,7 +68,7 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "The haves and have nots of the AI gold rush",
+      "title": "The haves and have-nots of the AI gold rush",
       "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
       "pubDate": "Sat, 16 May 2026 20:17:16 +0000",
       "source": "techcrunch.com"
@@ -92,34 +122,22 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "A hotel check-in system left a million passports and driver’s licenses open for anyone to see",
-      "link": "https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/",
-      "pubDate": "Fri, 15 May 2026 18:51:33 +0000",
-      "source": "techcrunch.com"
+      "title": "These 11 Automatic Cat Feeders Were the Best We Tested in 2026",
+      "link": "https://www.wired.com/gallery/best-automatic-cat-feeders/",
+      "pubDate": "Mon, 18 May 2026 18:06:12 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
-      "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
-      "pubDate": "Fri, 15 May 2026 18:14:44 +0000",
-      "source": "techcrunch.com"
+      "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
+      "link": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+      "pubDate": "Mon, 18 May 2026 17:40:30 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Tesla reveals two Robotaxi crashes involving teleoperators",
-      "link": "https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/",
-      "pubDate": "Fri, 15 May 2026 17:13:26 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-      "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-      "pubDate": "Fri, 15 May 2026 16:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Power prices are up 76% on America’s biggest grid, and a watchdog is pointing fingers",
-      "link": "https://techcrunch.com/2026/05/15/power-prices-are-up-76-on-americas-biggest-grid-and-a-watchdog-is-pointing-fingers/",
-      "pubDate": "Fri, 15 May 2026 15:45:53 +0000",
-      "source": "techcrunch.com"
+      "title": "The Catastrophic Swatch x Audemars Piguet Launch Was Entirely Predictable and Utterly Avoidable",
+      "link": "https://www.wired.com/story/the-catastrophic-swatch-x-audemars-piguet-launch-was-entirely-predictable-and-utterly-avoidable/",
+      "pubDate": "Mon, 18 May 2026 13:38:01 +0000",
+      "source": "wired.com"
     },
     {
       "title": "How to Watch Google I/O 2026",
@@ -221,24 +239,6 @@
       "title": "After Struggling With EVs, US Automakers Pivot to Energy",
       "link": "https://www.wired.com/story/after-struggling-with-evs-us-automakers-pivot-to-energy/",
       "pubDate": "Sat, 16 May 2026 10:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
-      "link": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/",
-      "pubDate": "Sat, 16 May 2026 09:30:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Asteroid 2026 JH2 Is About to Fly Right Past Earth—Relatively Speaking",
-      "link": "https://www.wired.com/story/asteroid-2026-jh2-is-about-to-fly-right-past-the-earth-relatively-speaking/",
-      "pubDate": "Sat, 16 May 2026 09:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Sportsman's Warehouse Promo Code: Save in May 2026",
-      "link": "https://www.wired.com/story/sportsmans-warehouse-promo-code/",
-      "pubDate": "Sat, 16 May 2026 05:00:00 +0000",
       "source": "wired.com"
     }
   ],

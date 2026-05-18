@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-05-18T19:13:57.033837+00:00",
+  "updatedAt": "2026-05-18T23:45:04.563608+00:00",
   "items": [
+    {
+      "title": "OSHA probing worker death at SpaceX’s Starbase site",
+      "link": "https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/",
+      "pubDate": "Mon, 18 May 2026 21:55:02 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+      "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "pubDate": "Mon, 18 May 2026 21:29:31 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "pubDate": "Mon, 18 May 2026 19:27:52 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
       "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
@@ -8,7 +26,7 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "NYC Health and Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
+      "title": "NYC Health + Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
       "link": "https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/",
       "pubDate": "Mon, 18 May 2026 16:32:33 +0000",
       "source": "techcrunch.com"
@@ -104,24 +122,6 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Users turn to jailbreaking their older Kindles as Amazon ends support",
-      "link": "https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/",
-      "pubDate": "Sat, 16 May 2026 14:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
-      "link": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
-      "pubDate": "Fri, 15 May 2026 20:30:20 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "General Catalyst posted VC rage bait and it worked, especially on a16z",
-      "link": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/",
-      "pubDate": "Fri, 15 May 2026 20:25:35 +0000",
-      "source": "techcrunch.com"
-    },
-    {
       "title": "These 11 Automatic Cat Feeders Were the Best We Tested in 2026",
       "link": "https://www.wired.com/gallery/best-automatic-cat-feeders/",
       "pubDate": "Mon, 18 May 2026 18:06:12 +0000",
@@ -131,6 +131,12 @@
       "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
       "link": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
       "pubDate": "Mon, 18 May 2026 17:40:30 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Leica Cine Play 1 Review: Pricey but Worth Every Penny",
+      "link": "https://www.wired.com/review/review-leica-cine-play-1/",
+      "pubDate": "Mon, 18 May 2026 14:33:00 +0000",
       "source": "wired.com"
     },
     {
@@ -233,12 +239,6 @@
       "title": "Best Indoor Garden Systems: I've Been Testing All Year (2026)",
       "link": "https://www.wired.com/gallery/best-indoor-gardening-systems/",
       "pubDate": "Sat, 16 May 2026 10:02:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "After Struggling With EVs, US Automakers Pivot to Energy",
-      "link": "https://www.wired.com/story/after-struggling-with-evs-us-automakers-pivot-to-energy/",
-      "pubDate": "Sat, 16 May 2026 10:00:00 +0000",
       "source": "wired.com"
     }
   ],

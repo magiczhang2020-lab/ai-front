@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-05-20T10:35:08.878043+00:00",
+  "updatedAt": "2026-05-20T19:34:56.346248+00:00",
   "items": [
+    {
+      "title": "Tesla’s Full Self-Driving software is creeping into Europe",
+      "link": "https://techcrunch.com/2026/05/20/teslas-full-self-driving-software-is-creeping-into-europe/",
+      "pubDate": "Wed, 20 May 2026 18:32:06 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Airbnb gets into hotels, expands AI for host onboarding and customer support",
+      "link": "https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/",
+      "pubDate": "Wed, 20 May 2026 18:14:04 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Global EV market goes K-shaped as the US gets left behind",
+      "link": "https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/",
+      "pubDate": "Wed, 20 May 2026 17:34:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "OpenAI barrels toward IPO that may happen in September",
+      "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+      "pubDate": "Wed, 20 May 2026 17:24:24 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Jeff Bezos, you were so close to making a good point",
+      "link": "https://techcrunch.com/2026/05/20/jeff-bezos-you-were-so-close-to-making-a-good-point/",
+      "pubDate": "Wed, 20 May 2026 17:10:31 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Customers say Trump Mobile is leaking their personal information",
+      "link": "https://techcrunch.com/2026/05/20/customers-say-trump-mobile-is-leaking-their-personal-information/",
+      "pubDate": "Wed, 20 May 2026 15:28:55 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Intuit to lay off over 3,000 employees to refocus on AI",
+      "link": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+      "pubDate": "Wed, 20 May 2026 15:14:31 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "AI search startups are blowing up",
+      "link": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
+      "pubDate": "Wed, 20 May 2026 15:04:45 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Stability AI releases a new audio model that can create 6-minute songs",
+      "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+      "pubDate": "Wed, 20 May 2026 15:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
+      "link": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
+      "pubDate": "Wed, 20 May 2026 14:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Startup Battlefield 200 applications close in 1 week: Window to nominate and apply for the most promising startups closes May 27",
+      "link": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-apply-for-the-most-promising-startups-closes-may-27/",
+      "pubDate": "Wed, 20 May 2026 14:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "GitHub says hackers stole data from thousands of internal repositories",
+      "link": "https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/",
+      "pubDate": "Wed, 20 May 2026 13:25:58 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Figma adds an AI assistant to its collaborative canvas",
+      "link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+      "pubDate": "Wed, 20 May 2026 13:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "This startup raised $43M to build a hive mind for ships",
+      "link": "https://techcrunch.com/2026/05/20/this-startup-raised-43m-to-build-a-hive-mind-for-ships/",
+      "pubDate": "Wed, 20 May 2026 13:00:00 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
       "link": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/",
@@ -38,88 +122,64 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
-      "link": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
-      "pubDate": "Tue, 19 May 2026 21:08:51 +0000",
-      "source": "techcrunch.com"
+      "title": "I Gave My OpenClaw Agent a Physical Body",
+      "link": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
+      "pubDate": "Wed, 20 May 2026 18:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
-      "link": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
-      "pubDate": "Tue, 19 May 2026 20:11:00 +0000",
-      "source": "techcrunch.com"
+      "title": "How Wet Weather in Argentina Helped Fuel the Cruise Ship Hantavirus Outbreak",
+      "link": "https://www.wired.com/story/climate-change-next-hantavirus-outbreak/",
+      "pubDate": "Wed, 20 May 2026 17:59:16 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses at IO 2026",
-      "link": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/",
-      "pubDate": "Tue, 19 May 2026 19:15:31 +0000",
-      "source": "techcrunch.com"
+      "title": "A New York Cop Got Injured at a Boxing Match. Now Madison Square Garden Is Banning His Lawyer",
+      "link": "https://www.wired.com/story/msg-bans-lawyer-representing-new-york-cop-injured-at-a-boxing-match/",
+      "pubDate": "Wed, 20 May 2026 16:24:52 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Google’s Genie world model can now simulate real streets with Street View",
-      "link": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
-      "pubDate": "Tue, 19 May 2026 17:51:39 +0000",
-      "source": "techcrunch.com"
+      "title": "It’s Officially Election Season in Trumpworld",
+      "link": "https://www.wired.com/story/after-kentucky-the-trump-white-house-has-its-sights-on-these-primaries/",
+      "pubDate": "Wed, 20 May 2026 15:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
-      "link": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
-      "pubDate": "Tue, 19 May 2026 17:51:30 +0000",
-      "source": "techcrunch.com"
+      "title": "‘Perfect Storm’: How Trump’s Aid Cuts Are Fueling the Ebola Outbreak",
+      "link": "https://www.wired.com/story/how-trumps-aid-cuts-are-fueling-the-ebola-outbreak/",
+      "pubDate": "Wed, 20 May 2026 13:16:22 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Google Search as you know it is over",
-      "link": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
-      "pubDate": "Tue, 19 May 2026 17:46:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Ride1Up Roadster Review (2026): An Ebike That Feels Like a Bike",
+      "link": "https://www.wired.com/review/ride1up-roadster-ebike-review/",
+      "pubDate": "Wed, 20 May 2026 12:33:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
-      "link": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
-      "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Hypershell X Ultra S Review: The Best Exoskeleton Yet",
+      "link": "https://www.wired.com/review/hypershell-x-ultra-s/",
+      "pubDate": "Wed, 20 May 2026 12:20:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
-      "link": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/",
-      "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
-      "source": "techcrunch.com"
+      "title": "How to Upgrade Weber and Kamado Joe Into Smart Grills",
+      "link": "https://www.wired.com/story/how-to-make-dumb-grills-into-smart-grills/",
+      "pubDate": "Wed, 20 May 2026 11:32:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
-      "link": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
-      "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Everything to Look for When Buying a New Laptop in 2026",
+      "link": "https://www.wired.com/story/how-to-buy-the-right-laptop-for-you/",
+      "pubDate": "Wed, 20 May 2026 11:01:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Google’s new Universal Cart wants to follow your entire shopping journey across the internet",
-      "link": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/",
-      "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026",
-      "link": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
-      "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Google adds voice-based prompting to Docs and Keep",
-      "link": "https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/",
-      "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026",
-      "link": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/",
-      "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Google’s Gemini Omni turns images, audio, and text into video — and that’s just the start",
-      "link": "https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/",
-      "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Trump Wants to Be the Hero Vapers Don’t Really Need",
+      "link": "https://www.wired.com/story/trump-wants-to-be-the-hero-vapers-dont-really-need/",
+      "pubDate": "Wed, 20 May 2026 11:00:00 +0000",
+      "source": "wired.com"
     },
     {
       "title": "Election Officials Are Getting Ready for ICE to Show Up at the Polls",
@@ -152,20 +212,8 @@
       "source": "wired.com"
     },
     {
-      "title": "Herman Miller Promo Code & Discounts: Save up to 40% in May 2026",
-      "link": "https://www.wired.com/story/herman-miller-promo-code/",
-      "pubDate": "Wed, 20 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
       "title": "Sony Coupons: 45% Off Sony Headphones, WF-1000XM6 Earbuds, and Sony Cameras for May",
       "link": "https://www.wired.com/story/sony-promo-code/",
-      "pubDate": "Wed, 20 May 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Stearns and Foster Promo Codes: $300 Off in May",
-      "link": "https://www.wired.com/story/stearns-and-foster-promo-code/",
       "pubDate": "Wed, 20 May 2026 05:00:00 +0000",
       "source": "wired.com"
     },
@@ -176,69 +224,21 @@
       "source": "wired.com"
     },
     {
+      "title": "Stearns and Foster Promo Codes: $300 Off in May",
+      "link": "https://www.wired.com/story/stearns-and-foster-promo-code/",
+      "pubDate": "Wed, 20 May 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Herman Miller Promo Code & Discounts: Save up to 40% in May 2026",
+      "link": "https://www.wired.com/story/herman-miller-promo-code/",
+      "pubDate": "Wed, 20 May 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
       "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
       "link": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/",
       "pubDate": "Tue, 19 May 2026 22:53:04 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "California’s Wildfire Season Is Already Overactive",
-      "link": "https://www.wired.com/story/californias-wildfire-season-already-overactive/",
-      "pubDate": "Tue, 19 May 2026 22:20:37 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
-      "link": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
-      "pubDate": "Tue, 19 May 2026 20:00:48 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Meta Employees Are Scrambling to Use Up Benefits Ahead of Layoffs",
-      "link": "https://www.wired.com/story/meta-employees-scramble-benefits-layoffs-ai/",
-      "pubDate": "Tue, 19 May 2026 19:00:46 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
-      "link": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
-      "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Google Makes It Easy to Deepfake Yourself",
-      "link": "https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/",
-      "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Hands-On With All of Google’s New Upcoming Android XR Smart Glasses",
-      "link": "https://www.wired.com/story/hands-on-with-all-of-google-new-upcoming-android-xr-smart-glasses/",
-      "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Google Search Goes Agentic—and Doesn’t Need You Anymore",
-      "link": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/",
-      "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Gemini Spark Is Google’s Response to OpenClaw’s 24/7 AI Agent",
-      "link": "https://www.wired.com/story/googles-response-to-openclaws-24-7-ai-agent/",
-      "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Former OpenAI Staffers Warn That xAI’s Poor Safety Record Could Complicate SpaceX’s IPO",
-      "link": "https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/",
-      "pubDate": "Tue, 19 May 2026 15:00:28 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "The Zuckerbergs Are Hiring a Lifeguard but Calling It a ‘Beach Water Person’",
-      "link": "https://www.wired.com/story/mark-zuckerberg-priscilla-chan-lifeguard-beach-water-person/",
-      "pubDate": "Tue, 19 May 2026 14:00:47 +0000",
       "source": "wired.com"
     }
   ],

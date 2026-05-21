@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-05-20T23:58:05.168293+00:00",
+  "updatedAt": "2026-05-21T11:56:22.257501+00:00",
   "items": [
+    {
+      "title": "Scammers are abusing an internal Microsoft account to send spam links",
+      "link": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+      "pubDate": "Thu, 21 May 2026 11:42:57 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Beauty booking startup Fresha hits $1 billion valuation with KKR backing",
+      "link": "https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/",
+      "pubDate": "Thu, 21 May 2026 11:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Truecaller gets into the eSIM business to diversify its revenue streams",
+      "link": "https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/",
+      "pubDate": "Thu, 21 May 2026 06:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "General Catalyst just led a $63M bet on India’s travel payments market",
+      "link": "https://techcrunch.com/2026/05/20/indian-travel-fintech-scapia-more-than-doubles-valuation-to-over-500m-in-a-year/",
+      "pubDate": "Thu, 21 May 2026 05:52:38 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering",
+      "link": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/",
+      "pubDate": "Thu, 21 May 2026 04:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+      "link": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+      "pubDate": "Thu, 21 May 2026 00:28:31 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Anthropic says it’s about to have its first profitable quarter",
+      "link": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "pubDate": "Thu, 21 May 2026 00:21:21 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center",
       "link": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
@@ -80,165 +122,123 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Global EV market goes K-shaped as the US gets left behind",
-      "link": "https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/",
-      "pubDate": "Wed, 20 May 2026 17:34:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "OpenAI barrels toward IPO that may happen in September",
-      "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
-      "pubDate": "Wed, 20 May 2026 17:24:24 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Jeff Bezos, you were so close to making a good point",
-      "link": "https://techcrunch.com/2026/05/20/jeff-bezos-you-were-so-close-to-making-a-good-point/",
-      "pubDate": "Wed, 20 May 2026 17:10:31 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Customers say Trump Mobile is leaking their personal information",
-      "link": "https://techcrunch.com/2026/05/20/customers-say-trump-mobile-is-leaking-their-personal-information/",
-      "pubDate": "Wed, 20 May 2026 15:28:55 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Intuit to lay off over 3,000 employees to refocus on AI",
-      "link": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
-      "pubDate": "Wed, 20 May 2026 15:14:31 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "AI search startups are blowing up",
-      "link": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
-      "pubDate": "Wed, 20 May 2026 15:04:45 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Stability AI releases a new audio model that can create 6-minute songs",
-      "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
-      "pubDate": "Wed, 20 May 2026 15:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "SpaceX Is Spending $2.8 Billion to Buy Gas Turbines for Its AI Data Centers",
-      "link": "https://www.wired.com/story/elon-musk-spacex-spending-gas-turbines-grok/",
-      "pubDate": "Wed, 20 May 2026 23:30:06 +0000",
+      "title": "5 Best Android Tablets in 2026: OnePlus, Lenovo, and Pixel Compared",
+      "link": "https://www.wired.com/story/the-best-android-tablets/",
+      "pubDate": "Thu, 21 May 2026 11:33:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "The Best Outdoor Deals From the REI Anniversary Sale 2026",
-      "link": "https://www.wired.com/story/rei-anniversary-sale-2026/",
-      "pubDate": "Wed, 20 May 2026 22:16:09 +0000",
+      "title": "3 Best Smart Ring Brands: Oura, RingConn, and Samsung (2026)",
+      "link": "https://www.wired.com/gallery/best-smart-rings/",
+      "pubDate": "Thu, 21 May 2026 11:01:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "A Bipartisan Amendment Would End Police License Plate Tracking Nationwide",
-      "link": "https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/",
-      "pubDate": "Wed, 20 May 2026 21:58:06 +0000",
+      "title": "Best Dyson Vacuums (2026): V15 Detect, Gen5Detect, PencilVac",
+      "link": "https://www.wired.com/gallery/best-dyson-vacuums/",
+      "pubDate": "Thu, 21 May 2026 10:38:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "SpaceX IPO Filing Reveals Anthropic Is Paying $15 Billion a Year to Access Its Data Centers",
-      "link": "https://www.wired.com/story/spacex-ipo-anthropic-compute-finances-risks/",
-      "pubDate": "Wed, 20 May 2026 21:43:40 +0000",
+      "title": "‘Margo’s Got Money Troubles’ Won TV’s OnlyFans Wars",
+      "link": "https://www.wired.com/story/margos-got-money-troubles-won-tvs-onlyfans-wars/",
+      "pubDate": "Thu, 21 May 2026 10:30:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "The 10 Best TV Shows to Stream This Month (May 2026)",
-      "link": "https://www.wired.com/story/the-10-best-shows-to-stream-right-now/",
-      "pubDate": "Wed, 20 May 2026 20:02:53 +0000",
+      "title": "4chan’s Misogynist ‘Wizards’ Are Nudifying Women by Request",
+      "link": "https://www.wired.com/story/4chans-misogynist-wizards-are-nudifying-women-by-request/",
+      "pubDate": "Thu, 21 May 2026 10:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "I Gave My OpenClaw Agent a Physical Body",
-      "link": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
-      "pubDate": "Wed, 20 May 2026 18:00:00 +0000",
+      "title": "Best Yoga Mats (2026): Lululemon, Manduka, JadeYoga",
+      "link": "https://www.wired.com/gallery/the-best-yoga-mat/",
+      "pubDate": "Thu, 21 May 2026 09:31:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "How Wet Weather in Argentina Helped Fuel the Cruise Ship Hantavirus Outbreak",
-      "link": "https://www.wired.com/story/climate-change-next-hantavirus-outbreak/",
-      "pubDate": "Wed, 20 May 2026 17:59:16 +0000",
+      "title": "The Department of Labor’s Faith Leader Is Now Also in Charge of Its Civil Rights Enforcement",
+      "link": "https://www.wired.com/story/the-department-of-labors-faith-leader-is-now-also-in-charge-of-its-civil-rights-enforcement/",
+      "pubDate": "Thu, 21 May 2026 09:30:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "A New York Cop Got Injured at a Boxing Match. Now Madison Square Garden Is Banning His Lawyer",
-      "link": "https://www.wired.com/story/msg-bans-lawyer-representing-new-york-cop-injured-at-a-boxing-match/",
-      "pubDate": "Wed, 20 May 2026 16:24:52 +0000",
+      "title": "The Best Home Security System Is Modular (2026)",
+      "link": "https://www.wired.com/story/simplisafe-rave-2026/",
+      "pubDate": "Thu, 21 May 2026 09:01:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "It’s Officially Election Season in Trumpworld",
-      "link": "https://www.wired.com/story/after-kentucky-the-trump-white-house-has-its-sights-on-these-primaries/",
-      "pubDate": "Wed, 20 May 2026 15:00:00 +0000",
+      "title": "A Hacker Group Is Poisoning Open Source Code at an Unprecedented Scale",
+      "link": "https://www.wired.com/story/teampcp-software-supply-chain-attack-spree-github/",
+      "pubDate": "Thu, 21 May 2026 09:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "‘Perfect Storm’: How Trump’s Aid Cuts Are Fueling the Ebola Outbreak",
-      "link": "https://www.wired.com/story/how-trumps-aid-cuts-are-fueling-the-ebola-outbreak/",
-      "pubDate": "Wed, 20 May 2026 13:16:22 +0000",
+      "title": "The EU Is Going Through a Trump-Fueled Breakup With Big Tech",
+      "link": "https://www.wired.com/story/the-eu-is-going-through-a-trump-fueled-breakup-with-big-tech/",
+      "pubDate": "Thu, 21 May 2026 06:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Ride1Up Roadster Review (2026): An Ebike That Feels Like a Bike",
-      "link": "https://www.wired.com/review/ride1up-roadster-ebike-review/",
-      "pubDate": "Wed, 20 May 2026 12:33:00 +0000",
+      "title": "Columbia Promo Codes: 15% Off | May 2026",
+      "link": "https://www.wired.com/story/columbia-promo-code/",
+      "pubDate": "Thu, 21 May 2026 05:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Hypershell X Ultra S Review: The Best Exoskeleton Yet",
-      "link": "https://www.wired.com/review/hypershell-x-ultra-s/",
-      "pubDate": "Wed, 20 May 2026 12:20:00 +0000",
+      "title": "Sam's Club Coupons and Promo May 2026",
+      "link": "https://www.wired.com/story/sams-club-coupon/",
+      "pubDate": "Thu, 21 May 2026 05:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "How to Upgrade Weber and Kamado Joe Into Smart Grills",
-      "link": "https://www.wired.com/story/how-to-make-dumb-grills-into-smart-grills/",
-      "pubDate": "Wed, 20 May 2026 11:32:00 +0000",
+      "title": "The Motley Fool Promo Code: Save Up to $200 on Stock Advisor May 2026",
+      "link": "https://www.wired.com/story/the-motley-fool-promo-code/",
+      "pubDate": "Thu, 21 May 2026 05:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Everything to Look for When Buying a New Laptop in 2026",
-      "link": "https://www.wired.com/story/how-to-buy-the-right-laptop-for-you/",
-      "pubDate": "Wed, 20 May 2026 11:01:00 +0000",
+      "title": "Chirp Discount Codes: Save Up to 67%",
+      "link": "https://www.wired.com/story/chirp-discount-code/",
+      "pubDate": "Thu, 21 May 2026 05:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Trump Wants to Be the Hero Vapers Don’t Really Need",
-      "link": "https://www.wired.com/story/trump-wants-to-be-the-hero-vapers-dont-really-need/",
-      "pubDate": "Wed, 20 May 2026 11:00:00 +0000",
+      "title": "L.L.Bean Promo Codes and Coupons: 75% Off",
+      "link": "https://www.wired.com/story/ll-bean-promo-code/",
+      "pubDate": "Thu, 21 May 2026 05:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Election Officials Are Getting Ready for ICE to Show Up at the Polls",
-      "link": "https://www.wired.com/story/election-officials-are-getting-ready-for-ice-to-show-up-midterms/",
-      "pubDate": "Wed, 20 May 2026 10:00:00 +0000",
+      "title": "15% Off Adidas Promo Code | May 2026",
+      "link": "https://www.wired.com/story/adidas-promo-code/",
+      "pubDate": "Thu, 21 May 2026 05:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Data Brokers’ and AI Firms’ Opt-Out Forms Are Built to Fail, Report Finds",
-      "link": "https://www.wired.com/story/data-brokers-and-ai-firms-opt-out-forms-are-built-to-fail-report-finds/",
-      "pubDate": "Wed, 20 May 2026 09:00:00 +0000",
+      "title": "Hulu Promo Codes & Discounts: 20% Off in May",
+      "link": "https://www.wired.com/story/hulu-promo-code/",
+      "pubDate": "Thu, 21 May 2026 05:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Dell Coupon Codes: 20% Off for May 2026",
-      "link": "https://www.wired.com/story/dell-coupon-code/",
-      "pubDate": "Wed, 20 May 2026 05:00:00 +0000",
+      "title": "Vitamix Promo Codes and Deals: $25 Off + Free Shipping",
+      "link": "https://www.wired.com/story/vitamix-promo-code/",
+      "pubDate": "Thu, 21 May 2026 05:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "LG Promo Codes and Coupons for May 2026",
-      "link": "https://www.wired.com/story/lg-promo-code/",
-      "pubDate": "Wed, 20 May 2026 05:00:00 +0000",
+      "title": "Castlery Promo Codes: 15% Off for May 2026",
+      "link": "https://www.wired.com/story/castlery-promo-code/",
+      "pubDate": "Thu, 21 May 2026 05:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "NordVPN Coupons and Deals: 77% Off in May 2026",
-      "link": "https://www.wired.com/story/nordvpn-coupon/",
-      "pubDate": "Wed, 20 May 2026 05:00:00 +0000",
+      "title": "SpaceX Listed Grok’s ‘Spicy’ Mode as a Risk in Its IPO Filing",
+      "link": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/",
+      "pubDate": "Thu, 21 May 2026 00:43:13 +0000",
       "source": "wired.com"
     }
   ],

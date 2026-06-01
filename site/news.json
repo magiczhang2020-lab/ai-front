@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-06-01T05:54:44.316208+00:00",
+  "updatedAt": "2026-06-01T11:14:29.860699+00:00",
   "items": [
+    {
+      "title": "Unastella, a South Korean rocket startup that launched from home, raises $24M",
+      "link": "https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/",
+      "pubDate": "Mon, 01 Jun 2026 10:00:00 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Erin Brockovich takes aim at data center secrecy",
       "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
@@ -116,10 +122,40 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-      "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "pubDate": "Fri, 29 May 2026 18:49:19 +0000",
-      "source": "techcrunch.com"
+      "title": "Universal Audio Volt 876 USB Audio Interface Review: Pro-Level Polish",
+      "link": "https://www.wired.com/review/universal-audio-volt-876-usb-audio-interface/",
+      "pubDate": "Mon, 01 Jun 2026 11:06:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Norse Atlantic Airways Offers Dirt-Cheap Tickets. There’s a Catch",
+      "link": "https://www.wired.com/story/norse-airlines-ftc-complaints-ai-scams/",
+      "pubDate": "Mon, 01 Jun 2026 11:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "‘Sexual Chocolate’ Faces Recalls After FDA Tests Reveal Undisclosed Viagra",
+      "link": "https://www.wired.com/story/sexual-chocolate-recalls-fda-undisclosed-viagra/",
+      "pubDate": "Mon, 01 Jun 2026 10:30:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "The Romance Scammer Who Made a Small Fortune Posing as a WWE Superstar",
+      "link": "https://www.wired.com/story/wired-book-club-excerpt-the-yahoo-boys-carlos-barragan/",
+      "pubDate": "Mon, 01 Jun 2026 10:30:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "The Painful Truth About Long Covid",
+      "link": "https://www.wired.com/story/the-painful-truth-about-long-covid/",
+      "pubDate": "Mon, 01 Jun 2026 10:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Websites Can Now Spy on You Through Your Hard Drive",
+      "link": "https://www.wired.com/story/websites-can-now-spy-on-you-through-your-hard-drive/",
+      "pubDate": "Mon, 01 Jun 2026 09:30:00 +0000",
+      "source": "wired.com"
     },
     {
       "title": "Everyone Has Their Targets Set on the MacBook Neo",
@@ -203,42 +239,6 @@
       "title": "Is the Ferrari Luce’s Design Really That Bad? 3 Italian Auto Experts Weigh In",
       "link": "https://www.wired.com/story/is-the-ferrari-luce-design-really-bad-we-ask-3-italian-auto-experts/",
       "pubDate": "Sat, 30 May 2026 09:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Nike World Cup Uniforms Made of Recycled Textiles Won’t Solve Fashion Waste",
-      "link": "https://www.wired.com/story/nike-recycled-world-cup-uniforms/",
-      "pubDate": "Sat, 30 May 2026 08:30:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "24 Best Father’s Day Gifts for Dads (2026)",
-      "link": "https://www.wired.com/story/the-best-gifts-for-dads-2026/",
-      "pubDate": "Fri, 29 May 2026 22:44:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious",
-      "link": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/",
-      "pubDate": "Fri, 29 May 2026 20:56:59 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "The White House’s Aliens.gov Site Brags That ICE Arrested More Than 700 US Citizens",
-      "link": "https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/",
-      "pubDate": "Fri, 29 May 2026 20:53:09 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "‘We’re Just Getting the Crumbs Here’: Contractors Protest Layoffs at Meta’s European Headquarters",
-      "link": "https://www.wired.com/story/meta-covalen-protest-strike-dublin/",
-      "pubDate": "Fri, 29 May 2026 20:18:01 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
-      "link": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
-      "pubDate": "Fri, 29 May 2026 19:07:46 +0000",
       "source": "wired.com"
     }
   ],

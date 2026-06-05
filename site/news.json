@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-06-05T14:31:52.446047+00:00",
+  "updatedAt": "2026-06-05T17:09:26.779189+00:00",
   "items": [
+    {
+      "title": "Supabase doubles valuation to $10B in 8 months",
+      "link": "https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/",
+      "pubDate": "Fri, 05 Jun 2026 16:32:27 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person",
+      "link": "https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/",
+      "pubDate": "Fri, 05 Jun 2026 16:07:46 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+      "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "pubDate": "Fri, 05 Jun 2026 14:49:12 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "NASA briefly sheltered space station astronauts in SpaceX’s Dragon due to leaks",
+      "link": "https://techcrunch.com/2026/06/05/nasa-briefly-sheltered-space-station-astronauts-in-spacexs-dragon-due-to-leaks/",
+      "pubDate": "Fri, 05 Jun 2026 14:42:52 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
+      "link": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
+      "pubDate": "Fri, 05 Jun 2026 14:32:57 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
       "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
@@ -92,34 +122,52 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Cash App launches a wand for tap-and-pay",
-      "link": "https://techcrunch.com/2026/06/04/cash-app-launches-a-wand-for-tap-and-pay/",
-      "pubDate": "Thu, 04 Jun 2026 16:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Logitech G512 X 98 Review: A Hybrid Mish-Mash",
+      "link": "https://www.wired.com/review/logitech-g512-x-98/",
+      "pubDate": "Fri, 05 Jun 2026 16:10:56 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Waymo’s spent robotaxi batteries will be used as grid storage",
-      "link": "https://techcrunch.com/2026/06/04/waymos-spent-robotaxi-batteries-will-be-used-as-grid-storage/",
-      "pubDate": "Thu, 04 Jun 2026 15:48:41 +0000",
-      "source": "techcrunch.com"
+      "title": "13 Environmentally Conscious Packing Tips for Your Next Vacation",
+      "link": "https://www.wired.com/story/environmentally-conscious-packing-tips/",
+      "pubDate": "Fri, 05 Jun 2026 16:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story",
-      "link": "https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/",
-      "pubDate": "Thu, 04 Jun 2026 15:08:34 +0000",
-      "source": "techcrunch.com"
+      "title": "How to Spot Greenwashing Claims When You Travel",
+      "link": "https://www.wired.com/story/how-to-spot-greenwashing-when-you-travel/",
+      "pubDate": "Fri, 05 Jun 2026 16:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
-      "link": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
-      "pubDate": "Thu, 04 Jun 2026 15:05:00 +0000",
-      "source": "techcrunch.com"
+      "title": "So Long, ‘Ferrynoia.’ Green Maritime Technology Is Here",
+      "link": "https://www.wired.com/story/so-long-ferrynoia-green-maritime-technology-is-here/",
+      "pubDate": "Fri, 05 Jun 2026 16:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Chinese spies are using LinkedIn to lure Westerners into sharing sensitive information",
-      "link": "https://techcrunch.com/2026/06/04/chinese-spies-are-using-linkedin-to-lure-westerners-into-sharing-sensitive-information/",
-      "pubDate": "Thu, 04 Jun 2026 14:57:41 +0000",
-      "source": "techcrunch.com"
+      "title": "This Summer Travel Season Could Forever Alter the Future of Sustainable Aviation Fuel",
+      "link": "https://www.wired.com/story/summer-travel-season-sustainable-aviation-fuel/",
+      "pubDate": "Fri, 05 Jun 2026 16:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "How a Citizen Science Organization Aims to Preserve the Places It Brings Tourists to Study",
+      "link": "https://www.wired.com/story/preserving-the-places-tourists-go-to-study/",
+      "pubDate": "Fri, 05 Jun 2026 16:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "The DOGE Boys Get VC Funding to Support Their Latest Enterprise",
+      "link": "https://www.wired.com/story/the-doge-boys-get-vc-funding-to-support-their-latest-enterprise/",
+      "pubDate": "Fri, 05 Jun 2026 15:07:11 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Has Microsoft Lost Its Mojo (Again)?",
+      "link": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
+      "pubDate": "Fri, 05 Jun 2026 15:00:00 +0000",
+      "source": "wired.com"
     },
     {
       "title": "Inside Madonna’s Horny, Full-Throttle Grindr Takeover",
@@ -190,54 +238,6 @@
     {
       "title": "Mattress Firm Coupons: Save up to $600",
       "link": "https://www.wired.com/story/mattress-firm-coupon/",
-      "pubDate": "Fri, 05 Jun 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Booking.com Promo Codes: 20% Off | June 2026",
-      "link": "https://www.wired.com/story/booking-com-promo-code/",
-      "pubDate": "Fri, 05 Jun 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Vimeo Promo Codes and Discounts: Up to 40% Off This June 2026",
-      "link": "https://www.wired.com/story/vimeo-promo-code/",
-      "pubDate": "Fri, 05 Jun 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Hydrow Discount Code: Save Up to $150 | June 2026",
-      "link": "https://www.wired.com/story/hydrow-discount-code/",
-      "pubDate": "Fri, 05 Jun 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Therabody Promo Codes: 15% Off June 2026",
-      "link": "https://www.wired.com/story/therabody-promo-code/",
-      "pubDate": "Fri, 05 Jun 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Instacart Promo Code: $15 Off | June 2026",
-      "link": "https://www.wired.com/story/instacart-promo/code/",
-      "pubDate": "Fri, 05 Jun 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Uplift Promo Codes: $570 Off",
-      "link": "https://www.wired.com/story/uplift-desk-coupon-code/",
-      "pubDate": "Fri, 05 Jun 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Design Within Reach Promo Codes: 30% Off | June 2026",
-      "link": "https://www.wired.com/story/design-within-reach-promo-code/",
-      "pubDate": "Fri, 05 Jun 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Acer Promo Codes: 40% Off",
-      "link": "https://www.wired.com/story/acer-promo-code/",
       "pubDate": "Fri, 05 Jun 2026 05:00:00 +0000",
       "source": "wired.com"
     }

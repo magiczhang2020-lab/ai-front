@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-06-08T20:04:54.262413+00:00",
+  "updatedAt": "2026-06-08T22:20:24.283661+00:00",
   "items": [
+    {
+      "title": "Following Anthropic, OpenAI files confidentially for IPO",
+      "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "pubDate": "Mon, 08 Jun 2026 21:29:57 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Apple plays catch-up at WWDC",
+      "link": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+      "pubDate": "Mon, 08 Jun 2026 21:15:42 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Apple bets cheaper AI will woo small developers",
+      "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+      "pubDate": "Mon, 08 Jun 2026 20:53:55 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Waymo bought Apple’s self-driving car proving ground for $220M",
+      "link": "https://techcrunch.com/2026/06/08/waymo-bought-apples-self-driving-car-proving-ground-for-220m/",
+      "pubDate": "Mon, 08 Jun 2026 20:50:55 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Microsoft’s open source tools were hacked to steal passwords of AI developers",
       "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
@@ -14,7 +38,7 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Pentagon says Alibaba, Baidu, BYD and Unitree support China’s military",
+      "title": "Pentagon says Alibaba, Baidu, BYD, and Unitree support China’s military",
       "link": "https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/",
       "pubDate": "Mon, 08 Jun 2026 18:57:49 +0000",
       "source": "techcrunch.com"
@@ -98,28 +122,16 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "NotebookLM’s new update will help you build source repository from chat",
-      "link": "https://techcrunch.com/2026/06/08/notebooklms-new-update-will-help-you-build-source-repository-from-chat/",
-      "pubDate": "Mon, 08 Jun 2026 16:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
+      "link": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
+      "pubDate": "Mon, 08 Jun 2026 21:31:58 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Amazon now lets you design custom merch using AI",
-      "link": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
-      "pubDate": "Mon, 08 Jun 2026 15:49:12 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "WhatsApp says it caught new spyware attacks linked to NSO Group in violation of court order",
-      "link": "https://techcrunch.com/2026/06/08/whatsapp-says-it-caught-new-spyware-attacks-linked-to-nso-group-in-violation-of-court-order/",
-      "pubDate": "Mon, 08 Jun 2026 15:37:31 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "WWDC 2026: What to expect, from Siri’s highly anticipated revamp to Apple Intelligence and iOS 27",
-      "link": "https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/",
-      "pubDate": "Mon, 08 Jun 2026 15:34:59 +0000",
-      "source": "techcrunch.com"
+      "title": "Polymarket and Kalshi Say Influencer Partners Can’t Deny Election Results, Actually",
+      "link": "https://www.wired.com/story/kalshi-polymarket-influencer-election-denial-spencer-pratt/",
+      "pubDate": "Mon, 08 Jun 2026 21:23:27 +0000",
+      "source": "wired.com"
     },
     {
       "title": "Everything Apple Announced at WWDC 2026",
@@ -227,18 +239,6 @@
       "title": "Anti-Vax Dating Apps Are Going IRL. People Are Mad as Hell About It",
       "link": "https://www.wired.com/story/anti-vax-dating-apps-are-going-irl-people-are-mad-as-hell-about-it/",
       "pubDate": "Sat, 06 Jun 2026 11:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "2 Best Bluetooth Trackers of 2026, Plus Honorable Mentions",
-      "link": "https://www.wired.com/story/the-best-bluetooth-trackers/",
-      "pubDate": "Sat, 06 Jun 2026 10:38:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
-      "link": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
-      "pubDate": "Sat, 06 Jun 2026 10:30:00 +0000",
       "source": "wired.com"
     }
   ],

@@ -1,10 +1,82 @@
 {
-  "updatedAt": "2026-06-16T12:06:25.613666+00:00",
+  "updatedAt": "2026-06-16T18:01:14.469227+00:00",
   "items": [
+    {
+      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+      "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+      "pubDate": "Tue, 16 Jun 2026 18:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Mobileye’s US robotaxi launch will put it on both sides of the AV business",
+      "link": "https://techcrunch.com/2026/06/16/mobileye-us-robotaxi-launch-will-put-it-on-both-sides-of-the-av-business/",
+      "pubDate": "Tue, 16 Jun 2026 17:50:23 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Rivian cuts hundreds of workers after R2 deliveries start",
+      "link": "https://techcrunch.com/2026/06/16/rivian-cuts-hundreds-of-workers-after-r2-deliveries-start/",
+      "pubDate": "Tue, 16 Jun 2026 17:48:20 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Snap finally debuts its long-awaited AR glasses, Specs, and, oof, they aren’t cheap",
+      "link": "https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/",
+      "pubDate": "Tue, 16 Jun 2026 17:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+      "link": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+      "pubDate": "Tue, 16 Jun 2026 16:49:44 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "SpaceX is public: Everything you need to know post-IPO",
+      "link": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
+      "pubDate": "Tue, 16 Jun 2026 15:53:12 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "India orders temporary ban on Telegram over exam fraud concerns",
       "link": "https://techcrunch.com/2026/06/16/india-temporarily-blocks-access-to-telegram-over-exam-fraud-concerns/",
-      "pubDate": "Tue, 16 Jun 2026 11:33:35 +0000",
+      "pubDate": "Tue, 16 Jun 2026 15:49:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Payments startup Flutterwave hits $3.2B valuation, backed by Ripple",
+      "link": "https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/",
+      "pubDate": "Tue, 16 Jun 2026 15:35:39 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
+      "link": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+      "pubDate": "Tue, 16 Jun 2026 15:05:03 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+      "link": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+      "pubDate": "Tue, 16 Jun 2026 15:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
+      "link": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+      "pubDate": "Tue, 16 Jun 2026 14:50:09 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "SpaceX passes Amazon as valuation balloons to $2.7T",
+      "link": "https://techcrunch.com/2026/06/16/spacex-passes-amazon-as-valuation-balloons-to-2-7t/",
+      "pubDate": "Tue, 16 Jun 2026 13:48:37 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Probably raises $9M to build a more reliable kind of AI",
+      "link": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+      "pubDate": "Tue, 16 Jun 2026 13:15:09 +0000",
       "source": "techcrunch.com"
     },
     {
@@ -50,195 +122,123 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
-      "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
-      "pubDate": "Mon, 15 Jun 2026 18:30:58 +0000",
-      "source": "techcrunch.com"
+      "title": "‘Dangerous’ AI Models Are Coming No Matter What",
+      "link": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
+      "pubDate": "Tue, 16 Jun 2026 17:50:52 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "SpaceX is public: Everything you need to know post-IPO",
-      "link": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
-      "pubDate": "Mon, 15 Jun 2026 18:30:34 +0000",
-      "source": "techcrunch.com"
+      "title": "Nimble’s New Modular Power Bank Can Be Shared With a Friend",
+      "link": "https://www.wired.com/story/nimble-sharepower-rave/",
+      "pubDate": "Tue, 16 Jun 2026 17:44:27 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "These are the countries moving to ban social media for children",
-      "link": "https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/",
-      "pubDate": "Mon, 15 Jun 2026 17:41:02 +0000",
-      "source": "techcrunch.com"
+      "title": "The Future of Home",
+      "link": "https://www.wired.com/future-of-home/",
+      "pubDate": "Tue, 16 Jun 2026 17:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
-      "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
-      "pubDate": "Mon, 15 Jun 2026 15:29:51 +0000",
-      "source": "techcrunch.com"
+      "title": "One Climate Change Innovation: Just Look Up",
+      "link": "https://www.wired.com/story/tom-kundig-mississippi-delta/",
+      "pubDate": "Tue, 16 Jun 2026 16:58:47 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "SpaceX’s biggest-ever IPO just grew to $85.7 billion raised",
-      "link": "https://techcrunch.com/2026/06/15/spacexs-biggest-ever-ipo-just-grew-to-85-7-billion-raised/",
-      "pubDate": "Mon, 15 Jun 2026 14:45:03 +0000",
-      "source": "techcrunch.com"
+      "title": "You Can Finally Buy Snap’s New AR Specs—for $2,195",
+      "link": "https://www.wired.com/story/snaps-new-ar-specs-cost-2195/",
+      "pubDate": "Tue, 16 Jun 2026 16:50:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "UK unveils sweeping social media ban for users under 16",
-      "link": "https://techcrunch.com/2026/06/15/uk-unveils-sweeping-social-media-ban-for-users-under-16/",
-      "pubDate": "Mon, 15 Jun 2026 14:36:56 +0000",
-      "source": "techcrunch.com"
+      "title": "Best Robot Vacuum of 2026: Shark, Eufy",
+      "link": "https://www.wired.com/story/best-robot-vacuum/",
+      "pubDate": "Tue, 16 Jun 2026 16:27:18 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
-      "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
-      "pubDate": "Mon, 15 Jun 2026 14:34:45 +0000",
-      "source": "techcrunch.com"
+      "title": "Around the World, These Building Solutions Keep Things Local",
+      "link": "https://www.wired.com/story/building-solutions-around-the-world/",
+      "pubDate": "Tue, 16 Jun 2026 15:25:06 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
-      "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
-      "pubDate": "Mon, 15 Jun 2026 13:46:08 +0000",
-      "source": "techcrunch.com"
+      "title": "Verizon Simplicity, Verizon Shine, and Verizon Dollars: What You Need to Know",
+      "link": "https://www.wired.com/story/verizon-simplicity-plan/",
+      "pubDate": "Tue, 16 Jun 2026 15:06:22 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Fox to acquire Roku in $22B deal",
-      "link": "https://techcrunch.com/2026/06/15/fox-to-acquire-roku-in-22-billion-deal/",
-      "pubDate": "Mon, 15 Jun 2026 13:43:05 +0000",
-      "source": "techcrunch.com"
+      "title": "In Praise of a Dumb House",
+      "link": "https://www.wired.com/story/in-praise-of-a-dumb-house/",
+      "pubDate": "Tue, 16 Jun 2026 15:03:35 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
-      "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-      "pubDate": "Mon, 15 Jun 2026 13:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "10 Designers Share the Trends Defining Dwellings of Tomorrow",
+      "link": "https://www.wired.com/story/10-designers-share-the-trends-defining-the-homes-of-tomorrow/",
+      "pubDate": "Tue, 16 Jun 2026 14:52:34 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "A satellite just learned to find things on its own — here’s what that means",
-      "link": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
-      "pubDate": "Mon, 15 Jun 2026 12:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "The Death of the Starter Home",
+      "link": "https://www.wired.com/story/what-happened-to-the-starter-home/",
+      "pubDate": "Tue, 16 Jun 2026 14:35:43 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "The AI layoff wave is becoming a powder keg",
-      "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
-      "pubDate": "Mon, 15 Jun 2026 07:25:41 +0000",
-      "source": "techcrunch.com"
+      "title": "What Do Americans Spend on Housing?",
+      "link": "https://www.wired.com/story/home-survey-renters-homeowners-affordability-crisis/",
+      "pubDate": "Tue, 16 Jun 2026 14:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "My Father Wants to Age in Place. AI Will Be Watching",
+      "link": "https://www.wired.com/story/sensi-ai-seniors-home-care-aging-in-place/",
+      "pubDate": "Tue, 16 Jun 2026 14:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Traditional Home Insurance Is Collapsing. Here’s What Could Fill the Gap",
+      "link": "https://www.wired.com/story/ai-assisted-parametric-insurance-climate-change/",
+      "pubDate": "Tue, 16 Jun 2026 14:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "What Do We Need From Our Homes Right Now?",
+      "link": "https://www.wired.com/story/wired-architectural-digest-future-of-home-editors-letter/",
+      "pubDate": "Tue, 16 Jun 2026 14:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Need a New Lamp? Here Are 7 Bright Ideas",
+      "link": "https://www.wired.com/story/gallery-lamps-to-brighten-your-home/",
+      "pubDate": "Tue, 16 Jun 2026 14:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Designing the Dream House of an 87-Year-Old Tech Visionary",
+      "link": "https://www.wired.com/story/stewart-brand-whole-earth-catalog-house-petaluma/",
+      "pubDate": "Tue, 16 Jun 2026 14:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "The New Surface Laptop and Surface Pro Get New Chips, Colors, and Pricing",
+      "link": "https://www.wired.com/story/new-surface-laptop-and-surface-pro-get-faster-more-expensive/",
+      "pubDate": "Tue, 16 Jun 2026 13:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Paramount Refused to Air an Ad Criticizing Its Merger With Warner Bros.",
+      "link": "https://www.wired.com/story/paramount-refused-to-air-an-ad-criticizing-its-merger-with-warner-bros/",
+      "pubDate": "Tue, 16 Jun 2026 13:00:00 +0000",
+      "source": "wired.com"
     },
     {
       "title": "15 Best Office Chairs of 2026— We Tested 70 to Pick Them",
-      "link": "https://www.wired.com/gallery/best-office-chairs/",
+      "link": "https://www.wired.com/gallery/best-office-chairs-button-1/",
       "pubDate": "Tue, 16 Jun 2026 11:03:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "TikTok Shoppers Thought They Were Bidding on iPhones. Instead, They Won Teddy Bears",
-      "link": "https://www.wired.com/story/tiktok-surprise-sets-iphones-teddy-bears/",
-      "pubDate": "Tue, 16 Jun 2026 11:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Amazfit Cheetah 2 Ultra Smartwatch Review (2026): Solid Off-Road Performer",
-      "link": "https://www.wired.com/review/amazfit-cheetah-2-ultra/",
-      "pubDate": "Tue, 16 Jun 2026 10:31:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Streamer IShowSpeed Is Gen Z’s ESPN",
-      "link": "https://www.wired.com/story/big-interview-ishowspeed-world-cup/",
-      "pubDate": "Tue, 16 Jun 2026 10:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "‘Pretty Crazy’ Token Usage Is Testing Bosses’ Bet on AI",
-      "link": "https://www.wired.com/story/claude-tokens-compute-cost-code-8x8/",
-      "pubDate": "Tue, 16 Jun 2026 09:30:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "The Commodore Callback 8020 Is a Digital Detox Phone That Isn’t Dumb",
-      "link": "https://www.wired.com/story/commodore-callback-8020-is-a-digital-detox-phone-that-isnt-dumb/",
-      "pubDate": "Tue, 16 Jun 2026 09:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Qobuz Is the Anti-Spotify Music Streamer You’ve Been Waiting For",
-      "link": "https://www.wired.com/story/qobuz-is-the-anti-spotify-we-need-right-now/",
-      "pubDate": "Tue, 16 Jun 2026 06:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Google Workspace Promo Codes: 14% Off for June",
-      "link": "https://www.wired.com/story/google-workspace-promo-code/",
-      "pubDate": "Tue, 16 Jun 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "NZXT Discount Codes: 50% Off in June 2026",
-      "link": "https://www.wired.com/story/nzxt-discount-code/",
-      "pubDate": "Tue, 16 Jun 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Birdfy Discount Codes: 15% Off Sitewide",
-      "link": "https://www.wired.com/story/birdfy-discount-code/",
-      "pubDate": "Tue, 16 Jun 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Hungryroot Coupon Codes: 30% Off This June",
-      "link": "https://www.wired.com/story/hungryroot-promo-code/",
-      "pubDate": "Tue, 16 Jun 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Medicube Coupon Code: 40% Off for June 2026",
-      "link": "https://www.wired.com/story/medicube-coupon-code/",
-      "pubDate": "Tue, 16 Jun 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Booking.com Promo Codes: 20% Off | June 2026",
-      "link": "https://www.wired.com/story/booking-com-promo-code/",
-      "pubDate": "Tue, 16 Jun 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Sportsman's Warehouse Promo Code: Save in June 2026",
-      "link": "https://www.wired.com/story/sportsmans-warehouse-promo-code/",
-      "pubDate": "Tue, 16 Jun 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Foreo Discount Codes and Deals: Up to 50% Off",
-      "link": "https://www.wired.com/story/foreo-promo-code/",
-      "pubDate": "Tue, 16 Jun 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Govee Discount Codes and Deals: 30% Off",
-      "link": "https://www.wired.com/story/govee-discount-code/",
-      "pubDate": "Tue, 16 Jun 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Total Wireless Promo Codes & Deals: 50% Off Select Plans",
-      "link": "https://www.wired.com/story/total-wireless-promo-code/",
-      "pubDate": "Tue, 16 Jun 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Shed Rain Coupon: 15% Off",
-      "link": "https://www.wired.com/story/shed-rain-coupon/",
-      "pubDate": "Tue, 16 Jun 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Petlibro Offers: 60% Off in June",
-      "link": "https://www.wired.com/story/petlibro-discount-code/",
-      "pubDate": "Tue, 16 Jun 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Sealy Promo Codes: $100 Off",
-      "link": "https://www.wired.com/story/sealy-promo-code/",
-      "pubDate": "Tue, 16 Jun 2026 05:00:00 +0000",
       "source": "wired.com"
     }
   ],

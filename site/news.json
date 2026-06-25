@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-06-25T17:05:53.442909+00:00",
+  "updatedAt": "2026-06-25T19:48:28.194345+00:00",
   "items": [
+    {
+      "title": "Xbox follows Apple with price increases",
+      "link": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/",
+      "pubDate": "Thu, 25 Jun 2026 19:39:55 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Notion Mail shuts down amid agent takeover",
+      "link": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
+      "pubDate": "Thu, 25 Jun 2026 19:14:46 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most",
+      "link": "https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/",
+      "pubDate": "Thu, 25 Jun 2026 17:52:05 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "pubDate": "Thu, 25 Jun 2026 17:38:27 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
       "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
@@ -20,7 +44,7 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Parker Conrad knows which employees are worth their AI spend and says Rippling can help you, too",
+      "title": "Rippling now wants to be your entire data stack",
       "link": "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/",
       "pubDate": "Thu, 25 Jun 2026 16:00:00 +0000",
       "source": "techcrunch.com"
@@ -98,31 +122,19 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
-      "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
-      "pubDate": "Wed, 24 Jun 2026 22:41:41 +0000",
-      "source": "techcrunch.com"
+      "title": "We're Live-Blogging For The Real Heads Still Shopping Amazon Prime Day",
+      "link": "https://www.wired.com/live/amazon-prime-day-live-tracker-july-25-2026/",
+      "pubDate": "Thu, 25 Jun 2026 19:13:33 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
-      "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-      "pubDate": "Wed, 24 Jun 2026 21:56:41 +0000",
-      "source": "techcrunch.com"
+      "title": "A Fatal Tesla Crash in Texas Sets Up a Legal Showdown",
+      "link": "https://www.wired.com/story/a-fatal-tesla-crash-in-texas-sets-up-a-legal-showdown/",
+      "pubDate": "Thu, 25 Jun 2026 17:52:51 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "AI researchers continue to leave Google for its rivals",
-      "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-      "pubDate": "Wed, 24 Jun 2026 21:42:07 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "The memory chip crunch is paying off for this US company",
-      "link": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
-      "pubDate": "Wed, 24 Jun 2026 21:30:55 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "The Aerogarden I Recommend to Everyone Is Just $83 Right Now, a 63% Discount",
+      "title": "The Aerogarden I Recommend to Everyone Is Just $83 Right Now, a 63 Percent Discount",
       "link": "https://www.wired.com/story/amazon-prime-day-aerogarden-deal-2026/",
       "pubDate": "Thu, 25 Jun 2026 16:54:55 +0000",
       "source": "wired.com"
@@ -164,14 +176,14 @@
       "source": "wired.com"
     },
     {
-      "title": "Apple and Audi Alumni Have Made a Luxe EV Based on the Moon Buggy",
-      "link": "https://www.wired.com/story/amble-one-luxe-ev-buggy/",
+      "title": "Colossal and the US Government Are Creating an Endangered Species ‘BioVault’",
+      "link": "https://www.wired.com/story/colossal-interior-department-team-up-endangered-species-dna/",
       "pubDate": "Thu, 25 Jun 2026 13:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Colossal and the US Government Are Creating an Endangered Species ‘BioVault’",
-      "link": "https://www.wired.com/story/colossal-interior-department-team-up-endangered-species-dna/",
+      "title": "Apple and Audi Alumni Have Made a Luxe EV Based on the Moon Buggy",
+      "link": "https://www.wired.com/story/amble-one-luxe-ev-buggy/",
       "pubDate": "Thu, 25 Jun 2026 13:00:00 +0000",
       "source": "wired.com"
     },
@@ -224,21 +236,9 @@
       "source": "wired.com"
     },
     {
-      "title": "Amazon Prime Day 3 is for the Real Heads, And We're Live-Blogging For Them",
-      "link": "https://www.wired.com/live/amazon-prime-day-live-tracker-july-25-2026/",
-      "pubDate": "Thu, 25 Jun 2026 10:52:30 +0000",
-      "source": "wired.com"
-    },
-    {
       "title": "This Buy-It-For-Life Coffee Maker Just Won Prime Day",
       "link": "https://www.wired.com/story/amazon-prime-day-deal-2026-moccamaster/",
       "pubDate": "Thu, 25 Jun 2026 10:47:03 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "The 23 Best Prime Day Deals Under $100 in 2026",
-      "link": "https://www.wired.com/story/best-prime-day-deals-under-100-06-25-2026/",
-      "pubDate": "Thu, 25 Jun 2026 10:44:04 +0000",
       "source": "wired.com"
     }
   ],

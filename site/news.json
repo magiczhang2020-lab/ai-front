@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-06-25T23:10:37.773496+00:00",
+  "updatedAt": "2026-06-26T02:40:51.890170+00:00",
   "items": [
+    {
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "pubDate": "Thu, 25 Jun 2026 23:34:39 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
       "link": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
@@ -116,10 +122,22 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Cellebrite said it cut off Russia, but Russia used its tools anyway",
-      "link": "https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/",
-      "pubDate": "Thu, 25 Jun 2026 10:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
+      "link": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
+      "pubDate": "Fri, 26 Jun 2026 00:49:13 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "This Is Probably Your Last Chance to Buy a Cheap MacBook for a While",
+      "link": "https://www.wired.com/story/apple-price-hikes-on-macbooks-on-prime-day/",
+      "pubDate": "Fri, 26 Jun 2026 00:07:57 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
+      "pubDate": "Thu, 25 Jun 2026 23:13:45 +0000",
+      "source": "wired.com"
     },
     {
       "title": "99 Prime Day Deals That Aren’t For Suckers, Up to 50% Off (2026)",
@@ -221,24 +239,6 @@
       "title": "Get Up to 36% Off With the Best Prime Day Kindle Deals (2026): Paperwhite, Colorsoft, Kids",
       "link": "https://www.wired.com/story/kindle-prime-day-deals-06-25-2026/",
       "pubDate": "Thu, 25 Jun 2026 11:42:12 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Get Up to 43% Off With the Best Prime Day TV Deals Plus Streaming Devices (2026)",
-      "link": "https://www.wired.com/story/best-prime-day-tv-deals-06-25-2026/",
-      "pubDate": "Thu, 25 Jun 2026 11:39:53 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Best Bluetooth Speakers (2026): JBL, Sonos, Bose, and More",
-      "link": "https://www.wired.com/gallery/best-bluetooth-speakers/",
-      "pubDate": "Thu, 25 Jun 2026 11:32:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "I Found The Best Amazon Prime Day Headphone Deals (2026)",
-      "link": "https://www.wired.com/story/best-prime-day-headphone-deals-06-25-2026/",
-      "pubDate": "Thu, 25 Jun 2026 11:27:43 +0000",
       "source": "wired.com"
     }
   ],

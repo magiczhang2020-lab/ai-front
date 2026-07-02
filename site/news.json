@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-07-02T09:54:47.480243+00:00",
+  "updatedAt": "2026-07-02T12:04:37.623592+00:00",
   "items": [
+    {
+      "title": "Yep, we’re using OpenClaw to date now",
+      "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "pubDate": "Thu, 02 Jul 2026 12:00:00 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
       "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
@@ -116,10 +122,34 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-      "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-      "pubDate": "Wed, 01 Jul 2026 02:16:06 +0000",
-      "source": "techcrunch.com"
+      "title": "8 Best Travel Adapters (2026): My Top Recommendations",
+      "link": "https://www.wired.com/gallery/best-travel-adapters/",
+      "pubDate": "Thu, 02 Jul 2026 11:31:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Bublue BuVortex V5 Pool Skimmer Review: An Impractical Cleaner",
+      "link": "https://www.wired.com/review/bublue-buvortex-v5-pool-skimmer/",
+      "pubDate": "Thu, 02 Jul 2026 11:04:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "How Trump Helped China Make America’s Cheapest EV",
+      "link": "https://www.wired.com/story/how-trump-helped-china-make-slate-americas-cheapest-ev/",
+      "pubDate": "Thu, 02 Jul 2026 11:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "I Tried Rips, the Card-Pack App Where Users Spend Thousands Chasing Pricey Pokémon",
+      "link": "https://www.wired.com/story/i-tried-rips-the-card-pack-app-where-users-spend-thousands-chasing-pricey-pokemon/",
+      "pubDate": "Thu, 02 Jul 2026 10:30:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Inside the Luddite Festival Harnessing Gen Z’s Rage Against Big Tech",
+      "link": "https://www.wired.com/story/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
+      "pubDate": "Thu, 02 Jul 2026 10:00:00 +0000",
+      "source": "wired.com"
     },
     {
       "title": "Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech",
@@ -134,26 +164,8 @@
       "source": "wired.com"
     },
     {
-      "title": "Dell Coupon Codes: 20% Off for July 2026",
-      "link": "https://www.wired.com/story/dell-coupon-code/",
-      "pubDate": "Thu, 02 Jul 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
       "title": "Paramount+ Coupon Codes and Deals for July 2026",
       "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "pubDate": "Thu, 02 Jul 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Booking.com Promo Codes: 20% Off | July 2026",
-      "link": "https://www.wired.com/story/booking-com-promo-code/",
-      "pubDate": "Thu, 02 Jul 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "B&H Photo Promo Codes and Deals This July 2026",
-      "link": "https://www.wired.com/story/bh-photo-coupon/",
       "pubDate": "Thu, 02 Jul 2026 05:00:00 +0000",
       "source": "wired.com"
     },
@@ -166,6 +178,24 @@
     {
       "title": "Walmart Promo Codes: Up to 65% Off for July 2026",
       "link": "https://www.wired.com/story/top-walmart-promo-codes/",
+      "pubDate": "Thu, 02 Jul 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Dell Coupon Codes: 20% Off for July 2026",
+      "link": "https://www.wired.com/story/dell-coupon-code/",
+      "pubDate": "Thu, 02 Jul 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Booking.com Promo Codes: 20% Off | July 2026",
+      "link": "https://www.wired.com/story/booking-com-promo-code/",
+      "pubDate": "Thu, 02 Jul 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "B&H Photo Promo Codes and Deals This July 2026",
+      "link": "https://www.wired.com/story/bh-photo-coupon/",
       "pubDate": "Thu, 02 Jul 2026 05:00:00 +0000",
       "source": "wired.com"
     },
@@ -209,36 +239,6 @@
       "title": "Mexico’s Victory Over Ecuador Made the Ground Shake. Was It an Artificial Earthquake?",
       "link": "https://www.wired.com/story/mexicos-victory-over-ecuador-artificial-earthquake/",
       "pubDate": "Wed, 01 Jul 2026 21:34:03 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Goose, a New Gay Dating App, Appears to Be a Psyop",
-      "link": "https://www.wired.com/story/goose-a-new-gay-dating-app-appears-to-be-a-psyop/",
-      "pubDate": "Wed, 01 Jul 2026 20:28:57 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "An Explosion Knocked Out Anduril’s Rocket Motor Test Site in Mississippi",
-      "link": "https://www.wired.com/story/anduril-mississippi-explosion-missiles-rocket-motor/",
-      "pubDate": "Wed, 01 Jul 2026 19:29:21 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "You Can Now Sound the Alarm on AI Behaving Badly",
-      "link": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
-      "pubDate": "Wed, 01 Jul 2026 18:10:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "The 49 Best Outdoor Deals From the REI 4th of July Sale",
-      "link": "https://www.wired.com/story/rei-4th-of-july-sale-2026/",
-      "pubDate": "Wed, 01 Jul 2026 17:45:16 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Sony’s PlayStation Puts a Nail in Physical Media’s Coffin",
-      "link": "https://www.wired.com/story/sony-playstation-puts-a-nail-in-physical-medias-coffin/",
-      "pubDate": "Wed, 01 Jul 2026 17:38:12 +0000",
       "source": "wired.com"
     }
   ],

@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-07-07T17:07:34.406577+00:00",
+  "updatedAt": "2026-07-07T19:44:42.522359+00:00",
   "items": [
+    {
+      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+      "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "pubDate": "Tue, 07 Jul 2026 19:28:38 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Google’s Pixel event is set for August 12",
+      "link": "https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/",
+      "pubDate": "Tue, 07 Jul 2026 18:38:29 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Figma acquires team behind a vibe-coding app",
+      "link": "https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/",
+      "pubDate": "Tue, 07 Jul 2026 18:37:01 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others",
+      "link": "https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/",
+      "pubDate": "Tue, 07 Jul 2026 17:24:35 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Hacked, leaked, and held for ransom: The worst breaches of 2026 so far",
       "link": "https://techcrunch.com/2026/07/07/the-worst-hacks-and-breaches-of-2026-so-far/",
@@ -20,7 +44,7 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Chemistry Ventures is raising $500M for its second fund",
+      "title": "VC firm Chemistry is raising $500M for its second fund",
       "link": "https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/",
       "pubDate": "Tue, 07 Jul 2026 15:02:02 +0000",
       "source": "techcrunch.com"
@@ -98,28 +122,10 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
-      "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-      "pubDate": "Mon, 06 Jul 2026 17:04:58 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Apple brings back card payments for Apple Account purchases in India after a four-year hiatus",
-      "link": "https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/",
-      "pubDate": "Mon, 06 Jul 2026 16:21:03 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
-      "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-      "pubDate": "Mon, 06 Jul 2026 15:32:43 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
-      "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-      "pubDate": "Mon, 06 Jul 2026 15:22:08 +0000",
-      "source": "techcrunch.com"
+      "title": "Mysterious Compound Detected on Pluto and Titan",
+      "link": "https://www.wired.com/story/mysterious-compound-detected-on-pluto-and-titan/",
+      "pubDate": "Tue, 07 Jul 2026 18:03:40 +0000",
+      "source": "wired.com"
     },
     {
       "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
@@ -176,8 +182,14 @@
       "source": "wired.com"
     },
     {
-      "title": "Instacart Promo Code: $15 Off | July 2026",
-      "link": "https://www.wired.com/story/instacart-promo/code/",
+      "title": "Expedia Coupons: 75% Off",
+      "link": "https://www.wired.com/story/expedia-coupon/",
+      "pubDate": "Tue, 07 Jul 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts",
+      "link": "https://www.wired.com/story/lovehoney-discount-code/",
       "pubDate": "Tue, 07 Jul 2026 05:00:00 +0000",
       "source": "wired.com"
     },
@@ -212,14 +224,8 @@
       "source": "wired.com"
     },
     {
-      "title": "Expedia Coupons: 75% Off",
-      "link": "https://www.wired.com/story/expedia-coupon/",
-      "pubDate": "Tue, 07 Jul 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts",
-      "link": "https://www.wired.com/story/lovehoney-discount-code/",
+      "title": "Instacart Promo Code: $15 Off | July 2026",
+      "link": "https://www.wired.com/story/instacart-promo/code/",
       "pubDate": "Tue, 07 Jul 2026 05:00:00 +0000",
       "source": "wired.com"
     },
@@ -232,12 +238,6 @@
     {
       "title": "Target Promo Code: $50 Off | July 2026",
       "link": "https://www.wired.com/story/target-promo-code/",
-      "pubDate": "Tue, 07 Jul 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Pura Promo Codes: $20 Off July 2026",
-      "link": "https://www.wired.com/story/pura-promo-code/",
       "pubDate": "Tue, 07 Jul 2026 05:00:00 +0000",
       "source": "wired.com"
     }

@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-07-08T19:12:44.197361+00:00",
+  "updatedAt": "2026-07-08T20:58:54.499720+00:00",
   "items": [
+    {
+      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+      "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "pubDate": "Wed, 08 Jul 2026 20:37:03 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
+      "link": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
+      "pubDate": "Wed, 08 Jul 2026 20:29:50 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Autonomous drone delivery startup Manna plots major US expansion",
+      "link": "https://techcrunch.com/2026/07/08/autonomous-drone-delivery-startup-manna-plots-major-u-s-expansion/",
+      "pubDate": "Wed, 08 Jul 2026 20:06:54 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "pubDate": "Wed, 08 Jul 2026 19:30:16 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "‘Slow-cial’ app Roost forces you to slow down to the speed of a carrier pigeon",
+      "link": "https://techcrunch.com/2026/07/08/slow-cial-app-roost-forces-you-to-slow-down-to-the-speed-of-a-carrier-pigeon/",
+      "pubDate": "Wed, 08 Jul 2026 19:22:11 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "This startup thinks robotics is about to have its ChatGPT moment",
+      "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "pubDate": "Wed, 08 Jul 2026 19:19:15 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Elon Musk says X will send DMs when posts you’ve engaged with are corrected",
       "link": "https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/",
@@ -86,40 +122,22 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
-      "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
-      "pubDate": "Wed, 08 Jul 2026 12:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "The FTC Settlement With John Deere Is a Huge Win for the Right-to-Repair Movement",
+      "link": "https://www.wired.com/story/the-ftc-settlement-with-john-deere-is-a-huge-win-for-the-right-to-repair-movement/",
+      "pubDate": "Wed, 08 Jul 2026 20:27:18 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-      "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-      "pubDate": "Wed, 08 Jul 2026 08:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "I Built a Self-Improving AI, and So Can You",
+      "link": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
+      "pubDate": "Wed, 08 Jul 2026 20:09:21 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-      "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-      "pubDate": "Wed, 08 Jul 2026 07:16:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Final extension: Startup Battlefield Australia applications now close July 20",
-      "link": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
-      "pubDate": "Tue, 07 Jul 2026 22:30:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
-      "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-      "pubDate": "Tue, 07 Jul 2026 22:18:10 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
-      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-      "pubDate": "Tue, 07 Jul 2026 20:04:32 +0000",
-      "source": "techcrunch.com"
+      "title": "Peter Thiel’s Husband Sued a Flight Attendant Who Says He Assaulted Her on a Private Jet",
+      "link": "https://www.wired.com/story/peter-thiels-husband-sued-a-flight-attendant-who-says-he-assaulted-her-on-a-private-jet/",
+      "pubDate": "Wed, 08 Jul 2026 19:49:30 +0000",
+      "source": "wired.com"
     },
     {
       "title": "Dimming the Sun Would Help Lower the Risks of El Niño",
@@ -220,24 +238,6 @@
     {
       "title": "20% Off Brooks Promo Code | July 2026",
       "link": "https://www.wired.com/story/brooks-promo-code/",
-      "pubDate": "Wed, 08 Jul 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Valvoline Coupons and Promo Codes for July 2026",
-      "link": "https://www.wired.com/story/valvoline-coupons/",
-      "pubDate": "Wed, 08 Jul 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Best Buy Discount Codes: Up to 60% Off",
-      "link": "https://www.wired.com/story/best-buy-discount-code/",
-      "pubDate": "Wed, 08 Jul 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Groupon Promo Codes: 60% Off in July 2026",
-      "link": "https://www.wired.com/story/groupon-promo-code/",
       "pubDate": "Wed, 08 Jul 2026 05:00:00 +0000",
       "source": "wired.com"
     }

@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-07-13T18:27:33.252898+00:00",
+  "updatedAt": "2026-07-13T20:07:12.619129+00:00",
   "items": [
+    {
+      "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
+      "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
+      "pubDate": "Mon, 13 Jul 2026 20:00:17 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
       "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
@@ -116,10 +122,10 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
-      "link": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
-      "pubDate": "Fri, 10 Jul 2026 21:51:55 +0000",
-      "source": "techcrunch.com"
+      "title": "The Problem With VAR at the 2026 World Cup Isn’t the Technology—It’s Who Interprets It",
+      "link": "https://www.wired.com/story/the-problem-with-var-at-the-2026-world-cup-isnt-the-technology-its-who-interprets-it/",
+      "pubDate": "Mon, 13 Jul 2026 19:55:12 +0000",
+      "source": "wired.com"
     },
     {
       "title": "Wi-Fi 8 Explained: Features, Release Date, and More",
@@ -233,12 +239,6 @@
       "title": "Samsung Micro RGB R95H Review (2026): Not the Brightest",
       "link": "https://www.wired.com/review/samsung-micro-rgb-r95h/",
       "pubDate": "Sat, 11 Jul 2026 10:31:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "AI Found a Root Bug in Linux That Everyone Missed for 15 Years",
-      "link": "https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/",
-      "pubDate": "Sat, 11 Jul 2026 10:30:00 +0000",
       "source": "wired.com"
     }
   ],

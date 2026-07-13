@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T06:07:07.391784+00:00",
+  "updatedAt": "2026-07-13T10:17:34.680805+00:00",
   "items": [
     {
       "title": "TechCrunch Mobility: A robotaxi ultimatum",
@@ -122,6 +122,18 @@
       "source": "techcrunch.com"
     },
     {
+      "title": "A Leak of San Francisco Police Drone Footage Exposes the New Reality of Urban Surveillance",
+      "link": "https://www.wired.com/story/sfpd-drone-video-leak-surveillance/",
+      "pubDate": "Mon, 13 Jul 2026 10:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Best Kitchen Composters and Food Recyclers (2026)",
+      "link": "https://www.wired.com/story/home-composters-buying-guide/",
+      "pubDate": "Mon, 13 Jul 2026 09:31:00 +0000",
+      "source": "wired.com"
+    },
+    {
       "title": "Uber’s Autonomous Vehicle Strategy: Slow Their Adoption",
       "link": "https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/",
       "pubDate": "Sun, 12 Jul 2026 19:55:37 +0000",
@@ -227,18 +239,6 @@
       "title": "Microsoft Reports a Massive 25 Percent Jump in Emissions",
       "link": "https://www.wired.com/story/microsoft-25-percent-jump-in-carbon-emissions/",
       "pubDate": "Fri, 10 Jul 2026 23:16:56 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
-      "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
-      "pubDate": "Fri, 10 Jul 2026 20:44:05 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Meet the Battery Startup Taking on China’s Giants",
-      "link": "https://www.wired.com/story/prologium-battery-startup-betting-against-china/",
-      "pubDate": "Fri, 10 Jul 2026 18:00:00 +0000",
       "source": "wired.com"
     }
   ],

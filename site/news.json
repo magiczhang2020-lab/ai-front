@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-07-15T17:08:38.018407+00:00",
+  "updatedAt": "2026-07-15T18:59:27.290632+00:00",
   "items": [
+    {
+      "title": "Microsoft patches bug in video game Age of Empires II",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/",
+      "pubDate": "Wed, 15 Jul 2026 18:47:01 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Apple quietly reveals how its Maps ads will differ from Google’s",
+      "link": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/",
+      "pubDate": "Wed, 15 Jul 2026 18:21:22 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
+      "link": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
+      "pubDate": "Wed, 15 Jul 2026 18:06:05 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "pubDate": "Wed, 15 Jul 2026 18:04:06 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Phone maker OnePlus reportedly plans to wind down US and Europe operations",
+      "link": "https://techcrunch.com/2026/07/15/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
+      "pubDate": "Wed, 15 Jul 2026 17:53:32 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Google’s biggest clean power project is 40 miles north of xAI’s unpermitted gas power plant",
+      "link": "https://techcrunch.com/2026/07/15/googles-biggest-clean-power-project-is-40-miles-north-of-xais-unpermitted-gas-power-plant/",
+      "pubDate": "Wed, 15 Jul 2026 17:39:54 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
       "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
@@ -29,6 +65,12 @@
       "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
       "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
       "pubDate": "Wed, 15 Jul 2026 15:29:33 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+      "link": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+      "pubDate": "Wed, 15 Jul 2026 15:00:00 +0000",
       "source": "techcrunch.com"
     },
     {
@@ -80,46 +122,16 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Why Realta Fusion is building a fusion reactor at an old hot dog factory",
-      "link": "https://techcrunch.com/2026/07/15/why-realta-fusion-is-building-a-fusion-reactor-at-an-old-hot-dog-factory/",
-      "pubDate": "Wed, 15 Jul 2026 12:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "AI Isn’t Smarter Than a Baby—Yet",
+      "link": "https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/",
+      "pubDate": "Wed, 15 Jul 2026 18:30:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse",
-      "link": "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/",
-      "pubDate": "Wed, 15 Jul 2026 11:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "A SpaceX vet raised $65M to pull wire harnesses out of the Cold War era",
-      "link": "https://techcrunch.com/2026/07/15/a-spacex-vet-raised-65m-to-pull-wire-harnesses-out-of-the-cold-war-era/",
-      "pubDate": "Wed, 15 Jul 2026 10:30:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-      "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-      "pubDate": "Wed, 15 Jul 2026 00:27:04 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Lorde says AI glasses are ‘not sexy’",
-      "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
-      "pubDate": "Tue, 14 Jul 2026 23:10:02 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
-      "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-      "pubDate": "Tue, 14 Jul 2026 22:22:24 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "OpenAI pushes back on Apple trade secret lawsuit",
-      "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
-      "pubDate": "Tue, 14 Jul 2026 22:07:42 +0000",
-      "source": "techcrunch.com"
+      "title": "Thinking Machines Lab Drops Its First Model",
+      "link": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
+      "pubDate": "Wed, 15 Jul 2026 18:05:00 +0000",
+      "source": "wired.com"
     },
     {
       "title": "Lionel Messi’s Final World Cup—and the Death of Early Retirement",
@@ -194,20 +206,8 @@
       "source": "wired.com"
     },
     {
-      "title": "Chegg Coupon Codes July 2026: Save on Study, Textbooks, & More",
-      "link": "https://www.wired.com/story/chegg-coupon-code/",
-      "pubDate": "Wed, 15 Jul 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
       "title": "Naturepedic Promo Codes: Get 20% Off Plus Free Pillows",
       "link": "https://www.wired.com/story/naturepedic-promo-code/",
-      "pubDate": "Wed, 15 Jul 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Wayfair Coupons: Up to 80% Off July 2026",
-      "link": "https://www.wired.com/story/wayfair-promo-code/",
       "pubDate": "Wed, 15 Jul 2026 05:00:00 +0000",
       "source": "wired.com"
     },
@@ -224,20 +224,20 @@
       "source": "wired.com"
     },
     {
+      "title": "Wayfair Coupons: Up to 80% Off July 2026",
+      "link": "https://www.wired.com/story/wayfair-promo-code/",
+      "pubDate": "Wed, 15 Jul 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Chegg Coupon Codes July 2026: Save on Study, Textbooks, & More",
+      "link": "https://www.wired.com/story/chegg-coupon-code/",
+      "pubDate": "Wed, 15 Jul 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
       "title": "Womanizer Coupons: Save 15% in July",
       "link": "https://www.wired.com/story/womanizer-coupon/",
-      "pubDate": "Wed, 15 Jul 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Logitech Promo Codes and Deals: Up to $100 Off",
-      "link": "https://www.wired.com/story/logitech-promo-code/",
-      "pubDate": "Wed, 15 Jul 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "50% Off Blue Apron Promo Codes | July 2026",
-      "link": "https://www.wired.com/story/blue-apron-coupon/",
       "pubDate": "Wed, 15 Jul 2026 05:00:00 +0000",
       "source": "wired.com"
     }

@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-07-16T12:15:30.569166+00:00",
+  "updatedAt": "2026-07-16T14:53:21.014084+00:00",
   "items": [
+    {
+      "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
+      "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+      "pubDate": "Thu, 16 Jul 2026 14:40:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+      "link": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+      "pubDate": "Thu, 16 Jul 2026 14:26:29 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+      "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "pubDate": "Thu, 16 Jul 2026 13:17:59 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Ultrahuman’s former hardware VP raises $5.5M for devices that control AI agents, not just record you",
       "link": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
@@ -14,7 +32,7 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Phone maker OnePlus says it won’t release new phones in the U.S. and Europe",
+      "title": "Phone maker OnePlus says it won’t release new phones in the US and Europe",
       "link": "https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
       "pubDate": "Thu, 16 Jul 2026 09:00:00 +0000",
       "source": "techcrunch.com"
@@ -104,24 +122,6 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
-      "pubDate": "Wed, 15 Jul 2026 16:20:18 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Stripe and Advent reportedly offered to buy PayPal for around $53.4B",
-      "link": "https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/",
-      "pubDate": "Wed, 15 Jul 2026 15:30:26 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-      "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "pubDate": "Wed, 15 Jul 2026 15:29:33 +0000",
-      "source": "techcrunch.com"
-    },
-    {
       "title": "XPeng’s New ‘Budget’ EV Looks Like the Ferrari Luce",
       "link": "https://www.wired.com/story/xpeng-new-budget-ev-looks-like-the-ferrari-luce/",
       "pubDate": "Thu, 16 Jul 2026 12:09:08 +0000",
@@ -176,6 +176,12 @@
       "source": "wired.com"
     },
     {
+      "title": "Priceline Promo Codes & Coupons: 10% Off July",
+      "link": "https://www.wired.com/story/priceline-promo-code/",
+      "pubDate": "Thu, 16 Jul 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
       "title": "Lenovo Coupon Codes and Deals in July 2026",
       "link": "https://www.wired.com/story/lenovo-coupon-code/",
       "pubDate": "Thu, 16 Jul 2026 05:00:00 +0000",
@@ -184,12 +190,6 @@
     {
       "title": "Surfshark Promo Codes: 87% Off | July 2026",
       "link": "https://www.wired.com/story/surfshark-coupon/",
-      "pubDate": "Thu, 16 Jul 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Priceline Promo Codes & Coupons: 10% Off July",
-      "link": "https://www.wired.com/story/priceline-promo-code/",
       "pubDate": "Thu, 16 Jul 2026 05:00:00 +0000",
       "source": "wired.com"
     },
@@ -224,7 +224,7 @@
       "source": "wired.com"
     },
     {
-      "title": "Smoke From Canada's Wildfires Turns Skies Sickly Orange Across the Eastern US",
+      "title": "Smoke From Canada’s Wildfires Turns Skies Sickly Orange Across the Eastern US",
       "link": "https://www.wired.com/story/northeast-us-blanketed-in-canadian-wildfire-smoke/",
       "pubDate": "Wed, 15 Jul 2026 23:05:03 +0000",
       "source": "wired.com"

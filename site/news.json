@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-07-20T21:03:24.741489+00:00",
+  "updatedAt": "2026-07-20T22:51:28.936676+00:00",
   "items": [
+    {
+      "title": "Trump’s latest AI czar has already resigned",
+      "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "pubDate": "Mon, 20 Jul 2026 22:21:04 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "pubDate": "Mon, 20 Jul 2026 21:21:15 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "AI’s most important protocol is getting a little bit easier to use",
       "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
@@ -110,16 +122,10 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-      "pubDate": "Sun, 19 Jul 2026 14:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Waymo says San Francisco service has resumed after one-hour pause",
-      "link": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
-      "pubDate": "Sat, 18 Jul 2026 19:30:23 +0000",
-      "source": "techcrunch.com"
+      "title": "The Galaxy Card Is Samsung’s Answer to the Apple Card",
+      "link": "https://www.wired.com/story/galaxy-card-is-samsung-answer-to-the-apple-card/",
+      "pubDate": "Mon, 20 Jul 2026 21:00:00 +0000",
+      "source": "wired.com"
     },
     {
       "title": "The FDA Says It Didn't Apologize to Supplier Linked to Diarrhea Outbreak, Actually",
@@ -232,12 +238,6 @@
     {
       "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
       "link": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
-      "pubDate": "Sat, 18 Jul 2026 10:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "FIFA Doesn’t Have a Plan to Deal With Climate Change",
-      "link": "https://www.wired.com/story/fifa-doesnt-have-plan-to-deal-with-climate-change/",
       "pubDate": "Sat, 18 Jul 2026 10:00:00 +0000",
       "source": "wired.com"
     }

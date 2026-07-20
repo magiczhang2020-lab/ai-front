@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-07-20T15:04:08.650855+00:00",
+  "updatedAt": "2026-07-20T17:27:46.499743+00:00",
   "items": [
+    {
+      "title": "Adobe camera app’s new feature will critique your photos using AI",
+      "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "pubDate": "Mon, 20 Jul 2026 15:45:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Hackers are exploiting recently patched WordPress bugs, putting millions of websites at risk",
+      "link": "https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/",
+      "pubDate": "Mon, 20 Jul 2026 15:35:37 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "YouTube clarifies policies around AI slop and upsetting videos",
+      "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "pubDate": "Mon, 20 Jul 2026 15:23:06 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
+      "link": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+      "pubDate": "Mon, 20 Jul 2026 15:15:00 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Hackers stole ‘significant’ amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
       "link": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/",
@@ -98,30 +122,6 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
-      "link": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
-      "pubDate": "Fri, 17 Jul 2026 23:08:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "pubDate": "Fri, 17 Jul 2026 22:55:09 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "pubDate": "Fri, 17 Jul 2026 22:12:56 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "The Zoom hack that says, ‘Don’t record me’",
-      "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-      "pubDate": "Fri, 17 Jul 2026 21:20:47 +0000",
-      "source": "techcrunch.com"
-    },
-    {
       "title": "The 35 Best Board Games for Family Game Night",
       "link": "https://www.wired.com/gallery/best-family-board-games/",
       "pubDate": "Mon, 20 Jul 2026 11:00:00 +0000",
@@ -140,14 +140,14 @@
       "source": "wired.com"
     },
     {
-      "title": "The ACLU Is Arming Lawyers to Expose State Surveillance Secrets",
-      "link": "https://www.wired.com/story/the-aclu-is-arming-lawyers-to-expose-state-surveillance-secrets/",
+      "title": "Elite Young Runners Are Becoming Freakishly Fast. Welcome to ‘Trackflation’",
+      "link": "https://www.wired.com/story/teenagers-running-trackflation/",
       "pubDate": "Mon, 20 Jul 2026 10:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Elite Young Runners Are Becoming Freakishly Fast. Welcome to ‘Trackflation’",
-      "link": "https://www.wired.com/story/teenagers-running-trackflation/",
+      "title": "The ACLU Is Arming Lawyers to Expose State Surveillance Secrets",
+      "link": "https://www.wired.com/story/the-aclu-is-arming-lawyers-to-expose-state-surveillance-secrets/",
       "pubDate": "Mon, 20 Jul 2026 10:00:00 +0000",
       "source": "wired.com"
     },

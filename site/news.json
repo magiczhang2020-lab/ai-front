@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-07-21T14:58:30.656692+00:00",
+  "updatedAt": "2026-07-21T16:23:38.341374+00:00",
   "items": [
+    {
+      "title": "Instagram now lets you swap out the music in your old posts",
+      "link": "https://techcrunch.com/2026/07/21/instagram-now-lets-you-swap-out-the-music-in-your-old-posts/",
+      "pubDate": "Tue, 21 Jul 2026 16:15:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Threads rolls out parental supervision tools",
+      "link": "https://techcrunch.com/2026/07/21/threads-rolls-out-parental-supervision-tools/",
+      "pubDate": "Tue, 21 Jul 2026 16:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "US threatens sanctions against Chinese AI models over IP theft",
+      "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+      "pubDate": "Tue, 21 Jul 2026 15:37:05 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Light made a flip phone — it’s colorful and it’s cheap",
+      "link": "https://techcrunch.com/2026/07/21/light-is-modernizing-the-flip-phone-with-light-flip/",
+      "pubDate": "Tue, 21 Jul 2026 15:00:00 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "After TikTok, Snap settles social media addiction case",
       "link": "https://techcrunch.com/2026/07/21/after-tiktok-snap-settles-social-media-addiction-case/",
@@ -98,28 +122,22 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Judge pauses $110B Paramount-Warner Bros. merger",
-      "link": "https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/",
-      "pubDate": "Mon, 20 Jul 2026 17:58:50 +0000",
-      "source": "techcrunch.com"
+      "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots",
+      "link": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
+      "pubDate": "Tue, 21 Jul 2026 16:08:44 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Adobe camera app’s new feature will critique your photos using AI",
-      "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
-      "pubDate": "Mon, 20 Jul 2026 15:45:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
+      "link": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
+      "pubDate": "Tue, 21 Jul 2026 15:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Hackers are exploiting recently patched WordPress bugs, putting millions of websites at risk",
-      "link": "https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/",
-      "pubDate": "Mon, 20 Jul 2026 15:35:37 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "YouTube clarifies policies around AI slop and upsetting videos",
-      "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-      "pubDate": "Mon, 20 Jul 2026 15:23:06 +0000",
-      "source": "techcrunch.com"
+      "title": "The Light Flip Is the Stylish Dumb Flip Phone of Your Dreams",
+      "link": "https://www.wired.com/story/light-flip-is-the-modern-stylish-dumb-flip-phone-of-your-luddite-dreams/",
+      "pubDate": "Tue, 21 Jul 2026 15:00:00 +0000",
+      "source": "wired.com"
     },
     {
       "title": "The Great Peptide Cash Grab Has Begun",
@@ -221,24 +239,6 @@
       "title": "An Ebike Company Was Sued for Misleading Info on Safety. It Points to a Big Problem",
       "link": "https://www.wired.com/story/an-ebike-company-was-sued-for-misleading-on-safety-it-points-to-a-big-problem/",
       "pubDate": "Mon, 20 Jul 2026 10:15:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "The ACLU Is Arming Lawyers to Expose State Surveillance Secrets",
-      "link": "https://www.wired.com/story/the-aclu-is-arming-lawyers-to-expose-state-surveillance-secrets/",
-      "pubDate": "Mon, 20 Jul 2026 10:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Elite Young Runners Are Becoming Freakishly Fast. Welcome to ‘Trackflation’",
-      "link": "https://www.wired.com/story/teenagers-running-trackflation/",
-      "pubDate": "Mon, 20 Jul 2026 10:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Apps Marketed to US Troops Are Shipping Chinese and Russian Code",
-      "link": "https://www.wired.com/story/apps-marketed-to-us-troops-are-shipping-chinese-and-russian-code/",
-      "pubDate": "Mon, 20 Jul 2026 09:30:00 +0000",
       "source": "wired.com"
     }
   ],

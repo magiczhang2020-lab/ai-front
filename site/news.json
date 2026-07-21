@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-07-21T16:23:38.341374+00:00",
+  "updatedAt": "2026-07-21T18:12:21.141451+00:00",
   "items": [
+    {
+      "title": "Data centers expected to use 4x more electricity by 2035",
+      "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+      "pubDate": "Tue, 21 Jul 2026 18:06:38 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings",
+      "link": "https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/",
+      "pubDate": "Tue, 21 Jul 2026 18:05:10 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Google releases three new Gemini models — but no 3.5 Pro",
+      "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "pubDate": "Tue, 21 Jul 2026 17:11:50 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Instagram now lets you swap out the music in your old posts",
       "link": "https://techcrunch.com/2026/07/21/instagram-now-lets-you-swap-out-the-music-in-your-old-posts/",
@@ -104,38 +122,20 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "X relaunches a rebuilt Android app after year-long effort",
-      "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
-      "pubDate": "Mon, 20 Jul 2026 19:37:39 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "OpenAI is scared of open-weight models. Should the US be?",
-      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-      "pubDate": "Mon, 20 Jul 2026 19:33:25 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
-      "link": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
-      "pubDate": "Mon, 20 Jul 2026 19:11:25 +0000",
-      "source": "techcrunch.com"
-    },
-    {
       "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots",
       "link": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
       "pubDate": "Tue, 21 Jul 2026 16:08:44 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
-      "link": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
+      "title": "The Light Flip Is the Stylish Dumb Flip Phone of Your Dreams",
+      "link": "https://www.wired.com/story/light-flip-is-the-modern-stylish-dumb-flip-phone-of-your-luddite-dreams/",
       "pubDate": "Tue, 21 Jul 2026 15:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "The Light Flip Is the Stylish Dumb Flip Phone of Your Dreams",
-      "link": "https://www.wired.com/story/light-flip-is-the-modern-stylish-dumb-flip-phone-of-your-luddite-dreams/",
+      "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
+      "link": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
       "pubDate": "Tue, 21 Jul 2026 15:00:00 +0000",
       "source": "wired.com"
     },

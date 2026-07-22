@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-07-22T20:57:06.383353+00:00",
+  "updatedAt": "2026-07-22T22:02:01.075736+00:00",
   "items": [
+    {
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "pubDate": "Wed, 22 Jul 2026 22:01:52 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
       "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
@@ -116,10 +122,16 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-      "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
-      "pubDate": "Wed, 22 Jul 2026 10:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Why Lettuce Is Always Making People Sick",
+      "link": "https://www.wired.com/story/why-lettuce-always-making-people-sick/",
+      "pubDate": "Wed, 22 Jul 2026 21:41:29 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
+      "link": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
+      "pubDate": "Wed, 22 Jul 2026 21:00:00 +0000",
+      "source": "wired.com"
     },
     {
       "title": "Top Red-Light Therapy Deals at Nordstrom’s Anniversary Sale (2026)",
@@ -227,18 +239,6 @@
       "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
       "link": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
       "pubDate": "Tue, 21 Jul 2026 15:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "The Light Flip Is the Stylish Dumb Flip Phone of Your Dreams",
-      "link": "https://www.wired.com/story/light-flip-is-the-modern-stylish-dumb-flip-phone-of-your-luddite-dreams/",
-      "pubDate": "Tue, 21 Jul 2026 15:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "The Great Peptide Cash Grab Has Begun",
-      "link": "https://www.wired.com/story/fda-peptide-decision-telehealth-companies-cashing-in/",
-      "pubDate": "Tue, 21 Jul 2026 13:45:49 +0000",
       "source": "wired.com"
     }
   ],

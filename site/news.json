@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-07-23T19:02:50.317701+00:00",
+  "updatedAt": "2026-07-23T20:54:06.782716+00:00",
   "items": [
+    {
+      "title": "AMD takes on Nvidia with its Helios AI rack scale system",
+      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "pubDate": "Thu, 23 Jul 2026 20:33:02 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Patreon lays off off 20% of its workforce",
+      "link": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
+      "pubDate": "Thu, 23 Jul 2026 20:30:07 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks",
+      "link": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
+      "pubDate": "Thu, 23 Jul 2026 20:13:24 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Tesla’s door handles may spur new US safety rules",
+      "link": "https://techcrunch.com/2026/07/23/teslas-door-handles-may-spur-new-u-s-safety-rules/",
+      "pubDate": "Thu, 23 Jul 2026 20:06:21 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Meta drops out of a major clean energy pact as its natural gas buildout accelerates",
+      "link": "https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/",
+      "pubDate": "Thu, 23 Jul 2026 19:41:54 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Anthropic updates Claude voice mode with more capable models",
       "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
@@ -92,36 +122,6 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Ford bets on Apple for its next-generation of EVs",
-      "link": "https://techcrunch.com/2026/07/23/ford-bets-on-apple-for-its-next-generation-of-evs/",
-      "pubDate": "Thu, 23 Jul 2026 13:58:37 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
-      "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-      "pubDate": "Thu, 23 Jul 2026 11:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-      "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-      "pubDate": "Thu, 23 Jul 2026 06:09:13 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-      "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-      "pubDate": "Wed, 22 Jul 2026 23:47:54 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Google justifies its massive AI spending with a booming cloud business",
-      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-      "pubDate": "Wed, 22 Jul 2026 22:01:52 +0000",
-      "source": "techcrunch.com"
-    },
-    {
       "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
       "link": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
       "pubDate": "Thu, 23 Jul 2026 18:45:52 +0000",
@@ -182,14 +182,14 @@
       "source": "wired.com"
     },
     {
-      "title": "Google Turns a Selfie Video Into Your Account’s Spare Key",
-      "link": "https://www.wired.com/story/google-turns-a-selfie-video-into-your-accounts-spare-key/",
+      "title": "Banning Social Media for Kids Is a Bad Idea",
+      "link": "https://www.wired.com/story/banning-social-media-for-kids-is-a-bad-idea/",
       "pubDate": "Thu, 23 Jul 2026 10:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Banning Social Media for Kids Is a Bad Idea",
-      "link": "https://www.wired.com/story/banning-social-media-for-kids-is-a-bad-idea/",
+      "title": "Google Turns a Selfie Video Into Your Account’s Spare Key",
+      "link": "https://www.wired.com/story/google-turns-a-selfie-video-into-your-accounts-spare-key/",
       "pubDate": "Thu, 23 Jul 2026 10:00:00 +0000",
       "source": "wired.com"
     },

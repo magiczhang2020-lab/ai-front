@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-07-23T15:49:18.247549+00:00",
+  "updatedAt": "2026-07-23T17:11:31.622129+00:00",
   "items": [
+    {
+      "title": "Runway launches AI model router as generative media gets crowded",
+      "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+      "pubDate": "Thu, 23 Jul 2026 17:07:35 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "OpenAI makes ChatGPT Health available to all U.S. users",
+      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "pubDate": "Thu, 23 Jul 2026 17:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Tesla’s robotaxis are moving in reverse",
+      "link": "https://techcrunch.com/2026/07/23/teslas-robotaxis-are-moving-in-reverse/",
+      "pubDate": "Thu, 23 Jul 2026 16:29:59 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+      "link": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+      "pubDate": "Thu, 23 Jul 2026 16:28:50 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Google will now let you sign in to your account with a selfie video",
+      "link": "https://techcrunch.com/2026/07/23/google-will-now-let-you-sign-in-to-your-account-with-a-selfie-video/",
+      "pubDate": "Thu, 23 Jul 2026 16:01:03 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
       "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
@@ -92,34 +122,10 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown",
-      "link": "https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/",
-      "pubDate": "Wed, 22 Jul 2026 19:42:56 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-      "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-      "pubDate": "Wed, 22 Jul 2026 19:11:46 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
-      "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-      "pubDate": "Wed, 22 Jul 2026 18:50:44 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Science Corporation’s vision-restoring chip wins EU approval",
-      "link": "https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/",
-      "pubDate": "Wed, 22 Jul 2026 18:18:02 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
-      "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
-      "pubDate": "Wed, 22 Jul 2026 18:13:58 +0000",
-      "source": "techcrunch.com"
+      "title": "The EU Fines Google $1 Billion for Prioritizing Its Own Services in Search",
+      "link": "https://www.wired.com/story/eu-fines-google-billion-prioritizing-own-services-in-search/",
+      "pubDate": "Thu, 23 Jul 2026 16:51:52 +0000",
+      "source": "wired.com"
     },
     {
       "title": "22 Back-to-School College Dorm Room Essentials (2026)",
@@ -233,12 +239,6 @@
       "title": "Which New Samsung Foldable Phone Should You Buy? Fold8 Ultra, Fold8, or Flip8?",
       "link": "https://www.wired.com/story/which-samsung-galaxy-z-fold8-to-buy/",
       "pubDate": "Wed, 22 Jul 2026 13:01:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Why Samsung Gave Its Next Folding Phone a New Shape",
-      "link": "https://www.wired.com/story/why-samsung-gave-its-next-folding-phone-a-new-shape-galaxy-z-fold8/",
-      "pubDate": "Wed, 22 Jul 2026 13:00:00 +0000",
       "source": "wired.com"
     }
   ],

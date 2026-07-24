@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-07-24T18:12:46.940012+00:00",
+  "updatedAt": "2026-07-24T20:13:20.258118+00:00",
   "items": [
+    {
+      "title": "Volkswagen engineers charged with insider trading tied to Rivian joint venture",
+      "link": "https://techcrunch.com/2026/07/24/volkswagen-engineers-charged-with-insider-trading-tied-to-rivian-joint-venture/",
+      "pubDate": "Fri, 24 Jul 2026 19:56:23 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
       "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
@@ -116,10 +122,10 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks",
-      "link": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
-      "pubDate": "Thu, 23 Jul 2026 20:13:24 +0000",
-      "source": "techcrunch.com"
+      "title": "The 2026 El Niño Is on Track to Be the Strongest on Record",
+      "link": "https://www.wired.com/story/2026-el-nino-the-strongest-in-150-years/",
+      "pubDate": "Fri, 24 Jul 2026 18:50:02 +0000",
+      "source": "wired.com"
     },
     {
       "title": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
@@ -233,12 +239,6 @@
       "title": "The Trump Administration Wants to Change Public Engagement Rules for Polluters",
       "link": "https://www.wired.com/story/trump-administration-change-polluter-public-engagement-rules/",
       "pubDate": "Thu, 23 Jul 2026 11:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "America’s Hot Hybrid Summer",
-      "link": "https://www.wired.com/story/america-hot-hybrid-summer/",
-      "pubDate": "Thu, 23 Jul 2026 10:45:00 +0000",
       "source": "wired.com"
     }
   ],

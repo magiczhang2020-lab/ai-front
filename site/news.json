@@ -1,9 +1,21 @@
 {
-  "updatedAt": "2026-07-24T23:01:34.860726+00:00",
+  "updatedAt": "2026-07-25T01:59:40.419136+00:00",
   "items": [
     {
-      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
-      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+      "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "pubDate": "Sat, 25 Jul 2026 00:23:11 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
+      "link": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
+      "pubDate": "Fri, 24 Jul 2026 23:25:47 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
       "pubDate": "Fri, 24 Jul 2026 22:25:58 +0000",
       "source": "techcrunch.com"
     },
@@ -110,18 +122,6 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Facebook launches a dedicated Marketplace app for sellers, adds a free verification system",
-      "link": "https://techcrunch.com/2026/07/24/facebook-launches-a-dedicated-marketplace-app-for-sellers-adds-a-free-verification-system/",
-      "pubDate": "Fri, 24 Jul 2026 12:47:15 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "pubDate": "Fri, 24 Jul 2026 01:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
       "title": "One of NASA’s Most Important Deep Space Observatories Hit by Spanish Wildfires",
       "link": "https://www.wired.com/story/spanish-wildfires-nasa-deep-space-observatory/",
       "pubDate": "Fri, 24 Jul 2026 22:30:26 +0000",
@@ -140,7 +140,7 @@
       "source": "wired.com"
     },
     {
-      "title": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
+      "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
       "link": "https://www.wired.com/story/uncanny-valley-podcast/",
       "pubDate": "Fri, 24 Jul 2026 17:53:01 +0000",
       "source": "wired.com"

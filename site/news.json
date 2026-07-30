@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-07-30T12:24:57.038209+00:00",
+  "updatedAt": "2026-07-30T15:05:01.965402+00:00",
   "items": [
+    {
+      "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+      "link": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+      "pubDate": "Thu, 30 Jul 2026 15:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
+      "link": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+      "pubDate": "Thu, 30 Jul 2026 14:48:32 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
+      "link": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
+      "pubDate": "Thu, 30 Jul 2026 14:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "FTC sues Hims & Hers for allegedly sharing patients’ medical data with advertisers Meta and Snap",
+      "link": "https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/",
+      "pubDate": "Thu, 30 Jul 2026 13:30:52 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Zoox clears final federal hurdle to launch paid robotaxi service",
+      "link": "https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/",
+      "pubDate": "Thu, 30 Jul 2026 13:09:03 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Spotify adds a running mode to its app",
+      "link": "https://techcrunch.com/2026/07/30/spotify-adds-a-running-mode-to-its-app/",
+      "pubDate": "Thu, 30 Jul 2026 13:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Inforcer raises $50M to help prepare smaller businesses for a new world of AI and security risks",
+      "link": "https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/",
+      "pubDate": "Thu, 30 Jul 2026 13:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+      "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+      "pubDate": "Thu, 30 Jul 2026 13:00:00 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
       "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
@@ -74,52 +122,16 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Google brings its age-assurance technology to Android developers worldwide",
-      "link": "https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/",
-      "pubDate": "Wed, 29 Jul 2026 17:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Razer Huntsman V3 HE Review: Jumping on the Bandwagon",
+      "link": "https://www.wired.com/review/razer-huntsman-v3-hall-effect-keyboard/",
+      "pubDate": "Thu, 30 Jul 2026 15:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers",
-      "link": "https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/",
-      "pubDate": "Wed, 29 Jul 2026 15:36:48 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-      "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-      "pubDate": "Wed, 29 Jul 2026 15:35:09 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
-      "link": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
-      "pubDate": "Wed, 29 Jul 2026 15:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-      "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-      "pubDate": "Wed, 29 Jul 2026 14:41:06 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "‘No one’s making a phone like this’: Light’s co-founders on building for the anti-smartphone generation",
-      "link": "https://techcrunch.com/video/no-ones-making-a-phone-like-this-lights-co-founders-on-building-for-the-anti-smartphone-generation/",
-      "pubDate": "Wed, 29 Jul 2026 14:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "DoorDash is building its own drone delivery business",
-      "link": "https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/",
-      "pubDate": "Wed, 29 Jul 2026 13:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Fast Metals is treating waste with more waste to extract critical minerals",
-      "link": "https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/",
-      "pubDate": "Wed, 29 Jul 2026 12:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "DOGE Veterans Are Landing Big Jobs at Prediction Markets",
+      "link": "https://www.wired.com/story/doge-veterans-are-landing-big-jobs-at-prediction-markets/",
+      "pubDate": "Thu, 30 Jul 2026 13:20:16 +0000",
+      "source": "wired.com"
     },
     {
       "title": "Best Vacuum Cleaners (2026): Cordless Vacuums, Robot Vacuums, Dysons",
@@ -152,7 +164,7 @@
       "source": "wired.com"
     },
     {
-      "title": "OpenAI’s Hacking Debacle Was a Human Mistake",
+      "title": "OpenAI’s Hacking Debacle Comes Down to Human Error",
       "link": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
       "pubDate": "Thu, 30 Jul 2026 10:30:00 +0000",
       "source": "wired.com"
@@ -227,18 +239,6 @@
       "title": "Dyson Promo Codes: 25% Off in August 2026",
       "link": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
       "pubDate": "Thu, 30 Jul 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "It Looks Like Nothing Can Dent MAGA’s Support for ICE",
-      "link": "https://www.wired.com/story/it-looks-like-nothing-can-dent-magas-support-for-ice/",
-      "pubDate": "Wed, 29 Jul 2026 21:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Save Up to $100 on Apple’s Newest AirPods (2026)",
-      "link": "https://www.wired.com/story/apple-airpods-deal-july-2026/",
-      "pubDate": "Wed, 29 Jul 2026 20:44:10 +0000",
       "source": "wired.com"
     }
   ],

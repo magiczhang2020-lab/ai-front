@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-07-30T15:05:01.965402+00:00",
+  "updatedAt": "2026-07-30T17:17:50.936907+00:00",
   "items": [
+    {
+      "title": "Okta buys AI security startup Permiso; source says for about $200M",
+      "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+      "pubDate": "Thu, 30 Jul 2026 16:09:42 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Tesla made its 10 millionth EV",
+      "link": "https://techcrunch.com/2026/07/30/tesla-made-its-10-millionth-ev/",
+      "pubDate": "Thu, 30 Jul 2026 16:00:25 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "When will fusion power startup Commonwealth Fusion Systems go public?",
+      "link": "https://techcrunch.com/2026/07/30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public/",
+      "pubDate": "Thu, 30 Jul 2026 15:45:36 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Meta says AI is making it easier to build new apps — and more are coming",
+      "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+      "pubDate": "Thu, 30 Jul 2026 15:41:16 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Netflix lands global streaming deal for ‘The Walking Dead’",
+      "link": "https://techcrunch.com/2026/07/30/netflix-lands-global-streaming-deal-for-the-walking-dead/",
+      "pubDate": "Thu, 30 Jul 2026 15:27:08 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+      "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+      "pubDate": "Thu, 30 Jul 2026 15:19:15 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Fusion power darling Commonwealth Fusion Systems raises another $1B",
+      "link": "https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/",
+      "pubDate": "Thu, 30 Jul 2026 15:17:39 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
       "link": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
@@ -80,46 +122,28 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-      "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-      "pubDate": "Wed, 29 Jul 2026 21:07:48 +0000",
-      "source": "techcrunch.com"
+      "title": "For the First Time, Zoox Can Charge People for Rides in Its Steering-Wheel-Free Robotaxis",
+      "link": "https://www.wired.com/story/zoox-becomes-the-first-steering-wheel-free-robotaxi-to-charge-for-rides-in-the-us/",
+      "pubDate": "Thu, 30 Jul 2026 17:06:13 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Winamp aims for a comeback with a new music player powered by Deezer",
-      "link": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/",
-      "pubDate": "Wed, 29 Jul 2026 21:02:12 +0000",
-      "source": "techcrunch.com"
+      "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
+      "link": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/",
+      "pubDate": "Thu, 30 Jul 2026 17:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "The Hugging Face break-in explained",
-      "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-      "pubDate": "Wed, 29 Jul 2026 19:44:49 +0000",
-      "source": "techcrunch.com"
+      "title": "The New Friend AI Pendant Can Now Talk Back to You",
+      "link": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
+      "pubDate": "Thu, 30 Jul 2026 16:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-      "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-      "pubDate": "Wed, 29 Jul 2026 18:45:27 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Sorry, haters. Ferrari’s first EV is doing just fine",
-      "link": "https://techcrunch.com/2026/07/29/sorry-haters-ferraris-first-ev-is-doing-just-fine/",
-      "pubDate": "Wed, 29 Jul 2026 17:57:45 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Waymo robotaxis are starting to return to freeways",
-      "link": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/",
-      "pubDate": "Wed, 29 Jul 2026 17:50:57 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
-      "link": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/",
-      "pubDate": "Wed, 29 Jul 2026 17:41:09 +0000",
-      "source": "techcrunch.com"
+      "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
+      "link": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
+      "pubDate": "Thu, 30 Jul 2026 15:04:22 +0000",
+      "source": "wired.com"
     },
     {
       "title": "Razer Huntsman V3 HE Review: Jumping on the Bandwagon",
@@ -214,30 +238,6 @@
     {
       "title": "Hotels.com Coupon Codes for August 2026",
       "link": "https://www.wired.com/story/hotels-com-coupon/",
-      "pubDate": "Thu, 30 Jul 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Office Depot Coupons: Save With Promo Codes in August 2026",
-      "link": "https://www.wired.com/story/office-depot-promo-codes/",
-      "pubDate": "Thu, 30 Jul 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Bose Promo Code: 40% Off for August 2026",
-      "link": "https://www.wired.com/story/bose-coupon-code/",
-      "pubDate": "Thu, 30 Jul 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Columbia Promo Codes: 15% Off | August 2026",
-      "link": "https://www.wired.com/story/columbia-promo-code/",
-      "pubDate": "Thu, 30 Jul 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Dyson Promo Codes: 25% Off in August 2026",
-      "link": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
       "pubDate": "Thu, 30 Jul 2026 05:00:00 +0000",
       "source": "wired.com"
     }

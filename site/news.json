@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-07-30T23:55:52.063247+00:00",
+  "updatedAt": "2026-07-31T02:14:34.788092+00:00",
   "items": [
+    {
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "pubDate": "Fri, 31 Jul 2026 01:06:54 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
       "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
@@ -116,10 +122,10 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Fusion power darling Commonwealth Fusion Systems raises another $1B",
-      "link": "https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/",
-      "pubDate": "Thu, 30 Jul 2026 15:17:39 +0000",
-      "source": "techcrunch.com"
+      "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+      "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+      "pubDate": "Fri, 31 Jul 2026 01:24:26 +0000",
+      "source": "wired.com"
     },
     {
       "title": "How the FCC’s New Rule Will Affect Robot Vacuums",
@@ -232,12 +238,6 @@
     {
       "title": "TCL Tab A1 Plus Review (2026): Cheap Tablet That Doesn’t Feel It",
       "link": "https://www.wired.com/review/tcl-tab-a1-plus-tablet/",
-      "pubDate": "Thu, 30 Jul 2026 10:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "A Civilian Plane Crashed in New Mexico. Was the Military’s Tech to Blame?",
-      "link": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
       "pubDate": "Thu, 30 Jul 2026 10:00:00 +0000",
       "source": "wired.com"
     }

@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-07-31T22:00:24.084623+00:00",
+  "updatedAt": "2026-07-31T23:55:08.113788+00:00",
   "items": [
+    {
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "pubDate": "Fri, 31 Jul 2026 22:47:26 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
       "link": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
@@ -116,10 +122,10 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-      "pubDate": "Thu, 30 Jul 2026 23:25:58 +0000",
-      "source": "techcrunch.com"
+      "title": "SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth",
+      "link": "https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/",
+      "pubDate": "Fri, 31 Jul 2026 23:38:56 +0000",
+      "source": "wired.com"
     },
     {
       "title": "Chinese AI Researchers Are Finding Their Voice on X",
@@ -233,12 +239,6 @@
       "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
       "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
       "pubDate": "Thu, 30 Jul 2026 20:12:57 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
-      "link": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
-      "pubDate": "Thu, 30 Jul 2026 17:51:10 +0000",
       "source": "wired.com"
     }
   ],

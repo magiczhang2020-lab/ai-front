@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-02T20:44:04.121887+00:00",
+  "updatedAt": "2026-08-02T21:47:27.058847+00:00",
   "items": [
+    {
+      "title": "The global memory shortage hits the MacBook Air",
+      "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+      "pubDate": "Sun, 02 Aug 2026 21:33:59 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Sam Altman and AI’s decel debate",
+      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "pubDate": "Sun, 02 Aug 2026 20:54:22 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
       "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
@@ -110,18 +122,6 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "VC-backed startups commit more fraud, and researchers think they know why",
-      "link": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
-      "pubDate": "Fri, 31 Jul 2026 19:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-      "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-      "pubDate": "Fri, 31 Jul 2026 17:26:32 +0000",
-      "source": "techcrunch.com"
-    },
-    {
       "title": "8 Best Password Managers (2026), Tested and Reviewed",
       "link": "https://www.wired.com/story/best-password-managers/",
       "pubDate": "Sun, 02 Aug 2026 11:30:00 +0000",
@@ -152,14 +152,14 @@
       "source": "wired.com"
     },
     {
-      "title": "Is It Possible to Make Smart Glasses That Aren’t Creepy?",
-      "link": "https://www.wired.com/story/is-it-possible-to-make-privacy-friendly-smart-glasses/",
+      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+      "link": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
       "pubDate": "Sun, 02 Aug 2026 10:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
-      "link": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+      "title": "Is It Possible to Make Smart Glasses That Aren’t Creepy?",
+      "link": "https://www.wired.com/story/is-it-possible-to-make-privacy-friendly-smart-glasses/",
       "pubDate": "Sun, 02 Aug 2026 10:00:00 +0000",
       "source": "wired.com"
     },
@@ -171,12 +171,6 @@
     },
     {
       "title": "15 Best Office Chairs of 2026— We Tested 70 to Pick Them",
-      "link": "https://www.wired.com/gallery/best-office-chairs-button-1/",
-      "pubDate": "Sat, 01 Aug 2026 11:59:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "15 Best Office Chairs of 2026— We Tested 70 to Pick Them",
       "link": "https://www.wired.com/gallery/best-office-chairs-no-button-2/",
       "pubDate": "Sat, 01 Aug 2026 11:59:00 +0000",
       "source": "wired.com"
@@ -184,6 +178,12 @@
     {
       "title": "15 Best Office Chairs of 2026—We Tested 70 to Pick Them",
       "link": "https://www.wired.com/gallery/best-office-chairs/",
+      "pubDate": "Sat, 01 Aug 2026 11:59:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "15 Best Office Chairs of 2026— We Tested 70 to Pick Them",
+      "link": "https://www.wired.com/gallery/best-office-chairs-button-1/",
       "pubDate": "Sat, 01 Aug 2026 11:59:00 +0000",
       "source": "wired.com"
     },

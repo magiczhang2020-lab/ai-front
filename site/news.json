@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-08-03T16:15:35.915290+00:00",
+  "updatedAt": "2026-08-03T18:44:25.995821+00:00",
   "items": [
+    {
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "pubDate": "Mon, 03 Aug 2026 18:43:43 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Outernet turns your saved posts into real-world adventures",
+      "link": "https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/",
+      "pubDate": "Mon, 03 Aug 2026 18:00:24 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "WhatsApp says it is is fixing an issue that disabled several accounts",
+      "link": "https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/",
+      "pubDate": "Mon, 03 Aug 2026 17:46:01 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
+      "link": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/",
+      "pubDate": "Mon, 03 Aug 2026 17:16:43 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Base Power raises another $1B to save the grid using backyard batteries",
+      "link": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
+      "pubDate": "Mon, 03 Aug 2026 16:46:57 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Congress’s favorite AI tool? ChatGPT",
+      "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "pubDate": "Mon, 03 Aug 2026 16:40:55 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Wispr Flow is preparing to launch a meeting notetaker, updated terms suggest",
+      "link": "https://techcrunch.com/2026/08/03/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/",
+      "pubDate": "Mon, 03 Aug 2026 16:29:30 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
       "link": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
@@ -80,48 +122,6 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "This $9 key physically locks your most addictive apps",
-      "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-      "pubDate": "Sat, 01 Aug 2026 15:58:17 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
-      "link": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
-      "pubDate": "Sat, 01 Aug 2026 15:05:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Apps that help you break free from doomscrolling and get active",
-      "link": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/",
-      "pubDate": "Sat, 01 Aug 2026 14:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "What’s the best handheld mini fan?",
-      "link": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
-      "pubDate": "Sat, 01 Aug 2026 13:36:54 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "pubDate": "Fri, 31 Jul 2026 22:47:26 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
-      "link": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
-      "pubDate": "Fri, 31 Jul 2026 22:00:08 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Silicon Valley loves young founders. Until it doesn’t.",
-      "link": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-      "pubDate": "Fri, 31 Jul 2026 22:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
       "title": "Best Robot Lawn Mowers (2026): My Picks After 3 Years of Testing",
       "link": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
       "pubDate": "Mon, 03 Aug 2026 11:30:00 +0000",
@@ -152,14 +152,14 @@
       "source": "wired.com"
     },
     {
-      "title": "AI Conquered Coding. Fast Food Is Next",
-      "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
+      "title": "ICE Collected Nearly 1 Million People’s DNA Last Year—Including Young Children",
+      "link": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
       "pubDate": "Mon, 03 Aug 2026 10:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "ICE Collected Nearly 1 Million People’s DNA Last Year—Including Young Children",
-      "link": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
+      "title": "AI Conquered Coding. Fast Food Is Next",
+      "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
       "pubDate": "Mon, 03 Aug 2026 10:00:00 +0000",
       "source": "wired.com"
     },

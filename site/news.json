@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-08-04T18:23:27.532386+00:00",
+  "updatedAt": "2026-08-04T20:19:28.698075+00:00",
   "items": [
+    {
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "pubDate": "Tue, 04 Aug 2026 20:05:26 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "pubDate": "Tue, 04 Aug 2026 19:48:40 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+      "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+      "pubDate": "Tue, 04 Aug 2026 19:34:34 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "pubDate": "Tue, 04 Aug 2026 19:28:49 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Waymo opens up robotaxi service in Dallas to everyone",
       "link": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
@@ -98,30 +122,6 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
-      "link": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
-      "pubDate": "Mon, 03 Aug 2026 22:10:58 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-      "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-      "pubDate": "Mon, 03 Aug 2026 20:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
-      "link": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
-      "pubDate": "Mon, 03 Aug 2026 19:45:35 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-      "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-      "pubDate": "Mon, 03 Aug 2026 19:28:57 +0000",
-      "source": "techcrunch.com"
-    },
-    {
       "title": "Landmark Deal Would Officially Add Laser Weapons to US Army Arsenal",
       "link": "https://www.wired.com/story/landmark-deal-would-officially-add-laser-weapons-to-us-army-arsenal/",
       "pubDate": "Tue, 04 Aug 2026 15:29:45 +0000",
@@ -182,12 +182,6 @@
       "source": "wired.com"
     },
     {
-      "title": "Nomad Goods Promo Codes: Get 25% Off in August 2026",
-      "link": "https://www.wired.com/story/nomad-discount-code/",
-      "pubDate": "Tue, 04 Aug 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
       "title": "Loop Earplugs Discount Codes: 40% Off",
       "link": "https://www.wired.com/story/loop-earplugs-discount-code/",
       "pubDate": "Tue, 04 Aug 2026 05:00:00 +0000",
@@ -230,14 +224,20 @@
       "source": "wired.com"
     },
     {
-      "title": "We-Vibe Discount Codes and Deals: Up to 60% Off",
-      "link": "https://www.wired.com/story/we-vibe-discount-code/",
+      "title": "Lenovo Coupon Codes and Deals in August 2026",
+      "link": "https://www.wired.com/story/lenovo-coupon-code/",
       "pubDate": "Tue, 04 Aug 2026 05:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Lenovo Coupon Codes and Deals in August 2026",
-      "link": "https://www.wired.com/story/lenovo-coupon-code/",
+      "title": "Nomad Goods Promo Codes: Get 25% Off in August 2026",
+      "link": "https://www.wired.com/story/nomad-discount-code/",
+      "pubDate": "Tue, 04 Aug 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "We-Vibe Discount Codes and Deals: Up to 60% Off",
+      "link": "https://www.wired.com/story/we-vibe-discount-code/",
       "pubDate": "Tue, 04 Aug 2026 05:00:00 +0000",
       "source": "wired.com"
     }

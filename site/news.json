@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-08-07T22:26:56.745168+00:00",
+  "updatedAt": "2026-08-07T23:26:35.902144+00:00",
   "items": [
+    {
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "pubDate": "Fri, 07 Aug 2026 22:48:24 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
       "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
@@ -116,12 +122,6 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Ford needs another Taurus, and the $30K Fathom EV pickup isn’t it",
-      "link": "https://techcrunch.com/2026/08/06/ford-needs-another-taurus-and-the-30k-fathom-ev-pickup-isnt-it/",
-      "pubDate": "Thu, 06 Aug 2026 17:41:56 +0000",
-      "source": "techcrunch.com"
-    },
-    {
       "title": "The Chinese Philosopher Americans Can’t Stop Fighting About",
       "link": "https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/",
       "pubDate": "Fri, 07 Aug 2026 18:54:04 +0000",
@@ -194,12 +194,6 @@
       "source": "wired.com"
     },
     {
-      "title": "Ray-Ban Promo Codes: Save 50% in August 2026",
-      "link": "https://www.wired.com/story/ray-ban-promo-code/",
-      "pubDate": "Fri, 07 Aug 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
       "title": "Google Workspace Promo Codes: 14% Off for August 2026",
       "link": "https://www.wired.com/story/google-workspace-promo-code/",
       "pubDate": "Fri, 07 Aug 2026 05:00:00 +0000",
@@ -236,8 +230,14 @@
       "source": "wired.com"
     },
     {
-      "title": "B&H Photo Promo Codes and Deals This August 2026",
-      "link": "https://www.wired.com/story/bh-photo-coupon/",
+      "title": "Surfshark Promo Codes: 87% Off | August 2026",
+      "link": "https://www.wired.com/story/surfshark-coupon/",
+      "pubDate": "Fri, 07 Aug 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Ray-Ban Promo Codes: Save 50% in August 2026",
+      "link": "https://www.wired.com/story/ray-ban-promo-code/",
       "pubDate": "Fri, 07 Aug 2026 05:00:00 +0000",
       "source": "wired.com"
     }

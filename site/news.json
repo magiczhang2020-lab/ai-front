@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-08-13T19:52:25.968488+00:00",
+  "updatedAt": "2026-08-13T20:33:35.111008+00:00",
   "items": [
+    {
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "pubDate": "Thu, 13 Aug 2026 20:14:39 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
       "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
@@ -116,12 +122,6 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "pubDate": "Wed, 12 Aug 2026 17:51:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
       "title": "The Painful Truth of Exactly How ICE’s New Shock Gloves Work",
       "link": "https://www.wired.com/story/the-painful-truth-of-exactly-how-ice-new-shock-gloves-actually-work/",
       "pubDate": "Thu, 13 Aug 2026 15:57:12 +0000",
@@ -200,8 +200,20 @@
       "source": "wired.com"
     },
     {
-      "title": "Jabra Promo Codes: 30% Off  Headphones, Headsets & More",
-      "link": "https://www.wired.com/story/jabra-promo-codes-coupons/",
+      "title": "Herman Miller Promo Codes: 40% Off August 2026",
+      "link": "https://www.wired.com/story/herman-miller-promo-code/",
+      "pubDate": "Thu, 13 Aug 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Braun Promo Codes: 15% Off August",
+      "link": "https://www.wired.com/story/braun-promo-code/",
+      "pubDate": "Thu, 13 Aug 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Factor Promo Code: 50% Off Off Meal Prep",
+      "link": "https://www.wired.com/story/factor-promo-code/",
       "pubDate": "Thu, 13 Aug 2026 05:00:00 +0000",
       "source": "wired.com"
     },
@@ -224,20 +236,8 @@
       "source": "wired.com"
     },
     {
-      "title": "Herman Miller Promo Codes: 40% Off August 2026",
-      "link": "https://www.wired.com/story/herman-miller-promo-code/",
-      "pubDate": "Thu, 13 Aug 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Braun Promo Codes: 15% Off August",
-      "link": "https://www.wired.com/story/braun-promo-code/",
-      "pubDate": "Thu, 13 Aug 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Factor Promo Code: 50% Off Off Meal Prep",
-      "link": "https://www.wired.com/story/factor-promo-code/",
+      "title": "Jabra Promo Codes: 30% Off  Headphones, Headsets & More",
+      "link": "https://www.wired.com/story/jabra-promo-codes-coupons/",
       "pubDate": "Thu, 13 Aug 2026 05:00:00 +0000",
       "source": "wired.com"
     }

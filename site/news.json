@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-08-15T16:15:04.699409+00:00",
+  "updatedAt": "2026-08-15T17:13:57.486560+00:00",
   "items": [
+    {
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "pubDate": "Sat, 15 Aug 2026 16:30:00 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "How to tell if your AI platforms’ accounts have been hacked",
       "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
@@ -116,20 +122,14 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "pubDate": "Thu, 13 Aug 2026 20:14:39 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "This Beautifully Weird Necklace Is Secretly a USB Drive",
-      "link": "https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/",
+      "title": "Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride",
+      "link": "https://www.wired.com/review/retrospec-joe-rev-2/",
       "pubDate": "Sat, 15 Aug 2026 11:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride",
-      "link": "https://www.wired.com/review/retrospec-joe-rev-2/",
+      "title": "This Beautifully Weird Necklace Is Secretly a USB Drive",
+      "link": "https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/",
       "pubDate": "Sat, 15 Aug 2026 11:00:00 +0000",
       "source": "wired.com"
     },

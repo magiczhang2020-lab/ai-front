@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-08-18T17:19:37.296477+00:00",
+  "updatedAt": "2026-08-18T18:25:44.223146+00:00",
   "items": [
+    {
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "pubDate": "Tue, 18 Aug 2026 18:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
+      "link": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+      "pubDate": "Tue, 18 Aug 2026 17:31:01 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Etched’s valuation doubles to $21B in a month",
+      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "pubDate": "Tue, 18 Aug 2026 17:21:58 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
       "link": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
@@ -104,24 +122,6 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
-      "link": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
-      "pubDate": "Mon, 17 Aug 2026 20:18:35 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
-      "link": "https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-      "pubDate": "Mon, 17 Aug 2026 19:33:51 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Spotify’s new Playlist Notes let users and editors explain their song picks",
-      "link": "https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/",
-      "pubDate": "Mon, 17 Aug 2026 19:24:43 +0000",
-      "source": "techcrunch.com"
-    },
-    {
       "title": "Viral Disneyland Content Creator Defends Her ‘Special Friendship’ With Peter Pan",
       "link": "https://www.wired.com/story/viral-disneyland-content-creator-defends-her-special-friendship-with-peter-pan/",
       "pubDate": "Tue, 18 Aug 2026 15:50:29 +0000",
@@ -146,14 +146,14 @@
       "source": "wired.com"
     },
     {
-      "title": "Exclusive: You Can Finally Buy a Fairphone—a Sustainable, Repairable Smartphone—in the US",
-      "link": "https://www.wired.com/story/you-can-finally-buy-a-fairphone-a-sustainable-repairable-smartphone-in-the-us/",
+      "title": "Can AI Coexist With Privacy? Proton’s Andy Yen Says It Will Have To",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton/",
       "pubDate": "Tue, 18 Aug 2026 10:30:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Can AI Coexist With Privacy? Proton’s Andy Yen Says It Will Have To",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton/",
+      "title": "Exclusive: You Can Finally Buy a Fairphone—a Sustainable, Repairable Smartphone—in the US",
+      "link": "https://www.wired.com/story/you-can-finally-buy-a-fairphone-a-sustainable-repairable-smartphone-in-the-us/",
       "pubDate": "Tue, 18 Aug 2026 10:30:00 +0000",
       "source": "wired.com"
     },
@@ -200,12 +200,6 @@
       "source": "wired.com"
     },
     {
-      "title": "Womanizer Coupons: Save 15% in August",
-      "link": "https://www.wired.com/story/womanizer-coupon/",
-      "pubDate": "Tue, 18 Aug 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
       "title": "Vivid Seats Promo Codes and Deals: Get 10% Off",
       "link": "https://www.wired.com/story/vivid-seats-promo-code/",
       "pubDate": "Tue, 18 Aug 2026 05:00:00 +0000",
@@ -226,6 +220,12 @@
     {
       "title": "Ring Promo Code: 50% Off",
       "link": "https://www.wired.com/story/ring-promo-code/",
+      "pubDate": "Tue, 18 Aug 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Womanizer Coupons: Save 15% in August",
+      "link": "https://www.wired.com/story/womanizer-coupon/",
       "pubDate": "Tue, 18 Aug 2026 05:00:00 +0000",
       "source": "wired.com"
     },

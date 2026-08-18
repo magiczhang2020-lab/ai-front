@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-08-18T09:24:20.503245+00:00",
+  "updatedAt": "2026-08-18T10:19:56.960773+00:00",
   "items": [
+    {
+      "title": "Detroit startup Grounded raises $5M to customize electric and gas-powered vans",
+      "link": "https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/",
+      "pubDate": "Tue, 18 Aug 2026 10:00:00 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Anthropic’s annualized revenue surges to $65B",
       "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
@@ -116,10 +122,10 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-      "pubDate": "Sun, 16 Aug 2026 20:32:01 +0000",
-      "source": "techcrunch.com"
+      "title": "The Cop Who Took On Flock",
+      "link": "https://www.wired.com/story/the-cop-who-took-on-flock/",
+      "pubDate": "Tue, 18 Aug 2026 10:00:00 +0000",
+      "source": "wired.com"
     },
     {
       "title": "The Powerful Chinese Model Experts Warned About—and Waited for—Is Here",
@@ -158,12 +164,6 @@
       "source": "wired.com"
     },
     {
-      "title": "Womanizer Coupons: Save 15% in August",
-      "link": "https://www.wired.com/story/womanizer-coupon/",
-      "pubDate": "Tue, 18 Aug 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
       "title": "Vivid Seats Promo Codes and Deals: Get 10% Off",
       "link": "https://www.wired.com/story/vivid-seats-promo-code/",
       "pubDate": "Tue, 18 Aug 2026 05:00:00 +0000",
@@ -184,6 +184,12 @@
     {
       "title": "Ring Promo Code: 50% Off",
       "link": "https://www.wired.com/story/ring-promo-code/",
+      "pubDate": "Tue, 18 Aug 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Womanizer Coupons: Save 15% in August",
+      "link": "https://www.wired.com/story/womanizer-coupon/",
       "pubDate": "Tue, 18 Aug 2026 05:00:00 +0000",
       "source": "wired.com"
     },
@@ -233,12 +239,6 @@
       "title": "There’s a New Link Between Gut Health and Alzheimer’s Disease",
       "link": "https://www.wired.com/story/new-link-between-gut-health-and-alzheimers/",
       "pubDate": "Mon, 17 Aug 2026 09:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Astronomers Discover the Existence of a Black Hole Star",
-      "link": "https://www.wired.com/story/black-hole-stars-are-becoming-less-hypothetical/",
-      "pubDate": "Sun, 16 Aug 2026 11:00:00 +0000",
       "source": "wired.com"
     }
   ],

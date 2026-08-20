@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-20T19:24:37.951441+00:00",
+  "updatedAt": "2026-08-20T20:19:29.245334+00:00",
   "items": [
+    {
+      "title": "Someone targeted security researchers using a fake crypto conference as a lure",
+      "link": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
+      "pubDate": "Thu, 20 Aug 2026 20:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Mark buys a castle",
+      "link": "https://techcrunch.com/2026/08/20/mark-buys-a-castle/",
+      "pubDate": "Thu, 20 Aug 2026 19:55:40 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Google gives publishers a new way to fight AI-driven traffic losses",
       "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
@@ -8,7 +20,7 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Runlayer, Rippling drop lawsuits. But the brouhaha is still a cautionary tale for founders.",
+      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
       "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
       "pubDate": "Thu, 20 Aug 2026 19:15:05 +0000",
       "source": "techcrunch.com"
@@ -110,16 +122,10 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "US says hackers are targeting vulnerable water systems with the help of AI",
-      "link": "https://techcrunch.com/2026/08/20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-of-ai/",
-      "pubDate": "Thu, 20 Aug 2026 12:43:19 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Meta AI’s new Mac app wants you to talk to your apps",
-      "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-      "pubDate": "Thu, 20 Aug 2026 12:11:57 +0000",
-      "source": "techcrunch.com"
+      "title": "China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?",
+      "link": "https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready/",
+      "pubDate": "Thu, 20 Aug 2026 20:03:13 +0000",
+      "source": "wired.com"
     },
     {
       "title": "Silicon Valley Doesn't Get Why You Hate AI",
@@ -233,12 +239,6 @@
       "title": "Elon Musk Is Expected to Point His Money Machine at Texas Politics",
       "link": "https://www.wired.com/story/elon-musk-is-expected-to-point-his-money-machine-at-texas/",
       "pubDate": "Wed, 19 Aug 2026 23:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
-      "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
-      "pubDate": "Wed, 19 Aug 2026 19:30:00 +0000",
       "source": "wired.com"
     }
   ],

@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-26T13:47:52.343196+00:00",
+  "updatedAt": "2026-08-26T14:36:44.297923+00:00",
   "items": [
+    {
+      "title": "CISA confirms hackers targeted over 100 US water systems during July",
+      "link": "https://techcrunch.com/2026/08/26/cisa-confirms-hackers-targeted-over-100-us-water-systems-during-july/",
+      "pubDate": "Wed, 26 Aug 2026 14:31:05 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+      "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+      "pubDate": "Wed, 26 Aug 2026 14:19:29 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
       "link": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/",
@@ -110,16 +122,10 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Waymo robotaxis are headed to Munich",
-      "link": "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/",
-      "pubDate": "Tue, 25 Aug 2026 17:32:03 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Life360 expands pet tracking with new $8 scannable tags and zoomie alerts",
-      "link": "https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/",
-      "pubDate": "Tue, 25 Aug 2026 16:35:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Meta Will Pay Up to $16.7 Billion to Settle Its Social Media Harms Case—and That’s Not All",
+      "link": "https://www.wired.com/story/meta-will-pay-up-to-dollar167-billion-to-settle-its-social-media-harms-case-and-thats-just-for-starters/",
+      "pubDate": "Wed, 26 Aug 2026 14:08:37 +0000",
+      "source": "wired.com"
     },
     {
       "title": "PeopleFinders’ New Website Runs Background Checks on Your Dates",
@@ -200,30 +206,6 @@
       "source": "wired.com"
     },
     {
-      "title": "HP Coupon Codes and Deals August 2026",
-      "link": "https://www.wired.com/story/hp-coupon-code/",
-      "pubDate": "Wed, 26 Aug 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Target Promo Code: $50 Off | August 2026",
-      "link": "https://www.wired.com/story/target-promo-code/",
-      "pubDate": "Wed, 26 Aug 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "PlayStation Discount Code: Save on PS5 Games August 2026",
-      "link": "https://www.wired.com/story/playstation-discount-code/",
-      "pubDate": "Wed, 26 Aug 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "25% Off Adidas Promo Code | August 2026",
-      "link": "https://www.wired.com/story/adidas-promo-code/",
-      "pubDate": "Wed, 26 Aug 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
       "title": "Vitamix Promo Codes and Deals: $25 Off + Free Shipping",
       "link": "https://www.wired.com/story/vitamix-promo-code/",
       "pubDate": "Wed, 26 Aug 2026 05:00:00 +0000",
@@ -236,9 +218,27 @@
       "source": "wired.com"
     },
     {
-      "title": "‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance",
-      "link": "https://www.wired.com/story/darth-vader-wants-you-to-know-he-definitely-supports-flock-surveillance/",
-      "pubDate": "Tue, 25 Aug 2026 21:51:32 +0000",
+      "title": "PlayStation Discount Code: Save on PS5 Games August 2026",
+      "link": "https://www.wired.com/story/playstation-discount-code/",
+      "pubDate": "Wed, 26 Aug 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Target Promo Code: $50 Off | August 2026",
+      "link": "https://www.wired.com/story/target-promo-code/",
+      "pubDate": "Wed, 26 Aug 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "HP Coupon Codes and Deals August 2026",
+      "link": "https://www.wired.com/story/hp-coupon-code/",
+      "pubDate": "Wed, 26 Aug 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "25% Off Adidas Promo Code | August 2026",
+      "link": "https://www.wired.com/story/adidas-promo-code/",
+      "pubDate": "Wed, 26 Aug 2026 05:00:00 +0000",
       "source": "wired.com"
     }
   ],

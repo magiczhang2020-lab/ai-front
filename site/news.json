@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-09-02T14:51:09.948037+00:00",
+  "updatedAt": "2026-09-02T18:17:43.108383+00:00",
   "items": [
+    {
+      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "pubDate": "Wed, 02 Sep 2026 17:18:13 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "X shifts US creator payouts from Stripe to X Money",
+      "link": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
+      "pubDate": "Wed, 02 Sep 2026 17:12:27 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "pubDate": "Wed, 02 Sep 2026 17:09:06 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
+      "link": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
+      "pubDate": "Wed, 02 Sep 2026 16:54:23 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+      "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "pubDate": "Wed, 02 Sep 2026 16:04:10 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+      "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+      "pubDate": "Wed, 02 Sep 2026 16:01:48 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+      "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+      "pubDate": "Wed, 02 Sep 2026 15:01:23 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+      "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+      "pubDate": "Wed, 02 Sep 2026 14:56:34 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Adobe acquires Indian market intelligence startup Rilo",
       "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
@@ -74,52 +122,10 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO",
-      "link": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
-      "pubDate": "Tue, 01 Sep 2026 19:45:28 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "pubDate": "Tue, 01 Sep 2026 19:39:22 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer",
-      "link": "https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/",
-      "pubDate": "Tue, 01 Sep 2026 19:30:24 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Who is John Ternus, the new Apple CEO?",
-      "link": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
-      "pubDate": "Tue, 01 Sep 2026 18:02:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-      "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-      "pubDate": "Tue, 01 Sep 2026 17:35:37 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-      "pubDate": "Tue, 01 Sep 2026 17:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Waymo goes on offense ahead of Tesla’s Cybercab launch",
-      "link": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/",
-      "pubDate": "Tue, 01 Sep 2026 16:49:12 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-      "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-      "pubDate": "Tue, 01 Sep 2026 16:31:04 +0000",
-      "source": "techcrunch.com"
+      "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
+      "link": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
+      "pubDate": "Wed, 02 Sep 2026 15:51:46 +0000",
+      "source": "wired.com"
     },
     {
       "title": "The Cybercab Is Almost Here. Now Comes the Hard Part",
@@ -194,12 +200,6 @@
       "source": "wired.com"
     },
     {
-      "title": "Altra Running Promo Codes: 10% Off September 2026",
-      "link": "https://www.wired.com/story/altra-promo-code/",
-      "pubDate": "Wed, 02 Sep 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
       "title": "Verizon Promo Codes: $200 Verizon Gift Cards | September 2026",
       "link": "https://www.wired.com/story/verizon-promo-code/",
       "pubDate": "Wed, 02 Sep 2026 05:00:00 +0000",
@@ -218,6 +218,12 @@
       "source": "wired.com"
     },
     {
+      "title": "Altra Running Promo Codes: 10% Off September 2026",
+      "link": "https://www.wired.com/story/altra-promo-code/",
+      "pubDate": "Wed, 02 Sep 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
       "title": "Uplift Promo Codes: $300 Off",
       "link": "https://www.wired.com/story/uplift-desk-coupon-code/",
       "pubDate": "Wed, 02 Sep 2026 05:00:00 +0000",
@@ -232,12 +238,6 @@
     {
       "title": "The Diamond Moon and Other Astronomical Events to See in September 2026",
       "link": "https://www.wired.com/story/diamond-moon-and-other-astronomical-events-september-2026/",
-      "pubDate": "Tue, 01 Sep 2026 20:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
-      "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
       "pubDate": "Tue, 01 Sep 2026 20:00:00 +0000",
       "source": "wired.com"
     }

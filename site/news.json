@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-09-08T07:38:47.356525+00:00",
+  "updatedAt": "2026-09-08T12:28:25.424341+00:00",
   "items": [
+    {
+      "title": "Stoke Space raises another billion to rival SpaceX at re-flying rockets",
+      "link": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
+      "pubDate": "Tue, 08 Sep 2026 09:00:00 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
       "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
@@ -116,13 +122,37 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "pubDate": "Fri, 04 Sep 2026 16:21:11 +0000",
-      "source": "techcrunch.com"
+      "title": "Meta Failed to Catch Hundreds of AI Child Abuse Ads. Some Included Images of Real Kids",
+      "link": "https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/",
+      "pubDate": "Tue, 08 Sep 2026 12:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Le Creuset x Star Trek Collection: Prices, availability, release date",
+      "title": "How NASA Testing Changed US Food Inspection Forever",
+      "link": "https://www.wired.com/story/book-excerpt-alex-davies-kobuk-the-destroyer-nasa-food-testing/",
+      "pubDate": "Tue, 08 Sep 2026 11:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "5 Best Smart Speakers (2026): Alexa, Google, Apple",
+      "link": "https://www.wired.com/story/best-smart-speakers/",
+      "pubDate": "Tue, 08 Sep 2026 10:35:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Insta360 X6 Review (2026): A Great 360 and Action Camera Hybrid",
+      "link": "https://www.wired.com/review/insta360-x6-camera/",
+      "pubDate": "Tue, 08 Sep 2026 10:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Gen AI Tools Are Now Being Used to Push ‘Slop Jihad’",
+      "link": "https://www.wired.com/story/gen-ai-tools-are-now-being-used-to-push-slop-jihad/",
+      "pubDate": "Tue, 08 Sep 2026 10:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Le Creuset x Star Trek Collection: Prices, Availability, Release Date",
       "link": "https://www.wired.com/story/to-boldly-dough-le-creuset-sent-its-new-star-trek-cooking-collection-into-space/",
       "pubDate": "Mon, 07 Sep 2026 23:00:00 +0000",
       "source": "wired.com"
@@ -206,39 +236,9 @@
       "source": "wired.com"
     },
     {
-      "title": "My Brief Summer Fling With Siri AI",
-      "link": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
-      "pubDate": "Sun, 06 Sep 2026 10:30:00 +0000",
-      "source": "wired.com"
-    },
-    {
       "title": "These Cyborg Cockroaches Could Save Your Life",
       "link": "https://www.wired.com/story/cyborg-cockroaches-disaster-response/",
       "pubDate": "Sun, 06 Sep 2026 10:30:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Best Water Leak Detectors (2026): Moen, Phyn, TP-Link",
-      "link": "https://www.wired.com/gallery/best-water-leak-detector/",
-      "pubDate": "Sun, 06 Sep 2026 10:09:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
-      "link": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
-      "pubDate": "Sun, 06 Sep 2026 10:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "The Best Gaming Chairs (2026): Are They Worth It?",
-      "link": "https://www.wired.com/gallery/best-gaming-chairs/",
-      "pubDate": "Sun, 06 Sep 2026 09:45:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "4 Best Alexa Speakers I’ve Tested (2026)",
-      "link": "https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/",
-      "pubDate": "Sat, 05 Sep 2026 11:01:00 +0000",
       "source": "wired.com"
     }
   ],

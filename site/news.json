@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-09-09T05:40:05.839120+00:00",
+  "updatedAt": "2026-09-09T10:31:43.109397+00:00",
   "items": [
+    {
+      "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
+      "link": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
+      "pubDate": "Wed, 09 Sep 2026 06:00:00 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
       "link": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
@@ -116,10 +122,28 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "What we expect from the upcoming Apple launch",
-      "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
-      "pubDate": "Mon, 07 Sep 2026 15:58:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Lyft Sees a Future for Its Drivers in a Driverless World: Servicing Waymos",
+      "link": "https://www.wired.com/story/lyft-waymo-partnership-nashville/",
+      "pubDate": "Wed, 09 Sep 2026 10:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "A US Census Report on Noncitizen Voting Used Bad Data to Reach Faulty Conclusions",
+      "link": "https://www.wired.com/story/a-us-census-report-on-noncitizen-voting-used-bad-data-to-reach-faulty-conclusions/",
+      "pubDate": "Wed, 09 Sep 2026 10:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "There’s a Hot New Egg-Freezing Startup. It’s Weirder Than You Could Imagine",
+      "link": "https://www.wired.com/story/egg-freezing-startup-cofertility-weirder-than-you-could-imagine/",
+      "pubDate": "Wed, 09 Sep 2026 10:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "The Fairphone (Gen 6+) Review: Finally in the US",
+      "link": "https://www.wired.com/review/the-fairphone-gen-6-plus/",
+      "pubDate": "Wed, 09 Sep 2026 09:30:00 +0000",
+      "source": "wired.com"
     },
     {
       "title": "20% Off Brooks Promo Code | September 2026",
@@ -130,12 +154,6 @@
     {
       "title": "TurboTax Full Service Coupons This September 2026",
       "link": "https://www.wired.com/story/turbotax-coupon/",
-      "pubDate": "Wed, 09 Sep 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Valvoline Coupons and Promo Codes for September 2026",
-      "link": "https://www.wired.com/story/valvoline-coupons/",
       "pubDate": "Wed, 09 Sep 2026 05:00:00 +0000",
       "source": "wired.com"
     },
@@ -160,6 +178,12 @@
     {
       "title": "Google Workspace Promo Codes: 14% Off for September 2026",
       "link": "https://www.wired.com/story/google-workspace-promo-code/",
+      "pubDate": "Wed, 09 Sep 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Valvoline Coupons and Promo Codes for September 2026",
+      "link": "https://www.wired.com/story/valvoline-coupons/",
       "pubDate": "Wed, 09 Sep 2026 05:00:00 +0000",
       "source": "wired.com"
     },
@@ -215,30 +239,6 @@
       "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
       "link": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
       "pubDate": "Tue, 08 Sep 2026 16:42:05 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Here’s Samsung’s Advice for Apple and Its Upcoming Folding iPhone",
-      "link": "https://www.wired.com/story/samsung-advice-for-apple-and-its-upcoming-folding-iphone/",
-      "pubDate": "Tue, 08 Sep 2026 16:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Richard Kelly on Donnie Darko at 25: ‘It’s a Miracle That Any Movie Gets Made’",
-      "link": "https://www.wired.com/story/richard-kelly-donnie-darko-25th-anniversary-interview/",
-      "pubDate": "Tue, 08 Sep 2026 14:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Meta Failed to Catch Hundreds of AI Child Abuse Ads. Some Included Images of Real Kids",
-      "link": "https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/",
-      "pubDate": "Tue, 08 Sep 2026 12:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "How NASA Testing Changed US Food Inspection Forever",
-      "link": "https://www.wired.com/story/book-excerpt-alex-davies-kobuk-the-destroyer-nasa-food-testing/",
-      "pubDate": "Tue, 08 Sep 2026 11:00:00 +0000",
       "source": "wired.com"
     }
   ],

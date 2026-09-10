@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-10T07:43:15.442696+00:00",
+  "updatedAt": "2026-09-10T12:33:55.638350+00:00",
   "items": [
+    {
+      "title": "European founders and VCs urge lawmakers ‘to get EU Inc right’",
+      "link": "https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/",
+      "pubDate": "Thu, 10 Sep 2026 12:25:08 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "US Army places $11M bet on Austin-based GPS alternative Tern",
+      "link": "https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/",
+      "pubDate": "Thu, 10 Sep 2026 12:00:00 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
       "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
@@ -110,27 +122,75 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "DOJ wants more answers on Fox’s $22B Roku deal",
-      "link": "https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/",
-      "pubDate": "Wed, 09 Sep 2026 16:44:21 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Superintelligence is coming. Should we let it?",
-      "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-      "pubDate": "Wed, 09 Sep 2026 16:05:35 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Trump Offers Every American $5,000 If Republicans Win The Midterms",
-      "link": "https://www.wired.com/story/trump-offers-every-american-5000-if-republicans-win-the-midterms/",
-      "pubDate": "Thu, 10 Sep 2026 06:30:32 +0000",
+      "title": "Best Bluetooth Speaker (2026): JBL, Sonos, Marshall, and More",
+      "link": "https://www.wired.com/story/best-bluetooth-speakers/",
+      "pubDate": "Thu, 10 Sep 2026 11:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "NZXT Discount Codes: 50% Off in September 2026",
-      "link": "https://www.wired.com/story/nzxt-discount-code/",
-      "pubDate": "Thu, 10 Sep 2026 05:00:00 +0000",
+      "title": "‘Killmonger Locs’ Are Everywhere in Video Games. This Artist Is Sick of It",
+      "link": "https://www.wired.com/story/killmonger-locs-have-infiltrated-video-games-this-artist-is-sick-of-it/",
+      "pubDate": "Thu, 10 Sep 2026 10:45:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Everything New You Can Do With Siri AI",
+      "link": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
+      "pubDate": "Thu, 10 Sep 2026 10:30:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "9 Windows Laptops That Give MacBooks a Run for Their Money",
+      "link": "https://www.wired.com/gallery/best-windows-laptops/",
+      "pubDate": "Thu, 10 Sep 2026 10:30:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Imagining a Future Where a Spy Could Disappear",
+      "link": "https://www.wired.com/story/book-excerpt-emily-st-john-mandel-exit-party/",
+      "pubDate": "Thu, 10 Sep 2026 10:15:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Vari Electric Standing Desk Review (2026): Form and Value",
+      "link": "https://www.wired.com/review/vari-ergo-electric-standing-desk/",
+      "pubDate": "Thu, 10 Sep 2026 10:05:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
+      "link": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
+      "pubDate": "Thu, 10 Sep 2026 10:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "A Teen Girl’s Death Is Prompting Calls to Ban Choking in Porn",
+      "link": "https://www.wired.com/story/a-teen-girls-death-is-prompting-calls-to-ban-choking/",
+      "pubDate": "Thu, 10 Sep 2026 09:45:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Want to Get Off Your Phone? Mina Kimes Suggests Having a Baby",
+      "link": "https://www.wired.com/story/user-behavior-mina-kimes/",
+      "pubDate": "Thu, 10 Sep 2026 09:30:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "A Satellite Falling Out of Orbit Embarks on Its Final Mission",
+      "link": "https://www.wired.com/story/satellite-falling-out-of-space-embarks-on-final-mission/",
+      "pubDate": "Thu, 10 Sep 2026 09:15:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Our Favorite GoPro 360 Camera Is Now 40 Percent Off",
+      "link": "https://www.wired.com/story/gopro-max-2-deal-september-2026/",
+      "pubDate": "Thu, 10 Sep 2026 09:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Trump Probably Won't Give $5,000 to Every US Adult if Republicans Win the Midterms",
+      "link": "https://www.wired.com/story/trump-offers-every-american-5000-if-republicans-win-the-midterms/",
+      "pubDate": "Thu, 10 Sep 2026 06:30:32 +0000",
       "source": "wired.com"
     },
     {
@@ -148,6 +208,12 @@
     {
       "title": "Govee Discount Codes and Deals: 30% Off",
       "link": "https://www.wired.com/story/govee-discount-code/",
+      "pubDate": "Thu, 10 Sep 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "NZXT Discount Codes: 50% Off in September 2026",
+      "link": "https://www.wired.com/story/nzxt-discount-code/",
       "pubDate": "Thu, 10 Sep 2026 05:00:00 +0000",
       "source": "wired.com"
     },
@@ -173,72 +239,6 @@
       "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
       "link": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
       "pubDate": "Wed, 09 Sep 2026 21:15:27 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "A Year After Charlie Kirk’s Death, Turning Point Plans to Spend Big on the Midterms",
-      "link": "https://www.wired.com/story/a-year-after-charlie-kirks-death-turning-point-plans-to-spend-big-on-the-midterms/",
-      "pubDate": "Wed, 09 Sep 2026 21:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Everything Apple Announced: iPhone Duo, iPhone 18 Pro, Apple Watch, AirPods 5",
-      "link": "https://www.wired.com/story/everything-apple-announced-september-2026/",
-      "pubDate": "Wed, 09 Sep 2026 19:21:18 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Apple Doesn’t Want You to Worry About the New Apple Watch’s Listening Features",
-      "link": "https://www.wired.com/story/apple-doesnt-want-you-to-worry-about-the-new-apple-watchs-listening-features/",
-      "pubDate": "Wed, 09 Sep 2026 19:14:26 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "UK Lawmakers Are Freaking Out Over AI’s Summer of Chaos",
-      "link": "https://www.wired.com/story/uk-lawmakers-are-scrambling-in-response-to-ai-summer-of-chaos/",
-      "pubDate": "Wed, 09 Sep 2026 19:07:42 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
-      "link": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
-      "pubDate": "Wed, 09 Sep 2026 18:30:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Apple Debuts the iPhone Duo, Its First Folding iPhone",
-      "link": "https://www.wired.com/story/apple-debuts-the-iphone-duo-its-first-folding-iphone/",
-      "pubDate": "Wed, 09 Sep 2026 17:57:45 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Apple Watch Series 12 and Apple Watch Ultra 4: Ceramic, Specs, Release Date",
-      "link": "https://www.wired.com/story/apple-watch-series-12-apple-watch-ultra-4/",
-      "pubDate": "Wed, 09 Sep 2026 17:43:38 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "You Can Now Destroy Flock Cameras for Cash in GTA V",
-      "link": "https://www.wired.com/story/you-can-now-destroy-flock-cameras-for-cash-in-gta-v/",
-      "pubDate": "Wed, 09 Sep 2026 16:30:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
-      "link": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
-      "pubDate": "Wed, 09 Sep 2026 13:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Apple Event Live Blog: Folding iPhone, Apple Watch Series 12, AirPods, and More",
-      "link": "https://www.wired.com/live/apple-event-live-blog-september-2026-iphone-launch/",
-      "pubDate": "Wed, 09 Sep 2026 11:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "MS NOW Wants to Turn Its Viewers Into a Fandom",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-rebecca-kutler-ms-now/",
-      "pubDate": "Wed, 09 Sep 2026 10:30:00 +0000",
       "source": "wired.com"
     }
   ],

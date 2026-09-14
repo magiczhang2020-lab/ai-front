@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-09-14T17:20:53.753326+00:00",
+  "updatedAt": "2026-09-14T21:14:43.623663+00:00",
   "items": [
+    {
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "pubDate": "Mon, 14 Sep 2026 20:44:14 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+      "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+      "pubDate": "Mon, 14 Sep 2026 20:07:37 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Amazon Prime Video takes on TikTok with short-form news clips",
+      "link": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
+      "pubDate": "Mon, 14 Sep 2026 18:14:29 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
+      "link": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
+      "pubDate": "Mon, 14 Sep 2026 18:08:43 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
+      "link": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
+      "pubDate": "Mon, 14 Sep 2026 17:41:20 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "With iOS 27, I’m actually using Siri again",
       "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
@@ -62,8 +92,8 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
-      "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+      "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
+      "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
       "pubDate": "Mon, 14 Sep 2026 13:55:00 +0000",
       "source": "techcrunch.com"
     },
@@ -92,34 +122,10 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "pubDate": "Sun, 13 Sep 2026 16:30:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
-      "link": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
-      "pubDate": "Sun, 13 Sep 2026 16:04:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Fusion power startups find new partners in the defense world",
-      "link": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
-      "pubDate": "Sun, 13 Sep 2026 13:15:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-      "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-      "pubDate": "Sat, 12 Sep 2026 23:25:38 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "pubDate": "Sat, 12 Sep 2026 20:19:16 +0000",
-      "source": "techcrunch.com"
+      "title": "The Top New Features in Apple’s iOS 27 and iPadOS 27",
+      "link": "https://www.wired.com/story/top-new-features-in-apple-ios-27-and-ipados-27-launching-september-14/",
+      "pubDate": "Mon, 14 Sep 2026 18:44:44 +0000",
+      "source": "wired.com"
     },
     {
       "title": "New York Seizes a Dozen Celebrity Deepfake Websites",
@@ -233,12 +239,6 @@
       "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
       "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
       "pubDate": "Sat, 12 Sep 2026 10:30:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Branch Ergonomic Chair Pro (Sega Edition) Review: Comfy, Not Boring",
-      "link": "https://www.wired.com/review/branch-ergonomic-chair-pro-sega-edition/",
-      "pubDate": "Sat, 12 Sep 2026 10:00:00 +0000",
       "source": "wired.com"
     }
   ],

@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-09-16T19:15:04.308183+00:00",
+  "updatedAt": "2026-09-16T22:31:23.379284+00:00",
   "items": [
+    {
+      "title": "Noise wants to help everyday people  become paid content creators",
+      "link": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+      "pubDate": "Wed, 16 Sep 2026 21:35:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Pulley, a Carta rival, is shutting down",
+      "link": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
+      "pubDate": "Wed, 16 Sep 2026 21:23:19 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "pubDate": "Wed, 16 Sep 2026 21:07:24 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+      "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+      "pubDate": "Wed, 16 Sep 2026 20:12:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "X will now let US users trade via Cashtags",
+      "link": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/",
+      "pubDate": "Wed, 16 Sep 2026 19:57:22 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster",
+      "link": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/",
+      "pubDate": "Wed, 16 Sep 2026 19:35:29 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Former Waymo CFO jumps to self-driving startup Wayve",
       "link": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
@@ -86,40 +122,28 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
-      "link": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
-      "pubDate": "Wed, 16 Sep 2026 13:23:02 +0000",
-      "source": "techcrunch.com"
+      "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+      "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+      "pubDate": "Wed, 16 Sep 2026 22:07:24 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Former Infosys chief’s AI startup nabs another $53M",
-      "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-      "pubDate": "Wed, 16 Sep 2026 13:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Washington Won’t Be Regulating AI Anytime Soon",
+      "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
+      "pubDate": "Wed, 16 Sep 2026 21:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Clean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
-      "link": "https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/",
-      "pubDate": "Wed, 16 Sep 2026 13:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "A Deal Hunter’s Guide to Amazon Prime Big Deal Days (2026)",
+      "link": "https://www.wired.com/story/amazon-prime-day-october-2026-tips/",
+      "pubDate": "Wed, 16 Sep 2026 19:45:41 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Amazon launches Alexa+ in India with Hindi support",
-      "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-      "pubDate": "Wed, 16 Sep 2026 10:34:47 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "pubDate": "Wed, 16 Sep 2026 00:20:39 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "pubDate": "Tue, 15 Sep 2026 21:47:38 +0000",
-      "source": "techcrunch.com"
+      "title": "MacOS 27 Golden Gate: Top New Features",
+      "link": "https://www.wired.com/story/macos-27-golden-gate-top-features/",
+      "pubDate": "Wed, 16 Sep 2026 19:29:15 +0000",
+      "source": "wired.com"
     },
     {
       "title": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
@@ -164,7 +188,7 @@
       "source": "wired.com"
     },
     {
-      "title": "The EU Plans to Ban Social Media For Under-13s",
+      "title": "The EU Plans to Ban Social Media for Under-13s",
       "link": "https://www.wired.com/story/the-eu-bans-social-media-for-under-13s/",
       "pubDate": "Wed, 16 Sep 2026 10:19:46 +0000",
       "source": "wired.com"
@@ -215,30 +239,6 @@
       "title": "‘Smart’ Nanoparticles Deliver mRNA Directly to Tumors in New Cancer Therapy",
       "link": "https://www.wired.com/story/smart-nanoparticles-deliver-mrna-directly-to-tumors-in-new-cancer-therapy/",
       "pubDate": "Wed, 16 Sep 2026 08:30:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Bose Promo Code: 40% Off for September 2026",
-      "link": "https://www.wired.com/story/bose-coupon-code/",
-      "pubDate": "Wed, 16 Sep 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "OnePlus Promo Codes: 30% Off September 2026",
-      "link": "https://www.wired.com/story/oneplus-promo-code/",
-      "pubDate": "Wed, 16 Sep 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Chegg Coupon Codes September 2026: Save on Study, Textbooks, & More",
-      "link": "https://www.wired.com/story/chegg-coupon-code/",
-      "pubDate": "Wed, 16 Sep 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Rover Promo Codes and Referral Deals for 2026",
-      "link": "https://www.wired.com/story/rover-promo-code/",
-      "pubDate": "Wed, 16 Sep 2026 05:00:00 +0000",
       "source": "wired.com"
     }
   ],

@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-22T15:18:41.919262+00:00",
+  "updatedAt": "2026-09-22T19:26:50.226129+00:00",
   "items": [
+    {
+      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "pubDate": "Tue, 22 Sep 2026 19:09:11 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
+      "link": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
+      "pubDate": "Tue, 22 Sep 2026 18:40:30 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "a16z is challenging Silicon Valley’s love for drop-outs by launching a school",
+      "link": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
+      "pubDate": "Tue, 22 Sep 2026 18:24:34 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "pubDate": "Tue, 22 Sep 2026 18:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Waymo’s latest expansion strategy: teenagers",
+      "link": "https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/",
+      "pubDate": "Tue, 22 Sep 2026 17:36:06 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "pubDate": "Tue, 22 Sep 2026 16:30:07 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Stolen passwords are exposing America’s water providers to hackers",
+      "link": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
+      "pubDate": "Tue, 22 Sep 2026 15:50:58 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
       "link": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
@@ -80,56 +122,26 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-      "pubDate": "Mon, 21 Sep 2026 23:44:28 +0000",
-      "source": "techcrunch.com"
+      "title": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
+      "link": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
+      "pubDate": "Tue, 22 Sep 2026 18:19:13 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "pubDate": "Mon, 21 Sep 2026 20:15:58 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-      "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-      "pubDate": "Mon, 21 Sep 2026 19:25:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "pubDate": "Mon, 21 Sep 2026 19:19:21 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
-      "link": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
-      "pubDate": "Mon, 21 Sep 2026 18:23:05 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "pubDate": "Mon, 21 Sep 2026 17:55:18 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "X will now tell users when governments have forced it to limit their posts",
-      "link": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
-      "pubDate": "Mon, 21 Sep 2026 17:45:35 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
-      "link": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
-      "pubDate": "Tue, 22 Sep 2026 13:00:00 +0000",
+      "title": "Rabbit Is Back, This Time With an AI Agent App",
+      "link": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
+      "pubDate": "Tue, 22 Sep 2026 16:00:00 +0000",
       "source": "wired.com"
     },
     {
       "title": "Adobe Premiere, One of the iPhone’s Best Video-Editing Apps, Is Now on Android",
       "link": "https://www.wired.com/story/adobe-premiere-now-on-android/",
+      "pubDate": "Tue, 22 Sep 2026 13:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
+      "link": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
       "pubDate": "Tue, 22 Sep 2026 13:00:00 +0000",
       "source": "wired.com"
     },
@@ -194,6 +206,12 @@
       "source": "wired.com"
     },
     {
+      "title": "Meta Quest Promo Codes and Coupons for September 2026",
+      "link": "https://www.wired.com/story/meta-quest-promo-code/",
+      "pubDate": "Tue, 22 Sep 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
       "title": "Layla Sleep Coupon: Save Up to $600 in September 2026",
       "link": "https://www.wired.com/story/layla-sleep-coupon/",
       "pubDate": "Tue, 22 Sep 2026 05:00:00 +0000",
@@ -218,26 +236,8 @@
       "source": "wired.com"
     },
     {
-      "title": "Meta Quest Promo Codes and Coupons for September 2026",
-      "link": "https://www.wired.com/story/meta-quest-promo-code/",
-      "pubDate": "Tue, 22 Sep 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Acer Promo Codes: 40% Off",
-      "link": "https://www.wired.com/story/acer-promo-code/",
-      "pubDate": "Tue, 22 Sep 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
       "title": "SelectBlinds Promo Codes & Coupons: 10% Off",
       "link": "https://www.wired.com/story/select-blinds-promo-code/",
-      "pubDate": "Tue, 22 Sep 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Logitech Promo Codes and Deals: Up to $100 Off",
-      "link": "https://www.wired.com/story/logitech-promo-code/",
       "pubDate": "Tue, 22 Sep 2026 05:00:00 +0000",
       "source": "wired.com"
     }

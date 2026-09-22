@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-09-22T05:41:37.358928+00:00",
+  "updatedAt": "2026-09-22T10:42:25.994471+00:00",
   "items": [
+    {
+      "title": "Morphotonics raises €40M to expand its display tech into data centers",
+      "link": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
+      "pubDate": "Tue, 22 Sep 2026 06:00:00 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
       "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
@@ -116,10 +122,46 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "ScrollEd wants to turn textbooks into TikTok",
-      "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
-      "pubDate": "Sun, 20 Sep 2026 18:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Is a Home Security System Subscription Worth It? (2026)",
+      "link": "https://www.wired.com/story/how-to-design-a-subscription-free-home-security-system/",
+      "pubDate": "Tue, 22 Sep 2026 10:36:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "The UK Government Faces a Reckoning Over Palantir",
+      "link": "https://www.wired.com/story/the-uk-government-faces-a-reckoning-over-palantir/",
+      "pubDate": "Tue, 22 Sep 2026 10:30:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "I Built AI Clones of My Coworkers. Things Got Weird",
+      "link": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/",
+      "pubDate": "Tue, 22 Sep 2026 10:30:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them",
+      "link": "https://www.wired.com/story/big-interview-patti-harrison/",
+      "pubDate": "Tue, 22 Sep 2026 10:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight",
+      "link": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/",
+      "pubDate": "Tue, 22 Sep 2026 10:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
+      "link": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
+      "pubDate": "Tue, 22 Sep 2026 09:30:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "How to Use AI With Your Privacy Intact",
+      "link": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
+      "pubDate": "Tue, 22 Sep 2026 09:00:00 +0000",
+      "source": "wired.com"
     },
     {
       "title": "Layla Sleep Coupon: Save Up to $600 in September 2026",
@@ -140,26 +182,20 @@
       "source": "wired.com"
     },
     {
-      "title": "1Password Coupon: Score a Free Trial in September 2026",
-      "link": "https://www.wired.com/story/1password-coupon/",
-      "pubDate": "Tue, 22 Sep 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
       "title": "Meta Quest Promo Codes and Coupons for September 2026",
       "link": "https://www.wired.com/story/meta-quest-promo-code/",
       "pubDate": "Tue, 22 Sep 2026 05:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "SelectBlinds Promo Codes & Coupons: 10% Off",
-      "link": "https://www.wired.com/story/select-blinds-promo-code/",
+      "title": "1Password Coupon: Score a Free Trial in September 2026",
+      "link": "https://www.wired.com/story/1password-coupon/",
       "pubDate": "Tue, 22 Sep 2026 05:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Acer Promo Codes: 40% Off",
-      "link": "https://www.wired.com/story/acer-promo-code/",
+      "title": "SelectBlinds Promo Codes & Coupons: 10% Off",
+      "link": "https://www.wired.com/story/select-blinds-promo-code/",
       "pubDate": "Tue, 22 Sep 2026 05:00:00 +0000",
       "source": "wired.com"
     },
@@ -188,6 +224,12 @@
       "source": "wired.com"
     },
     {
+      "title": "Acer Promo Codes: 40% Off",
+      "link": "https://www.wired.com/story/acer-promo-code/",
+      "pubDate": "Tue, 22 Sep 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
       "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
       "link": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
       "pubDate": "Mon, 21 Sep 2026 18:33:02 +0000",
@@ -197,48 +239,6 @@
       "title": "Dyson Won’t Say What’s Wrong With Its CameraJet Toothbrush",
       "link": "https://www.wired.com/story/dyson-wont-say-whats-wrong-with-the-camerajet-toothbrush/",
       "pubDate": "Mon, 21 Sep 2026 17:22:19 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Here’s the iFixit Repairability Rating for the iPhone 18 Pro",
-      "link": "https://www.wired.com/story/ifixit-rating-for-the-iphone-18-pro-repairability/",
-      "pubDate": "Mon, 21 Sep 2026 14:15:09 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
-      "link": "https://www.wired.com/story/google-launches-googlebook-laptops/",
-      "pubDate": "Mon, 21 Sep 2026 13:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Apple Mac Mini (M6) Review: For the AI Curious",
-      "link": "https://www.wired.com/review/apple-mac-mini-m6/",
-      "pubDate": "Mon, 21 Sep 2026 13:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
-      "link": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
-      "pubDate": "Mon, 21 Sep 2026 10:34:43 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Bambu P2S Combo 3D Printer Review: My Own Little Plastics Factory",
-      "link": "https://www.wired.com/review/bambu-p2s-combo-3d-printer/",
-      "pubDate": "Mon, 21 Sep 2026 10:30:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Women Still Face Too Much Bullshit—in Silicon Valley and Beyond",
-      "link": "https://www.wired.com/story/wired-women-editors-letter/",
-      "pubDate": "Mon, 21 Sep 2026 10:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Justice for CSS",
-      "link": "https://www.wired.com/story/justice-for-css/",
-      "pubDate": "Mon, 21 Sep 2026 10:00:00 +0000",
       "source": "wired.com"
     }
   ],

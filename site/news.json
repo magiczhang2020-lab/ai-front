@@ -1,8 +1,38 @@
 {
-  "updatedAt": "2026-09-25T17:40:50.801479+00:00",
+  "updatedAt": "2026-09-25T20:56:54.121046+00:00",
   "items": [
     {
-      "title": "The Aeropod automates soil aeration without robotics. See it at TechCrunch Disrupt.",
+      "title": "Meta opens early access program for new Muse features",
+      "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "pubDate": "Fri, 25 Sep 2026 20:34:53 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "The hottest new hangout for middle schoolers is NPR’s comment section?",
+      "link": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
+      "pubDate": "Fri, 25 Sep 2026 20:33:58 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "pubDate": "Fri, 25 Sep 2026 19:13:38 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "pubDate": "Fri, 25 Sep 2026 18:48:33 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "pubDate": "Fri, 25 Sep 2026 18:33:59 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
       "link": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
       "pubDate": "Fri, 25 Sep 2026 17:30:00 +0000",
       "source": "techcrunch.com"
@@ -23,6 +53,12 @@
       "title": "Meta is putting its muscle behind Muse as the AI app takes off",
       "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
       "pubDate": "Fri, 25 Sep 2026 16:16:52 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Meta’s AI Tamagotchi bet is…working?",
+      "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "pubDate": "Fri, 25 Sep 2026 16:00:00 +0000",
       "source": "techcrunch.com"
     },
     {
@@ -86,40 +122,10 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Waymo is scaling fast: Here’s what the fleet data shows",
-      "link": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
-      "pubDate": "Thu, 24 Sep 2026 23:24:33 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
-      "link": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
-      "pubDate": "Thu, 24 Sep 2026 20:45:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-      "pubDate": "Thu, 24 Sep 2026 19:15:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-      "pubDate": "Thu, 24 Sep 2026 19:00:42 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
-      "link": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
-      "pubDate": "Thu, 24 Sep 2026 18:52:38 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-      "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
-      "pubDate": "Thu, 24 Sep 2026 18:11:44 +0000",
-      "source": "techcrunch.com"
+      "title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
+      "link": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
+      "pubDate": "Fri, 25 Sep 2026 20:30:40 +0000",
+      "source": "wired.com"
     },
     {
       "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
@@ -232,12 +238,6 @@
     {
       "title": "Chatbooks Promo Code: 40% Off | September 2026",
       "link": "https://www.wired.com/story/chatbooks-promo-code/",
-      "pubDate": "Fri, 25 Sep 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "TopResume Packages",
-      "link": "https://www.wired.com/story/topresume-discount-code/",
       "pubDate": "Fri, 25 Sep 2026 05:00:00 +0000",
       "source": "wired.com"
     }

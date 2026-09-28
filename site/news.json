@@ -1,8 +1,104 @@
 {
-  "updatedAt": "2026-09-28T14:48:08.638689+00:00",
+  "updatedAt": "2026-09-28T20:58:25.846001+00:00",
   "items": [
     {
-      "title": "Next five VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+      "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "pubDate": "Mon, 28 Sep 2026 20:39:33 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "pubDate": "Mon, 28 Sep 2026 19:33:57 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Tesla delays Roadster 2 event again due to bad weather",
+      "link": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
+      "pubDate": "Mon, 28 Sep 2026 19:27:27 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "The AI boom took over Climate Week and not everyone is happy about it",
+      "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+      "pubDate": "Mon, 28 Sep 2026 19:21:59 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "pubDate": "Mon, 28 Sep 2026 18:31:23 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+      "pubDate": "Mon, 28 Sep 2026 18:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+      "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+      "pubDate": "Mon, 28 Sep 2026 17:29:50 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+      "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "pubDate": "Mon, 28 Sep 2026 17:09:02 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+      "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+      "pubDate": "Mon, 28 Sep 2026 16:52:38 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "The iPhone Duo may already have its first killer app: a virtual Walkman",
+      "link": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/",
+      "pubDate": "Mon, 28 Sep 2026 16:47:49 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+      "pubDate": "Mon, 28 Sep 2026 15:30:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
+      "link": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
+      "pubDate": "Mon, 28 Sep 2026 15:29:21 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
+      "link": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
+      "pubDate": "Mon, 28 Sep 2026 15:26:46 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+      "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+      "pubDate": "Mon, 28 Sep 2026 15:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
+      "pubDate": "Mon, 28 Sep 2026 15:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
+      "link": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
+      "pubDate": "Mon, 28 Sep 2026 14:50:30 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
       "pubDate": "Mon, 28 Sep 2026 14:30:00 +0000",
       "source": "techcrunch.com"
@@ -14,112 +110,28 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is Oct. 2",
+      "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
       "link": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
       "pubDate": "Mon, 28 Sep 2026 14:00:00 +0000",
       "source": "techcrunch.com"
     },
     {
-      "title": "Insuretech Outmarket raises $34.5M just months after prior round",
+      "title": "Insurtech Outmarket raises $34.5M just months after prior round",
       "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
       "pubDate": "Mon, 28 Sep 2026 14:00:00 +0000",
       "source": "techcrunch.com"
     },
     {
-      "title": "ElevenLabs’ new v4 speech model supports more expression control and 90 languages",
-      "link": "https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/",
-      "pubDate": "Mon, 28 Sep 2026 14:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Boox Announces the Picco, Its Smallest E-Reader Ever (2026)",
+      "link": "https://www.wired.com/story/boox-picco-announcement-2026/",
+      "pubDate": "Mon, 28 Sep 2026 19:30:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-      "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-      "pubDate": "Mon, 28 Sep 2026 13:38:48 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "SpaceX’s Starship rocket reaches orbit for the first time",
-      "link": "https://techcrunch.com/2026/09/28/spacexs-starship-rocket-reaches-orbit-for-the-first-time/",
-      "pubDate": "Mon, 28 Sep 2026 13:19:18 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Maritime intelligence startup Quartermaster raises another $140M",
-      "link": "https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/",
-      "pubDate": "Mon, 28 Sep 2026 13:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
-      "link": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
-      "pubDate": "Mon, 28 Sep 2026 04:30:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-      "pubDate": "Sun, 27 Sep 2026 20:34:28 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Can Muse overcome Meta’s trust issues?",
-      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-      "pubDate": "Sun, 27 Sep 2026 19:57:30 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-      "pubDate": "Sun, 27 Sep 2026 16:30:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "TechCrunch Mobility: AV companies pick their lanes",
-      "link": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
-      "pubDate": "Sun, 27 Sep 2026 16:02:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
-      "link": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
-      "pubDate": "Sun, 27 Sep 2026 15:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
-      "link": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
-      "pubDate": "Sun, 27 Sep 2026 01:40:30 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "pubDate": "Sun, 27 Sep 2026 01:30:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "pubDate": "Sat, 26 Sep 2026 21:02:06 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "TikTok agrees to pay at least $100M in Alabama settlement",
-      "link": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
-      "pubDate": "Sat, 26 Sep 2026 20:24:45 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
-      "link": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
-      "pubDate": "Sat, 26 Sep 2026 17:44:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
-      "link": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
-      "pubDate": "Sat, 26 Sep 2026 17:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Meta-Led Anti-Terrorism Group Faces Mass Resignation of Expert Advisers",
+      "link": "https://www.wired.com/story/independent-advisers-resign-en-masse-from-big-techs-anti-terrorism-group/",
+      "pubDate": "Mon, 28 Sep 2026 18:47:54 +0000",
+      "source": "wired.com"
     },
     {
       "title": "These Extremists Are Running for Election in November",
@@ -227,18 +239,6 @@
       "title": "Old-School Credit Card Scams Are Far From Dead",
       "link": "https://www.wired.com/story/kernel-panic-old-timey-credit-card-scams/",
       "pubDate": "Sat, 26 Sep 2026 12:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "12 Best White Elephant Gifts, Plus a Prank Box to Put Them In (2026)",
-      "link": "https://www.wired.com/gallery/best-white-elephant-gifts-2026/",
-      "pubDate": "Sat, 26 Sep 2026 11:36:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Best Mesh Wi-Fi Systems (2026): I Tested Them All",
-      "link": "https://www.wired.com/story/best-mesh-wifi-routers/",
-      "pubDate": "Sat, 26 Sep 2026 11:00:00 +0000",
       "source": "wired.com"
     }
   ],

@@ -1,8 +1,104 @@
 {
-  "updatedAt": "2026-09-29T13:37:09.866469+00:00",
+  "updatedAt": "2026-09-29T19:01:55.063472+00:00",
   "items": [
     {
-      "title": "Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix",
+      "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
+      "link": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
+      "pubDate": "Tue, 29 Sep 2026 18:48:03 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Apple Pay set to launch in India with Axis Bank today, sources say",
+      "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+      "pubDate": "Tue, 29 Sep 2026 18:45:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "pubDate": "Tue, 29 Sep 2026 18:35:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "pubDate": "Tue, 29 Sep 2026 17:45:51 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
+      "link": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/",
+      "pubDate": "Tue, 29 Sep 2026 17:27:09 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "AI-powered app maker Wabi pivots to a messaging experience",
+      "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+      "pubDate": "Tue, 29 Sep 2026 17:20:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "pubDate": "Tue, 29 Sep 2026 17:17:15 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Can a chatbot fix the government maze? The White House is about to find out",
+      "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+      "pubDate": "Tue, 29 Sep 2026 16:55:56 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+      "link": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+      "pubDate": "Tue, 29 Sep 2026 15:12:07 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "After losing his voice to cancer, this founder is building ‘glasses for voice’",
+      "link": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/",
+      "pubDate": "Tue, 29 Sep 2026 15:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Oura shelves its $2.2B IPO, citing ‘uncertainty’ in the market",
+      "link": "https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/",
+      "pubDate": "Tue, 29 Sep 2026 14:56:55 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+      "link": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+      "pubDate": "Tue, 29 Sep 2026 13:53:01 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Meta is expanding its AI agent Muse to small businesses",
+      "link": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+      "pubDate": "Tue, 29 Sep 2026 13:47:30 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Still running iOS 26? Update your iPhones, iPads, and Macs for this urgent security fix",
       "link": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/",
       "pubDate": "Tue, 29 Sep 2026 13:25:21 +0000",
       "source": "techcrunch.com"
@@ -26,100 +122,22 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
-      "link": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
-      "pubDate": "Tue, 29 Sep 2026 10:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Away’s New Series 3 Luggage Plays It Safe—That’s the Point",
+      "link": "https://www.wired.com/story/away-launches-series-3-luggage/",
+      "pubDate": "Tue, 29 Sep 2026 18:29:17 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
-      "link": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
-      "pubDate": "Tue, 29 Sep 2026 09:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
+      "link": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
+      "pubDate": "Tue, 29 Sep 2026 18:03:01 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-      "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-      "pubDate": "Tue, 29 Sep 2026 05:13:43 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-      "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-      "pubDate": "Tue, 29 Sep 2026 00:30:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "OpenAI reportedly ditches model over safety concerns",
-      "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-      "pubDate": "Mon, 28 Sep 2026 23:39:20 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds",
-      "link": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
-      "pubDate": "Mon, 28 Sep 2026 22:58:35 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-      "pubDate": "Mon, 28 Sep 2026 21:29:18 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-      "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-      "pubDate": "Mon, 28 Sep 2026 20:39:33 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Shopify opens checkout to browser-based AI agents",
-      "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-      "pubDate": "Mon, 28 Sep 2026 19:33:57 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Tesla delays Roadster 2 event again due to bad weather",
-      "link": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
-      "pubDate": "Mon, 28 Sep 2026 19:27:27 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "The AI boom took over Climate Week and not everyone is happy about it",
-      "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
-      "pubDate": "Mon, 28 Sep 2026 19:21:59 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-      "pubDate": "Mon, 28 Sep 2026 18:31:23 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-      "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-      "pubDate": "Mon, 28 Sep 2026 18:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-      "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-      "pubDate": "Mon, 28 Sep 2026 17:29:50 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-      "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-      "pubDate": "Mon, 28 Sep 2026 17:09:02 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-      "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-      "pubDate": "Mon, 28 Sep 2026 16:52:38 +0000",
-      "source": "techcrunch.com"
+      "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+      "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
+      "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
+      "source": "wired.com"
     },
     {
       "title": "I Found National Coffee Day Deals Worth Making Coffee at Home For (2026)",
@@ -176,14 +194,14 @@
       "source": "wired.com"
     },
     {
-      "title": "Home Depot Promo Codes: 30% Off in October 2026",
-      "link": "https://www.wired.com/story/home-depot-promo-code/",
+      "title": "NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026",
+      "link": "https://www.wired.com/story/nordvpn-coupon/",
       "pubDate": "Tue, 29 Sep 2026 05:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026",
-      "link": "https://www.wired.com/story/nordvpn-coupon/",
+      "title": "Home Depot Promo Codes: 30% Off in October 2026",
+      "link": "https://www.wired.com/story/home-depot-promo-code/",
       "pubDate": "Tue, 29 Sep 2026 05:00:00 +0000",
       "source": "wired.com"
     },
@@ -221,24 +239,6 @@
       "title": "Shark’s NeverChange Air Purifier Is Nearly Half Off Right Now",
       "link": "https://www.wired.com/story/shark-air-purifier-deal-october-2026/",
       "pubDate": "Mon, 28 Sep 2026 21:28:20 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Boox Announces the Picco, Its Smallest E-Reader Ever (2026)",
-      "link": "https://www.wired.com/story/boox-picco-announcement-2026/",
-      "pubDate": "Mon, 28 Sep 2026 19:30:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Meta-Led Anti-Terrorism Group Faces Mass Resignation of Expert Advisers",
-      "link": "https://www.wired.com/story/independent-advisers-resign-en-masse-from-big-techs-anti-terrorism-group/",
-      "pubDate": "Mon, 28 Sep 2026 18:47:54 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "These Extremists Are Running for Election in November",
-      "link": "https://www.wired.com/story/these-extremists-are-running-for-election-in-november/",
-      "pubDate": "Mon, 28 Sep 2026 14:41:08 +0000",
       "source": "wired.com"
     }
   ],

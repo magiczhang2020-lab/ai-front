@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-09-30T16:34:59.100676+00:00",
+  "updatedAt": "2026-09-30T21:07:56.396785+00:00",
   "items": [
+    {
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "pubDate": "Wed, 30 Sep 2026 21:07:40 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Factory CEO just accused his VC board advisor of spying for Cognition",
+      "link": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
+      "pubDate": "Wed, 30 Sep 2026 20:39:09 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
+      "link": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+      "pubDate": "Wed, 30 Sep 2026 20:20:02 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Hackers stole millions of US military personnel records during months-long data breach",
+      "link": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
+      "pubDate": "Wed, 30 Sep 2026 19:29:08 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "DoorDash’s drone strategy started on the ground",
+      "link": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
+      "pubDate": "Wed, 30 Sep 2026 19:22:13 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
+      "link": "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/",
+      "pubDate": "Wed, 30 Sep 2026 19:19:40 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "pubDate": "Wed, 30 Sep 2026 19:00:57 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "pubDate": "Wed, 30 Sep 2026 18:23:57 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "pubDate": "Wed, 30 Sep 2026 17:45:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "The ugly economics of consumer AI",
+      "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "pubDate": "Wed, 30 Sep 2026 17:24:45 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Meta disputes claim that Muse read a user’s private messages without permission",
       "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
@@ -62,64 +122,34 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
-      "pubDate": "Wed, 30 Sep 2026 14:15:00 +0000",
-      "source": "techcrunch.com"
+      "title": "The White House Is Starting to Panic Over the Midterms",
+      "link": "https://www.wired.com/story/the-white-house-is-starting-to-panic-over-the-midterms/",
+      "pubDate": "Wed, 30 Sep 2026 21:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "WhatsApp adds new parental controls for teen accounts",
-      "link": "https://techcrunch.com/2026/09/30/whatsapp-adds-new-parental-controls-for-teen-accounts/",
-      "pubDate": "Wed, 30 Sep 2026 13:50:16 +0000",
-      "source": "techcrunch.com"
+      "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+      "link": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+      "pubDate": "Wed, 30 Sep 2026 20:30:09 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Amazon’s new Fire TV Stick 4K comes with an actually good remote",
-      "link": "https://techcrunch.com/2026/09/30/amazons-new-fire-tv-stick-4k-comes-with-an-actually-good-remote/",
-      "pubDate": "Wed, 30 Sep 2026 13:43:54 +0000",
-      "source": "techcrunch.com"
+      "title": "The Battle to Be Your Personal AI Agent Is Here",
+      "link": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+      "pubDate": "Wed, 30 Sep 2026 19:30:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Charter Space raises $5M to bring insurance to the stars",
-      "link": "https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/",
-      "pubDate": "Wed, 30 Sep 2026 13:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Furry Airline Pilots Are Just Minding Their Own Business",
+      "link": "https://www.wired.com/story/furry-airline-pilots-are-just-minding-their-own-business/",
+      "pubDate": "Wed, 30 Sep 2026 19:09:57 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Tinder adapts to a social, IRL dating future with ‘Group Hangouts’ feature",
-      "link": "https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/",
-      "pubDate": "Wed, 30 Sep 2026 13:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
-      "link": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
-      "pubDate": "Wed, 30 Sep 2026 12:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Airbnb adds AI search, more social features",
-      "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
-      "pubDate": "Wed, 30 Sep 2026 12:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Apple Pay finally launches in India after years on the sidelines",
-      "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
-      "pubDate": "Wed, 30 Sep 2026 04:08:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-      "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
-      "pubDate": "Tue, 29 Sep 2026 23:30:55 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-      "pubDate": "Tue, 29 Sep 2026 22:20:59 +0000",
-      "source": "techcrunch.com"
+      "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
+      "link": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
+      "pubDate": "Wed, 30 Sep 2026 19:00:00 +0000",
+      "source": "wired.com"
     },
     {
       "title": "A Biotech Founder Makes the Moral Case for Gene-Editing Human Embryos",
@@ -209,36 +239,6 @@
       "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
       "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
       "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "I Found National Coffee Day Deals Worth Making Coffee at Home For (2026)",
-      "link": "https://www.wired.com/story/national-coffee-day-deals-2026/",
-      "pubDate": "Tue, 29 Sep 2026 11:30:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "How to Beat Surveillance Pricing Before It Bleeds You Dry",
-      "link": "https://www.wired.com/story/how-to-beat-surveillance-pricing-before-it-bleeds-you-dry/",
-      "pubDate": "Tue, 29 Sep 2026 10:45:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "7 Best Smartwatch Models: Apple, Google, Garmin (2026)",
-      "link": "https://www.wired.com/story/best-smartwatch/",
-      "pubDate": "Tue, 29 Sep 2026 10:39:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
-      "link": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
-      "pubDate": "Tue, 29 Sep 2026 10:36:22 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
-      "pubDate": "Tue, 29 Sep 2026 10:30:00 +0000",
       "source": "wired.com"
     }
   ],

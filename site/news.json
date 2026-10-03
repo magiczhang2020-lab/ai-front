@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-03T16:54:43.466665+00:00",
+  "updatedAt": "2026-10-03T19:37:28.439943+00:00",
   "items": [
+    {
+      "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+      "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+      "pubDate": "Sat, 03 Oct 2026 19:33:15 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "pubDate": "Sat, 03 Oct 2026 18:43:57 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
       "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
@@ -110,16 +122,10 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-      "link": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
-      "pubDate": "Fri, 02 Oct 2026 14:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Less than 24 hours to apply for a  Side Event at Founder Summit 2026",
-      "link": "https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026/",
-      "pubDate": "Fri, 02 Oct 2026 14:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+      "link": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+      "pubDate": "Sat, 03 Oct 2026 18:00:00 +0000",
+      "source": "wired.com"
     },
     {
       "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
@@ -233,12 +239,6 @@
       "title": "Your Driverless Cab Is Spying on You",
       "link": "https://www.wired.com/story/when-the-robotaxis-are-watching-you/",
       "pubDate": "Fri, 02 Oct 2026 10:30:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Election Deniers Think the GOP’s Terrible Midterm Polling Is a ‘Psyop’",
-      "link": "https://www.wired.com/story/election-deniers-think-the-gops-terrible-midterm-polling-is-a-psyop/",
-      "pubDate": "Fri, 02 Oct 2026 10:00:00 +0000",
       "source": "wired.com"
     }
   ],

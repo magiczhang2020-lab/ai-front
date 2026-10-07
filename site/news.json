@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-10-07T01:55:51.214332+00:00",
+  "updatedAt": "2026-10-07T08:03:07.754449+00:00",
   "items": [
+    {
+      "title": "Spotify expands audiobooks to over 180 markets",
+      "link": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+      "pubDate": "Wed, 07 Oct 2026 07:00:00 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
       "link": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
@@ -116,10 +122,16 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Uber is spending $2.3B to get into catering",
-      "link": "https://techcrunch.com/2026/10/06/uber-is-spending-2-3b-to-get-into-catering/",
-      "pubDate": "Tue, 06 Oct 2026 14:00:25 +0000",
-      "source": "techcrunch.com"
+      "title": "The 13 Amazon Device Deals Actually Worth Snagging This Prime Day",
+      "link": "https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day-10-07-2026/",
+      "pubDate": "Wed, 07 Oct 2026 07:50:08 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "7 Best Prime Day Kindle Deals (2026): Save Up to $150",
+      "link": "https://www.wired.com/story/best-kindle-prime-day-deals-10-07-2026/",
+      "pubDate": "Wed, 07 Oct 2026 07:34:54 +0000",
+      "source": "wired.com"
     },
     {
       "title": "I Found the 20 Best Prime Day Tech and Gadget Deals (October 2026)",
@@ -227,18 +239,6 @@
       "title": "The Auk Mini Indoor Garden Is on Clearance for $199—Its Lowest Price Ever",
       "link": "https://www.wired.com/story/auk-mini-indoor-garden-sale-clearance-october-2026/",
       "pubDate": "Tue, 06 Oct 2026 18:03:41 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "The 24 Best Prime Day Deals Under $100 (2026)",
-      "link": "https://www.wired.com/story/best-prime-day-deals-under-100-10-06-2026/",
-      "pubDate": "Tue, 06 Oct 2026 17:45:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "‘Mike Rogers Is Watching You’: New Ad Blitz From Abdul El-Sayed Attacks Surveillance Support",
-      "link": "https://www.wired.com/story/mike-rogers-is-watching-you-new-ad-blitz-from-abdul-el-sayed-attacks-surveillance-support/",
-      "pubDate": "Tue, 06 Oct 2026 17:39:48 +0000",
       "source": "wired.com"
     }
   ],

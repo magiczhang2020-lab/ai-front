@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-14T19:53:46.855734+00:00",
+  "updatedAt": "2026-10-14T22:54:35.447380+00:00",
   "items": [
+    {
+      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+      "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+      "pubDate": "Wed, 14 Oct 2026 22:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+      "link": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
+      "pubDate": "Wed, 14 Oct 2026 21:48:20 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+      "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+      "pubDate": "Wed, 14 Oct 2026 21:30:33 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+      "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+      "pubDate": "Wed, 14 Oct 2026 21:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
+      "link": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
+      "pubDate": "Wed, 14 Oct 2026 20:26:25 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Electric vehicle sales in the US are showing signs of life",
+      "link": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/",
+      "pubDate": "Wed, 14 Oct 2026 20:12:07 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
+      "link": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
+      "pubDate": "Wed, 14 Oct 2026 20:00:00 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
       "link": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/",
@@ -80,46 +122,10 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-      "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-      "pubDate": "Wed, 14 Oct 2026 11:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Justice Department says North Koreans have infiltrated dozens of US companies",
-      "link": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
-      "pubDate": "Wed, 14 Oct 2026 01:30:42 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-      "pubDate": "Tue, 13 Oct 2026 23:13:31 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-      "pubDate": "Tue, 13 Oct 2026 23:05:34 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-      "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-      "pubDate": "Tue, 13 Oct 2026 23:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Cerebras CEO pushes back on AI doomsday warnings",
-      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-      "pubDate": "Tue, 13 Oct 2026 22:36:59 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
-      "link": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
-      "pubDate": "Tue, 13 Oct 2026 21:15:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Trump Aides Admit the House Is a Lost Cause",
+      "link": "https://www.wired.com/story/trump-aides-admit-the-house-is-a-lost-cause/",
+      "pubDate": "Wed, 14 Oct 2026 21:00:00 +0000",
+      "source": "wired.com"
     },
     {
       "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
@@ -232,12 +238,6 @@
     {
       "title": "Corsair Discount Code: Up to 50% Off for October 2026",
       "link": "https://www.wired.com/story/corsair-coupon/",
-      "pubDate": "Wed, 14 Oct 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Peacock Promo Codes: 40% Off October 2026",
-      "link": "https://www.wired.com/story/peacock-promo-code/",
       "pubDate": "Wed, 14 Oct 2026 05:00:00 +0000",
       "source": "wired.com"
     }

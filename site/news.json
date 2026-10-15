@@ -1,125 +1,11 @@
 {
-  "updatedAt": "2026-10-15T17:32:06.679129+00:00",
+  "updatedAt": "2026-10-15T20:47:44.372945+00:00",
   "items": [
     {
-      "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
-      "link": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
-      "pubDate": "Thu, 15 Oct 2026 16:45:37 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "AI agents are coming to Rivian’s cars",
-      "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-      "pubDate": "Thu, 15 Oct 2026 15:02:36 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
-      "link": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
-      "pubDate": "Thu, 15 Oct 2026 14:47:09 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-      "pubDate": "Thu, 15 Oct 2026 14:29:33 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Last day",
-      "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-      "pubDate": "Thu, 15 Oct 2026 14:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-      "pubDate": "Thu, 15 Oct 2026 12:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Citizen Lab says governments are abusing online ads to hack people with ‘zero-click’ spyware",
-      "link": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
-      "pubDate": "Thu, 15 Oct 2026 10:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Figma announces new features to define how agents work on its platform",
-      "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "pubDate": "Thu, 15 Oct 2026 04:30:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "pubDate": "Thu, 15 Oct 2026 01:01:32 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
-      "link": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
-      "pubDate": "Thu, 15 Oct 2026 00:49:31 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
-      "link": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
-      "pubDate": "Thu, 15 Oct 2026 00:30:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-      "pubDate": "Thu, 15 Oct 2026 00:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
-      "link": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
-      "pubDate": "Wed, 14 Oct 2026 23:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
-      "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
-      "pubDate": "Wed, 14 Oct 2026 22:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
-      "link": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
-      "pubDate": "Wed, 14 Oct 2026 21:48:20 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-      "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-      "pubDate": "Wed, 14 Oct 2026 21:30:33 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
-      "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
-      "pubDate": "Wed, 14 Oct 2026 21:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
-      "link": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
-      "pubDate": "Wed, 14 Oct 2026 20:26:25 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Electric vehicle sales in the US are showing signs of life",
-      "link": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/",
-      "pubDate": "Wed, 14 Oct 2026 20:12:07 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
-      "link": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
-      "pubDate": "Wed, 14 Oct 2026 20:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Upgrade Your Thermostat for Winter With This Ecobee Deal for $120",
+      "link": "https://www.wired.com/story/ecobee-fall-sale-2026/",
+      "pubDate": "Thu, 15 Oct 2026 19:00:49 +0000",
+      "source": "wired.com"
     },
     {
       "title": "White House Press Secretary Katie Zacharia Was an Affiliate Marketer for a Fitness MLM",
@@ -170,6 +56,12 @@
       "source": "wired.com"
     },
     {
+      "title": "Lenovo Coupon Codes: 15% Off in October 2026",
+      "link": "https://www.wired.com/story/lenovo-coupon-code/",
+      "pubDate": "Thu, 15 Oct 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
       "title": "Walmart Promo Codes: 20% Off for October 2026",
       "link": "https://www.wired.com/story/top-walmart-promo-codes/",
       "pubDate": "Thu, 15 Oct 2026 05:00:00 +0000",
@@ -178,12 +70,6 @@
     {
       "title": "Hotels.com Coupon Codes for October 2026",
       "link": "https://www.wired.com/story/hotels-com-coupon/",
-      "pubDate": "Thu, 15 Oct 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Lenovo Coupon Codes: 15% Off in October 2026",
-      "link": "https://www.wired.com/story/lenovo-coupon-code/",
       "pubDate": "Thu, 15 Oct 2026 05:00:00 +0000",
       "source": "wired.com"
     },
@@ -239,6 +125,120 @@
       "title": "Formlabs Has a 3D Printer for Normies",
       "link": "https://www.wired.com/story/formlabs-has-a-3d-printer-for-normies/",
       "pubDate": "Wed, 14 Oct 2026 13:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "My Friend Has No Soul",
+      "link": "https://www.wired.com/story/my-friend-has-no-soul/",
+      "pubDate": "Wed, 14 Oct 2026 11:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Breville Eye Q Toaster Review: Neat Sensors, but Less-Than-Perfect Toast",
+      "link": "https://www.wired.com/review/breville-eye-q-toaster/",
+      "pubDate": "Wed, 14 Oct 2026 11:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "JackRabbit MG Cargo Bike Review (2026): Compact and Powerful",
+      "link": "https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle/",
+      "pubDate": "Wed, 14 Oct 2026 10:30:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA",
+      "link": "https://www.wired.com/story/the-politics-of-solar-energy-are-getting-weird-mean-and-a-little-maga/",
+      "pubDate": "Wed, 14 Oct 2026 10:30:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "cool kids are writing in all lowercase now. does that make you mad?",
+      "link": "https://www.wired.com/story/the-case-for-lowercase/",
+      "pubDate": "Wed, 14 Oct 2026 10:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Nothing Headphone (1) Pro Review: Studio Quality",
+      "link": "https://www.wired.com/review/nothing-headphone-1-pro/",
+      "pubDate": "Wed, 14 Oct 2026 10:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "I Ranked 28 Energy Drinks, From Celsius to Black Rifle (2026)",
+      "link": "https://www.wired.com/story/best-energy-drinks/",
+      "pubDate": "Wed, 14 Oct 2026 09:36:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Men Can’t Stop Faking How Much They Know About AI",
+      "link": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
+      "pubDate": "Wed, 14 Oct 2026 09:30:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Cat-Like Whiskers Help Tiny Drones Fly in the Dark",
+      "link": "https://www.wired.com/story/cat-like-whiskers-help-tiny-drones-fly-in-the-dark/",
+      "pubDate": "Wed, 14 Oct 2026 09:15:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Tesla’s Roadster 2 Is Late—and Entering a Different EV World",
+      "link": "https://www.wired.com/story/tesla-roadster-2-is-late-and-entering-a-different-ev-world/",
+      "pubDate": "Wed, 14 Oct 2026 09:15:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+      "link": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+      "pubDate": "Wed, 14 Oct 2026 09:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Expedia Coupons: 40% Off",
+      "link": "https://www.wired.com/story/expedia-coupon/",
+      "pubDate": "Wed, 14 Oct 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Vimeo Promo Codes and Discounts: Up to 40% Off This October 2026",
+      "link": "https://www.wired.com/story/vimeo-promo-code/",
+      "pubDate": "Wed, 14 Oct 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Peacock Promo Codes: 40% Off October 2026",
+      "link": "https://www.wired.com/story/peacock-promo-code/",
+      "pubDate": "Wed, 14 Oct 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "HBO Max Promo Code: 50% Off | October 2026",
+      "link": "https://www.wired.com/story/max-promo-code/",
+      "pubDate": "Wed, 14 Oct 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Uber Eats Promo Codes: $15 Off│October 2026",
+      "link": "https://www.wired.com/story/uber-eats-promo-code/",
+      "pubDate": "Wed, 14 Oct 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Dell Coupon Codes: 20% Off for October 2026",
+      "link": "https://www.wired.com/story/dell-coupon-code/",
+      "pubDate": "Wed, 14 Oct 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Corsair Discount Code: Up to 50% Off for October 2026",
+      "link": "https://www.wired.com/story/corsair-coupon/",
+      "pubDate": "Wed, 14 Oct 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Castlery Promo Codes: 15% Off for October 2026",
+      "link": "https://www.wired.com/story/castlery-promo-code/",
+      "pubDate": "Wed, 14 Oct 2026 05:00:00 +0000",
       "source": "wired.com"
     }
   ],

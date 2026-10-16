@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-10-16T20:21:13.536212+00:00",
+  "updatedAt": "2026-10-16T23:10:52.614924+00:00",
   "items": [
+    {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "pubDate": "Fri, 16 Oct 2026 21:22:28 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
       "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
@@ -116,10 +122,10 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-      "pubDate": "Thu, 15 Oct 2026 19:14:26 +0000",
-      "source": "techcrunch.com"
+      "title": "The Leap Second Is No More",
+      "link": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/",
+      "pubDate": "Fri, 16 Oct 2026 21:31:35 +0000",
+      "source": "wired.com"
     },
     {
       "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
@@ -233,12 +239,6 @@
       "title": "A Tesla Flying Car? I Don’t Know, Man",
       "link": "https://www.wired.com/story/tesla-flying-car-faa/",
       "pubDate": "Fri, 16 Oct 2026 03:18:30 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "The Tesla Roadster 2 Is Here—and It Flies",
-      "link": "https://www.wired.com/story/tesla-roadster-2-launch/",
-      "pubDate": "Fri, 16 Oct 2026 01:22:51 +0000",
       "source": "wired.com"
     }
   ],

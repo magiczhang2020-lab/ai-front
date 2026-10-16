@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-10-16T12:54:48.911639+00:00",
+  "updatedAt": "2026-10-16T17:07:19.236649+00:00",
   "items": [
+    {
+      "title": "A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "pubDate": "Fri, 16 Oct 2026 16:30:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Waymo’s robotaxis are headed to Canada",
+      "link": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+      "pubDate": "Fri, 16 Oct 2026 16:06:38 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "pubDate": "Fri, 16 Oct 2026 16:01:37 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+      "link": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
+      "pubDate": "Fri, 16 Oct 2026 16:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
+      "link": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
+      "pubDate": "Fri, 16 Oct 2026 16:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "pubDate": "Fri, 16 Oct 2026 15:33:49 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "pubDate": "Fri, 16 Oct 2026 14:26:51 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "pubDate": "Fri, 16 Oct 2026 14:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "pubDate": "Fri, 16 Oct 2026 12:55:09 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
       "link": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
@@ -68,58 +122,40 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Volvo makes a bigger bet on Nvidia for hands-free automated driving",
-      "link": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
-      "pubDate": "Thu, 15 Oct 2026 17:34:40 +0000",
-      "source": "techcrunch.com"
+      "title": "Here’s Exactly How Tesla Made Its New 230-Mph Car ‘Fly’",
+      "link": "https://www.wired.com/story/how-tesla-made-its-new-230-mph-car-fly/",
+      "pubDate": "Fri, 16 Oct 2026 16:30:12 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
-      "link": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
-      "pubDate": "Thu, 15 Oct 2026 16:45:37 +0000",
-      "source": "techcrunch.com"
+      "title": "Razer Barracuda V2 Pro Review: A Gaming Headset for the Office",
+      "link": "https://www.wired.com/review/razer-barracuda-v2-pro/",
+      "pubDate": "Fri, 16 Oct 2026 16:30:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "AI agents are coming to Rivian’s cars",
-      "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-      "pubDate": "Thu, 15 Oct 2026 15:02:36 +0000",
-      "source": "techcrunch.com"
+      "title": "Thank Gen Z for the ‘Girls’ Revival",
+      "link": "https://www.wired.com/story/thank-gen-z-for-the-girls-revival/",
+      "pubDate": "Fri, 16 Oct 2026 16:21:38 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
-      "link": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
-      "pubDate": "Thu, 15 Oct 2026 14:47:09 +0000",
-      "source": "techcrunch.com"
+      "title": "Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push",
+      "link": "https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/",
+      "pubDate": "Fri, 16 Oct 2026 15:25:18 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-      "pubDate": "Thu, 15 Oct 2026 14:29:33 +0000",
-      "source": "techcrunch.com"
+      "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
+      "link": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
+      "pubDate": "Fri, 16 Oct 2026 15:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "TechCrunch Disrupt 2026: Last day",
-      "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-      "pubDate": "Thu, 15 Oct 2026 14:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-      "pubDate": "Thu, 15 Oct 2026 12:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Governments are hacking people with ‘zero-click’ spyware by showing them online ads",
-      "link": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
-      "pubDate": "Thu, 15 Oct 2026 10:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Figma announces new features to define how agents work on its platform",
-      "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "pubDate": "Thu, 15 Oct 2026 04:30:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Microsoft Surface Laptop Ultra Review: The First Real AI PC",
+      "link": "https://www.wired.com/review/microsoft-surface-laptop-ultra/",
+      "pubDate": "Fri, 16 Oct 2026 13:00:00 +0000",
+      "source": "wired.com"
     },
     {
       "title": "AWOL Vision Aetherion Max RGB Laser UST Projector Review: A Top Buy",
@@ -164,14 +200,14 @@
       "source": "wired.com"
     },
     {
-      "title": "Skechers Coupon Codes 20% Off",
-      "link": "https://www.wired.com/story/skechers-coupon-codes/",
+      "title": "Surfshark Promo Codes: 87% Off | October 2026",
+      "link": "https://www.wired.com/story/surfshark-coupon/",
       "pubDate": "Fri, 16 Oct 2026 05:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Surfshark Promo Codes: 87% Off | October 2026",
-      "link": "https://www.wired.com/story/surfshark-coupon/",
+      "title": "Skechers Coupon Codes 20% Off",
+      "link": "https://www.wired.com/story/skechers-coupon-codes/",
       "pubDate": "Fri, 16 Oct 2026 05:00:00 +0000",
       "source": "wired.com"
     },
@@ -203,42 +239,6 @@
       "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
       "link": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
       "pubDate": "Thu, 15 Oct 2026 21:00:28 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Upgrade Your Thermostat for Winter With This Ecobee Deal for $120",
-      "link": "https://www.wired.com/story/ecobee-fall-sale-2026/",
-      "pubDate": "Thu, 15 Oct 2026 19:00:49 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "White House Press Secretary Katie Zacharia Was an Affiliate Marketer for a Fitness MLM",
-      "link": "https://www.wired.com/story/white-house-press-secretary-katie-zacharia-was-an-affiliate-marketer-for-a-fitness-mlm/",
-      "pubDate": "Thu, 15 Oct 2026 17:05:19 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Junji Ito’s Manga Horrors Hit Harder as Live-Action TV",
-      "link": "https://www.wired.com/story/new-york-comic-con-panel-2/",
-      "pubDate": "Thu, 15 Oct 2026 13:30:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Kids’ Content Is Deeply Broken. A New Platform Wants to Fix It",
-      "link": "https://www.wired.com/story/maka-streaming-platform-for-kids-fighting-against-ai-slop/",
-      "pubDate": "Thu, 15 Oct 2026 11:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Democrats Are Gearing Up to Investigate the Trump Administration. It Won’t Be Easy",
-      "link": "https://www.wired.com/story/democrats-are-gearing-up-to-investigate-the-trump-administration-it-wont-be-so-easy/",
-      "pubDate": "Thu, 15 Oct 2026 10:30:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "‘Nightmare Scenario’: Zero-Click Spyware Is Infecting Phones via Targeted Ads",
-      "link": "https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/",
-      "pubDate": "Thu, 15 Oct 2026 10:00:00 +0000",
       "source": "wired.com"
     }
   ],

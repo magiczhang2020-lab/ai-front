@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-19T22:43:00.865619+00:00",
+  "updatedAt": "2026-10-20T01:24:39.244179+00:00",
   "items": [
+    {
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "pubDate": "Mon, 19 Oct 2026 23:39:38 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "pubDate": "Mon, 19 Oct 2026 22:49:27 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
       "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
@@ -107,18 +119,6 @@
       "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
       "link": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
       "pubDate": "Sun, 18 Oct 2026 19:03:38 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Disney agrees to hire the majority of Character AI’s workforce",
-      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "pubDate": "Sun, 18 Oct 2026 16:30:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "TechCrunch Mobility: Rivian’s next act",
-      "link": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
-      "pubDate": "Sun, 18 Oct 2026 16:05:00 +0000",
       "source": "techcrunch.com"
     },
     {
@@ -236,8 +236,8 @@
       "source": "wired.com"
     },
     {
-      "title": "Climate Change Has It In for the World’s Best Surfing",
-      "link": "https://www.wired.com/story/climate-change-has-it-in-for-the-worlds-best-surfing/",
+      "title": "Magnesium May Not Reach Your Brain, Despite Supplement Label Promises",
+      "link": "https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises/",
       "pubDate": "Sun, 18 Oct 2026 09:00:00 +0000",
       "source": "wired.com"
     }

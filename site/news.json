@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-20T17:40:39.015045+00:00",
+  "updatedAt": "2026-10-20T21:04:43.326776+00:00",
   "items": [
+    {
+      "title": "SpaceX’s AI business is beating expectations",
+      "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "pubDate": "Tue, 20 Oct 2026 20:40:41 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "pubDate": "Tue, 20 Oct 2026 20:35:10 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+      "link": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+      "pubDate": "Tue, 20 Oct 2026 20:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
+      "link": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
+      "pubDate": "Tue, 20 Oct 2026 19:32:43 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "pubDate": "Tue, 20 Oct 2026 18:38:24 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "ChatGPT now lets you lock your chats",
+      "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "pubDate": "Tue, 20 Oct 2026 18:36:53 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+      "pubDate": "Tue, 20 Oct 2026 17:55:12 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
       "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
@@ -80,46 +122,16 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-      "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-      "pubDate": "Tue, 20 Oct 2026 11:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "A New Rocco Smart Fridge Just Dropped. So Did the Prices (2026)",
+      "link": "https://www.wired.com/story/rocco-sale-october-2026/",
+      "pubDate": "Tue, 20 Oct 2026 20:47:46 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
-      "link": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
-      "pubDate": "Tue, 20 Oct 2026 07:01:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
-      "link": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
-      "pubDate": "Tue, 20 Oct 2026 02:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-      "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-      "pubDate": "Tue, 20 Oct 2026 01:27:03 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-      "pubDate": "Mon, 19 Oct 2026 23:39:38 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-      "pubDate": "Mon, 19 Oct 2026 22:49:27 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "pubDate": "Mon, 19 Oct 2026 22:04:28 +0000",
-      "source": "techcrunch.com"
+      "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
+      "link": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
+      "pubDate": "Tue, 20 Oct 2026 17:41:58 +0000",
+      "source": "wired.com"
     },
     {
       "title": "Hatch Sleep Clock Review: A Contactless Sleep Tracker (2026)",
@@ -194,24 +206,6 @@
       "source": "wired.com"
     },
     {
-      "title": "Chewy Promo Codes: $20 Off October 2026",
-      "link": "https://www.wired.com/story/chewy-promo-code/",
-      "pubDate": "Tue, 20 Oct 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Adorama Camera Coupon Codes & Promo Codes: October 2026",
-      "link": "https://www.wired.com/story/adorama-promo-code/",
-      "pubDate": "Tue, 20 Oct 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Mint Mobile Discounts for October 2026",
-      "link": "https://www.wired.com/story/mint-mobile-promo-code/",
-      "pubDate": "Tue, 20 Oct 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
       "title": "Wayfair Coupons: Up to 80% Off October 2026",
       "link": "https://www.wired.com/story/wayfair-promo-code/",
       "pubDate": "Tue, 20 Oct 2026 05:00:00 +0000",
@@ -224,20 +218,26 @@
       "source": "wired.com"
     },
     {
+      "title": "Chewy Promo Codes: $20 Off October 2026",
+      "link": "https://www.wired.com/story/chewy-promo-code/",
+      "pubDate": "Tue, 20 Oct 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
       "title": "30% Off Canon Promo Codes | October 2026",
       "link": "https://www.wired.com/story/canon-promo-code/",
       "pubDate": "Tue, 20 Oct 2026 05:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Mattress Firm Coupons: Save up to $700",
-      "link": "https://www.wired.com/story/mattress-firm-coupon/",
+      "title": "Mint Mobile Discounts for October 2026",
+      "link": "https://www.wired.com/story/mint-mobile-promo-code/",
       "pubDate": "Tue, 20 Oct 2026 05:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Whoop Promo Codes: 20% Off This October 2026",
-      "link": "https://www.wired.com/story/whoop-promo-code/",
+      "title": "Adorama Camera Coupon Codes & Promo Codes: October 2026",
+      "link": "https://www.wired.com/story/adorama-promo-code/",
       "pubDate": "Tue, 20 Oct 2026 05:00:00 +0000",
       "source": "wired.com"
     }

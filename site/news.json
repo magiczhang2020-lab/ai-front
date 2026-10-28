@@ -1,6 +1,84 @@
 {
-  "updatedAt": "2026-10-28T13:41:46.691253+00:00",
+  "updatedAt": "2026-10-28T19:12:27.965312+00:00",
   "items": [
+    {
+      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+      "pubDate": "Wed, 28 Oct 2026 19:05:46 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Apple launches its new touchscreen MacBook Pro",
+      "link": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
+      "pubDate": "Wed, 28 Oct 2026 17:26:10 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Xreal Aura is a new wired headset powered by Android XR",
+      "link": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
+      "pubDate": "Wed, 28 Oct 2026 17:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "pubDate": "Wed, 28 Oct 2026 17:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "pubDate": "Wed, 28 Oct 2026 17:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
+      "link": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
+      "pubDate": "Wed, 28 Oct 2026 16:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "AI execs may be too out of touch to build for the general public",
+      "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "pubDate": "Wed, 28 Oct 2026 15:53:52 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
+      "link": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+      "pubDate": "Wed, 28 Oct 2026 15:53:21 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+      "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "pubDate": "Wed, 28 Oct 2026 15:41:18 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "pubDate": "Wed, 28 Oct 2026 15:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
+      "link": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+      "pubDate": "Wed, 28 Oct 2026 14:34:25 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "TikTok expands into restaurant guides with ‘Must Eat’ feature",
+      "link": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
+      "pubDate": "Wed, 28 Oct 2026 14:26:36 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Meta has a new AI pet app called Waddle World",
+      "link": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
+      "pubDate": "Wed, 28 Oct 2026 13:53:31 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Free Fire returns to India as Garena launches localized version four years after ban",
       "link": "https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban/",
@@ -44,82 +122,34 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
-      "link": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
-      "pubDate": "Tue, 27 Oct 2026 22:26:03 +0000",
-      "source": "techcrunch.com"
+      "title": "The New M6 MacBook Pro Has a Serious Price Problem",
+      "link": "https://www.wired.com/story/m6-macbook-pro-price-problem/",
+      "pubDate": "Wed, 28 Oct 2026 18:57:22 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
-      "link": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
-      "pubDate": "Tue, 27 Oct 2026 22:17:18 +0000",
-      "source": "techcrunch.com"
+      "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+      "link": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+      "pubDate": "Wed, 28 Oct 2026 18:30:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "GM is embracing hybrids now",
-      "link": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
-      "pubDate": "Tue, 27 Oct 2026 21:47:02 +0000",
-      "source": "techcrunch.com"
+      "title": "The Inside Story of Why Apple Finally Brought a Touch Display to the Mac",
+      "link": "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/",
+      "pubDate": "Wed, 28 Oct 2026 17:15:16 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-      "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-      "pubDate": "Tue, 27 Oct 2026 21:44:34 +0000",
-      "source": "techcrunch.com"
+      "title": "Sony Wants You to Forget About Discs With Its Gorgeous Transparent Controllers",
+      "link": "https://www.wired.com/story/sony-wants-you-to-forget-about-discs-with-its-gorgeous-transparent-controller/",
+      "pubDate": "Wed, 28 Oct 2026 15:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Who’s really in charge at Anthropic after the IPO?",
-      "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
-      "pubDate": "Tue, 27 Oct 2026 21:38:28 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Discord is making its public communities more searchable, and people have concerns",
-      "link": "https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/",
-      "pubDate": "Tue, 27 Oct 2026 21:22:35 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
-      "link": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
-      "pubDate": "Tue, 27 Oct 2026 20:31:17 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-      "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-      "pubDate": "Tue, 27 Oct 2026 18:55:35 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-      "pubDate": "Tue, 27 Oct 2026 17:08:08 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-      "pubDate": "Tue, 27 Oct 2026 16:30:57 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-      "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-      "pubDate": "Tue, 27 Oct 2026 14:59:09 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
-      "link": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
-      "pubDate": "Tue, 27 Oct 2026 14:51:33 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "US government says hackers are now exploiting critical PHP web bugs",
-      "link": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
-      "pubDate": "Tue, 27 Oct 2026 14:40:39 +0000",
-      "source": "techcrunch.com"
+      "title": "Senators Demand to Know if Dr. Oz Collaborated With Election Denial Groups",
+      "link": "https://www.wired.com/story/senators-demand-to-know-if-dr-oz-collaborated-with-election-denial-groups/",
+      "pubDate": "Wed, 28 Oct 2026 14:46:35 +0000",
+      "source": "wired.com"
     },
     {
       "title": "What’s the Best Kindle of 2026 (So Far)?",
@@ -208,36 +238,6 @@
     {
       "title": "Peacock Promo Codes: 40% Off October 2026",
       "link": "https://www.wired.com/story/peacock-promo-code/",
-      "pubDate": "Wed, 28 Oct 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Paramount+ Coupon Codes and Deals for 2026",
-      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "pubDate": "Wed, 28 Oct 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026",
-      "link": "https://www.wired.com/story/nordvpn-coupon/",
-      "pubDate": "Wed, 28 Oct 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Disney Plus Discount Codes: 52% Off October 2026",
-      "link": "https://www.wired.com/story/disney-plus-discounts/",
-      "pubDate": "Wed, 28 Oct 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "LG Promo Codes and Coupons for October 2026",
-      "link": "https://www.wired.com/story/lg-promo-code/",
-      "pubDate": "Wed, 28 Oct 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "30% VistaPrint Coupon & Promo Codes | October 2026",
-      "link": "https://www.wired.com/story/vistaprint-coupon-code/",
       "pubDate": "Wed, 28 Oct 2026 05:00:00 +0000",
       "source": "wired.com"
     }

@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-28T00:10:12.465495+00:00",
+  "updatedAt": "2026-10-28T06:28:35.001433+00:00",
   "items": [
+    {
+      "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+      "link": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+      "pubDate": "Wed, 28 Oct 2026 05:20:32 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "pubDate": "Wed, 28 Oct 2026 01:15:28 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
       "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
@@ -110,16 +122,76 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
-      "link": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
-      "pubDate": "Tue, 27 Oct 2026 13:01:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Should AI Decide Your Court Case? This Judge Says Yes",
+      "link": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
+      "pubDate": "Wed, 28 Oct 2026 06:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
-      "link": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
-      "pubDate": "Tue, 27 Oct 2026 13:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Google Workspace Promo Codes: 14% Off for October 2026",
+      "link": "https://www.wired.com/story/google-workspace-promo-code/",
+      "pubDate": "Wed, 28 Oct 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Nike Promo Codes and Discounts: 30% for October 2026",
+      "link": "https://www.wired.com/story/nike-promo-code/",
+      "pubDate": "Wed, 28 Oct 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Peacock Promo Codes: 40% Off October 2026",
+      "link": "https://www.wired.com/story/peacock-promo-code/",
+      "pubDate": "Wed, 28 Oct 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Paramount+ Coupon Codes and Deals for 2026",
+      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
+      "pubDate": "Wed, 28 Oct 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026",
+      "link": "https://www.wired.com/story/nordvpn-coupon/",
+      "pubDate": "Wed, 28 Oct 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Disney Plus Discount Codes: 52% Off October 2026",
+      "link": "https://www.wired.com/story/disney-plus-discounts/",
+      "pubDate": "Wed, 28 Oct 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "LG Promo Codes and Coupons for October 2026",
+      "link": "https://www.wired.com/story/lg-promo-code/",
+      "pubDate": "Wed, 28 Oct 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "30% VistaPrint Coupon & Promo Codes | October 2026",
+      "link": "https://www.wired.com/story/vistaprint-coupon-code/",
+      "pubDate": "Wed, 28 Oct 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Squarespace Promo Codes: 20% Off in October 2026",
+      "link": "https://www.wired.com/story/squarespace-promo-code/",
+      "pubDate": "Wed, 28 Oct 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "20% Off Samsung Promo Code | October 2026",
+      "link": "https://www.wired.com/story/samsung-promo-codes/",
+      "pubDate": "Wed, 28 Oct 2026 05:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Dyson Promo Codes: 25% Off in October 2026",
+      "link": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+      "pubDate": "Wed, 28 Oct 2026 05:00:00 +0000",
+      "source": "wired.com"
     },
     {
       "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
@@ -167,78 +239,6 @@
       "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
       "link": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
       "pubDate": "Tue, 27 Oct 2026 15:10:26 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "UK Politician Jess Asato Got Deepfaked. Now She’s Taking xAI to Court",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-jess-asato/",
-      "pubDate": "Tue, 27 Oct 2026 13:29:41 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "AI Agents Are Media’s New Favorite Audience",
-      "link": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
-      "pubDate": "Tue, 27 Oct 2026 11:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "NASA’s Oldest Martian Spacecraft Have Been Running for Decades. Here’s How",
-      "link": "https://www.wired.com/story/how-nasa-oldest-martian-spacecraft-run-for-decades/",
-      "pubDate": "Tue, 27 Oct 2026 10:45:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Instagram Is a Streaming Service Now",
-      "link": "https://www.wired.com/story/instagram-is-a-streaming-service-now/",
-      "pubDate": "Tue, 27 Oct 2026 10:30:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Massive Groups of Volunteers Are Ready to Face Down ICE at the Polls",
-      "link": "https://www.wired.com/story/massive-groups-of-volunteers-are-ready-to-face-down-ice-at-the-polls/",
-      "pubDate": "Tue, 27 Oct 2026 10:15:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "How to Hide Your Baby From the Government",
-      "link": "https://www.wired.com/story/the-rise-of-sovereign-babies/",
-      "pubDate": "Tue, 27 Oct 2026 10:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Is an Under-Sink Reverse Osmosis System Worth It? Benefits, Costs, and Drawbacks",
-      "link": "https://www.wired.com/story/is-an-under-sink-reverse-osmosis-system-worth-it/",
-      "pubDate": "Tue, 27 Oct 2026 09:35:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
-      "link": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
-      "pubDate": "Tue, 27 Oct 2026 09:30:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
-      "link": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/",
-      "pubDate": "Mon, 26 Oct 2026 22:40:37 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
-      "link": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
-      "pubDate": "Mon, 26 Oct 2026 21:27:15 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Best Dyson Vacuum Deals for Dyson Week 2026",
-      "link": "https://www.wired.com/story/best-dyson-week-vacuum-deal-oct-2026/",
-      "pubDate": "Mon, 26 Oct 2026 20:28:30 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Anker’s Halloween Sale Takes 20% Off Our Favorite Chargers and Power Banks",
-      "link": "https://www.wired.com/story/anker-halloween-sale-oct-2026/",
-      "pubDate": "Mon, 26 Oct 2026 20:13:46 +0000",
       "source": "wired.com"
     }
   ],

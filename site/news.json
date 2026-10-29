@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-10-29T10:37:01.505641+00:00",
+  "updatedAt": "2026-10-29T17:13:25.293476+00:00",
   "items": [
+    {
+      "title": "U.S. investigated Chinese spy plot aimed at Nvidia CEO",
+      "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "pubDate": "Thu, 29 Oct 2026 16:42:32 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "pubDate": "Thu, 29 Oct 2026 16:21:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "SuperMe raises $20M for its network of AI expert profiles",
+      "link": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
+      "pubDate": "Thu, 29 Oct 2026 16:19:43 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
+      "link": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
+      "pubDate": "Thu, 29 Oct 2026 15:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "pubDate": "Thu, 29 Oct 2026 14:35:26 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns",
+      "link": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/",
+      "pubDate": "Thu, 29 Oct 2026 13:43:53 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "DoorDash to acquire Instacart for $17B",
+      "link": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
+      "pubDate": "Thu, 29 Oct 2026 13:40:57 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+      "pubDate": "Thu, 29 Oct 2026 13:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+      "link": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+      "pubDate": "Thu, 29 Oct 2026 13:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages",
+      "link": "https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/",
+      "pubDate": "Thu, 29 Oct 2026 13:00:00 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
       "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
@@ -62,64 +122,34 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Xreal Aura is a new wired headset powered by Android XR",
-      "link": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
-      "pubDate": "Wed, 28 Oct 2026 17:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
+      "link": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+      "pubDate": "Thu, 29 Oct 2026 15:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-      "pubDate": "Wed, 28 Oct 2026 17:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+      "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+      "pubDate": "Thu, 29 Oct 2026 14:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-      "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-      "pubDate": "Wed, 28 Oct 2026 17:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Petkit Automatic Cat Litter Box Sale (2026)",
+      "link": "https://www.wired.com/story/petkit-sale-october-2026/",
+      "pubDate": "Thu, 29 Oct 2026 13:41:26 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
-      "link": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
-      "pubDate": "Wed, 28 Oct 2026 16:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "The Kindle Accessories I Never Want to Read Without (2026)",
+      "link": "https://www.wired.com/story/best-kindle-accessories/",
+      "pubDate": "Thu, 29 Oct 2026 11:03:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "AI execs may be too out of touch to build for the general public",
-      "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-      "pubDate": "Wed, 28 Oct 2026 15:53:52 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
-      "link": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
-      "pubDate": "Wed, 28 Oct 2026 15:53:21 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
-      "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
-      "pubDate": "Wed, 28 Oct 2026 15:41:18 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-      "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-      "pubDate": "Wed, 28 Oct 2026 15:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
-      "link": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
-      "pubDate": "Wed, 28 Oct 2026 14:34:25 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "TikTok expands into restaurant guides with ‘Must Eat’ feature",
-      "link": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
-      "pubDate": "Wed, 28 Oct 2026 14:26:36 +0000",
-      "source": "techcrunch.com"
+      "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
+      "link": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+      "pubDate": "Thu, 29 Oct 2026 10:45:00 +0000",
+      "source": "wired.com"
     },
     {
       "title": "Hisense UR8 RGB MiniLED TV: Midrange Quality, Upscale Color Accuracy",
@@ -200,24 +230,6 @@
       "source": "wired.com"
     },
     {
-      "title": "Dermstore Coupons: 25% Off for November 2026",
-      "link": "https://www.wired.com/story/dermstore-promo-code/",
-      "pubDate": "Thu, 29 Oct 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Pura Promo Codes: $20 Off November 2026",
-      "link": "https://www.wired.com/story/pura-promo-code/",
-      "pubDate": "Thu, 29 Oct 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Petlibro Offers: 30% Off in November 2026",
-      "link": "https://www.wired.com/story/petlibro-discount-code/",
-      "pubDate": "Thu, 29 Oct 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
       "title": "Skullcandy Discount Code: 30% Off | November 2026",
       "link": "https://www.wired.com/story/skullcandy-discount-code/",
       "pubDate": "Thu, 29 Oct 2026 05:00:00 +0000",
@@ -227,18 +239,6 @@
       "title": "30% Off Tempur-Pedic Promo Codes | November 2026",
       "link": "https://www.wired.com/story/tempur-pedic-promo-code/",
       "pubDate": "Thu, 29 Oct 2026 05:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Bluesky Is Blocking Links to a Major Leak of DHS Employee Records",
-      "link": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
-      "pubDate": "Thu, 29 Oct 2026 03:34:46 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "The 2,000-Nit OLED in Apple’s New MacBook Is a Big Deal",
-      "link": "https://www.wired.com/story/the-2000-nit-oled-in-apples-new-macbook-pro-is-a-big-deal/",
-      "pubDate": "Wed, 28 Oct 2026 22:54:16 +0000",
       "source": "wired.com"
     }
   ],

@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-03T07:25:32.933788+00:00",
+  "updatedAt": "2026-11-03T15:40:20.776800+00:00",
   "items": [
+    {
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "pubDate": "Tue, 03 Nov 2026 15:38:27 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+      "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+      "pubDate": "Tue, 03 Nov 2026 14:30:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+      "link": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+      "pubDate": "Tue, 03 Nov 2026 14:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+      "link": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+      "pubDate": "Tue, 03 Nov 2026 08:01:00 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
       "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
@@ -98,28 +122,70 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
-      "link": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
-      "pubDate": "Mon, 02 Nov 2026 16:44:48 +0000",
-      "source": "techcrunch.com"
+      "title": "Here's Why You Shouldn't Use AI to Vote",
+      "link": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+      "pubDate": "Tue, 03 Nov 2026 14:45:08 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-      "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "pubDate": "Mon, 02 Nov 2026 16:30:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Roli Has Fallen Apart—and Left Customers Holding the Bag",
+      "link": "https://www.wired.com/story/roli-has-fallen-apart-and-left-customers-holding-the-bag/",
+      "pubDate": "Tue, 03 Nov 2026 14:00:34 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-      "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-      "pubDate": "Mon, 02 Nov 2026 16:23:21 +0000",
-      "source": "techcrunch.com"
+      "title": "Apple iPad Mini (2026) Review: A Dream Device, but Who Is It For?",
+      "link": "https://www.wired.com/review/ipad-mini-2026/",
+      "pubDate": "Tue, 03 Nov 2026 14:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "pubDate": "Mon, 02 Nov 2026 15:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "The Endlessly Meme-able Steve Kornacki Is Not a Meme Person",
+      "link": "https://www.wired.com/story/steve-kornacki-user-behavior/",
+      "pubDate": "Tue, 03 Nov 2026 12:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Apple AirPods 5 Review: Better Than Before but Not Quite Pro",
+      "link": "https://www.wired.com/review/apple-airpods-5/",
+      "pubDate": "Tue, 03 Nov 2026 12:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "ICE Is Inspiring Latinos to Vote in Historic Numbers",
+      "link": "https://www.wired.com/story/ice-is-inspiring-latinos-to-vote-in-historic-numbers/",
+      "pubDate": "Tue, 03 Nov 2026 11:30:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+      "pubDate": "Tue, 03 Nov 2026 11:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "NASA’s Swift Observatory Is Falling to Earth. Here’s What to Know About the Impending Impact",
+      "link": "https://www.wired.com/story/nasas-swift-observatory-is-falling-to-earth-heres-what-to-know-about-the-impending-impact/",
+      "pubDate": "Tue, 03 Nov 2026 10:45:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "White Noise Machines Worthy of Your Nightstand in 2026: Snooz, Hatch, and More",
+      "link": "https://www.wired.com/story/best-white-noise-machines/",
+      "pubDate": "Tue, 03 Nov 2026 10:35:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Ancient Meteorite Found in the Sahara Holds Secrets About Mars’ Watery Past",
+      "link": "https://www.wired.com/story/ancient-fragment-from-mars-found-in-the-sahara-holds-secrets-about-the-planets-watery-past/",
+      "pubDate": "Tue, 03 Nov 2026 10:15:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Opioid Users Found a ‘Miracle Drug’ to Help Them Quit. Then the DEA Banned It",
+      "link": "https://www.wired.com/story/opioid-users-sr-17018-drug-to-help-them-quit-dea-ban/",
+      "pubDate": "Tue, 03 Nov 2026 10:00:00 +0000",
+      "source": "wired.com"
     },
     {
       "title": "Uber Eats Promo Codes: $15 Off│November 2026",
@@ -173,72 +239,6 @@
       "title": "Newegg Promo Codes and Coupons for November 2026",
       "link": "https://www.wired.com/story/newegg-promo-code/",
       "pubDate": "Tue, 03 Nov 2026 06:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "eBay Coupons: 20% Off in November 2026",
-      "link": "https://www.wired.com/story/ebay-coupon-code/",
-      "pubDate": "Tue, 03 Nov 2026 06:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "The Online Right’s Closing Campaign Argument: Fascist Anakin Skywalker Memes",
-      "link": "https://www.wired.com/story/the-online-rights-closing-campaign-argument-fascist-anakin-skywalker-memes/",
-      "pubDate": "Mon, 02 Nov 2026 23:17:27 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "How to Save $25 on Burga’s Phone Accessories With This Sale",
-      "link": "https://www.wired.com/story/burga-sale-november-2026/",
-      "pubDate": "Mon, 02 Nov 2026 21:30:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Best Dyson Vacuum Deals (2026): Dyson Spot+Scrub Ai, Dyson V16 Piston Animal",
-      "link": "https://www.wired.com/story/dyson-vacuum-deals-nov-2026/",
-      "pubDate": "Mon, 02 Nov 2026 21:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Best Early Black Friday Espresso Machine Deals (2026)",
-      "link": "https://www.wired.com/story/early-black-friday-coffee-espresso-deals-2026/",
-      "pubDate": "Mon, 02 Nov 2026 19:38:06 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "A Right-Wing Think Tank Has a Plan to Prevent Democrats From Being Seated in Congress",
-      "link": "https://www.wired.com/story/a-right-wing-think-tank-has-a-plan-to-prevent-democrats-from-being-seated-in-congress/",
-      "pubDate": "Mon, 02 Nov 2026 17:29:17 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Anti-Oligarchy Activists Plan to Dox Elon Musk and Hundreds of Billionaire-Linked Homes",
-      "link": "https://www.wired.com/story/anti-oligarchy-activists-plan-to-dox-elon-musk-and-hundreds-of-billionaire-linked-homes/",
-      "pubDate": "Mon, 02 Nov 2026 17:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Asus ROG Rapture GT-BN98 Pro Review: Welcome to Wi-Fi 8",
-      "link": "https://www.wired.com/review/asus-rog-rapture-gt-bn98-pro/",
-      "pubDate": "Mon, 02 Nov 2026 16:44:20 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Here’s How the Trump Administration Is Trying to Undermine the Election",
-      "link": "https://www.wired.com/story/the-trump-administration-is-wreaking-havoc-on-the-electoral-system-before-the-midterms/",
-      "pubDate": "Mon, 02 Nov 2026 15:13:39 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Get 25 Percent Off My Favorite Renter-Friendly Storage Lockers",
-      "link": "https://www.wired.com/story/mustard-made-sale-october-2026/",
-      "pubDate": "Mon, 02 Nov 2026 14:15:29 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Birdbuddy vs. Birdfy: Which Budget Smart Feeder Should You Buy? (2026)",
-      "link": "https://www.wired.com/story/birdbuddy-nook-vs-birdfy-rookie/",
-      "pubDate": "Mon, 02 Nov 2026 14:00:00 +0000",
       "source": "wired.com"
     }
   ],

@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-11-04T22:17:26.769350+00:00",
+  "updatedAt": "2026-11-05T02:58:56.145378+00:00",
   "items": [
+    {
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "pubDate": "Thu, 05 Nov 2026 01:26:22 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "pubDate": "Thu, 05 Nov 2026 01:02:14 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "pubDate": "Wed, 04 Nov 2026 22:45:09 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
       "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
@@ -104,22 +122,10 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
-      "link": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
-      "pubDate": "Wed, 04 Nov 2026 04:45:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "pubDate": "Tue, 03 Nov 2026 22:41:03 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Data centers are turning to old jet engines as the wait for power grows",
-      "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-      "pubDate": "Tue, 03 Nov 2026 22:19:53 +0000",
-      "source": "techcrunch.com"
+      "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+      "link": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
+      "pubDate": "Wed, 04 Nov 2026 23:13:14 +0000",
+      "source": "wired.com"
     },
     {
       "title": "‘We Have No Shared Reality’: Two Political Influencers on the Future of Politics Online",
@@ -201,7 +207,7 @@
     },
     {
       "title": "‘Musk’ Director Alex Gibney Wants to Know if Democrats Can Now Hold Elon Musk Accountable",
-      "link": "https://www.wired.com/story/wired-world-fair-2026-alex-gibey-musk/",
+      "link": "https://www.wired.com/story/wired-world-fair-2026-alex-gibney-musk/",
       "pubDate": "Wed, 04 Nov 2026 14:15:21 +0000",
       "source": "wired.com"
     },
@@ -232,12 +238,6 @@
     {
       "title": "What’s the Difference Between an Ebike and an E-Moto?",
       "link": "https://www.wired.com/story/whats-the-difference-between-an-ebike-and-an-e-moto/",
-      "pubDate": "Wed, 04 Nov 2026 10:45:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "New Jersey’s New Ebike Law Is Causing Chaos",
-      "link": "https://www.wired.com/story/new-jerseys-new-ebike-law-is-causing-chaos/",
       "pubDate": "Wed, 04 Nov 2026 10:45:00 +0000",
       "source": "wired.com"
     }

@@ -1,6 +1,114 @@
 {
-  "updatedAt": "2026-11-05T10:30:02.120976+00:00",
+  "updatedAt": "2026-11-05T18:24:36.831940+00:00",
   "items": [
+    {
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "pubDate": "Thu, 05 Nov 2026 18:02:27 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+      "link": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "pubDate": "Thu, 05 Nov 2026 18:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "pubDate": "Thu, 05 Nov 2026 18:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Harbinger raises $240M after expanding into defense",
+      "link": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+      "pubDate": "Thu, 05 Nov 2026 17:52:44 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+      "link": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+      "pubDate": "Thu, 05 Nov 2026 17:11:48 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "pubDate": "Thu, 05 Nov 2026 16:16:45 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Bluesky hit peak usage for the year on election night",
+      "link": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
+      "pubDate": "Thu, 05 Nov 2026 15:44:58 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+      "link": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+      "pubDate": "Thu, 05 Nov 2026 15:40:34 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "TikTok quietly launches a stand-alone TikTok Shop app",
+      "link": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
+      "pubDate": "Thu, 05 Nov 2026 15:33:58 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "pubDate": "Thu, 05 Nov 2026 15:19:05 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Instagram brings Edits to desktop to take on CapCut",
+      "link": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
+      "pubDate": "Thu, 05 Nov 2026 15:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+      "link": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
+      "pubDate": "Thu, 05 Nov 2026 15:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+      "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+      "pubDate": "Thu, 05 Nov 2026 14:42:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "RadianX promises solar-powered devices that never need charging",
+      "link": "https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/",
+      "pubDate": "Thu, 05 Nov 2026 14:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+      "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+      "pubDate": "Thu, 05 Nov 2026 14:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+      "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+      "pubDate": "Thu, 05 Nov 2026 13:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+      "pubDate": "Thu, 05 Nov 2026 12:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Amazon ditches Grubhub, taps Uber Eats for Prime",
+      "link": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/",
+      "pubDate": "Thu, 05 Nov 2026 11:00:00 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
       "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
@@ -14,112 +122,70 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-      "pubDate": "Wed, 04 Nov 2026 22:45:09 +0000",
-      "source": "techcrunch.com"
+      "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
+      "link": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
+      "pubDate": "Thu, 05 Nov 2026 16:26:57 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-      "pubDate": "Wed, 04 Nov 2026 22:13:16 +0000",
-      "source": "techcrunch.com"
+      "title": "Area Man Feels Joy Online for First Time in Years",
+      "link": "https://www.wired.com/story/wired-world-fair-2026-ben-collins-the-onion/",
+      "pubDate": "Thu, 05 Nov 2026 15:38:07 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-      "pubDate": "Wed, 04 Nov 2026 21:56:01 +0000",
-      "source": "techcrunch.com"
+      "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+      "link": "https://www.wired.com/story/aina-smart-ring/",
+      "pubDate": "Thu, 05 Nov 2026 14:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Snapchat surpasses 30M paid subscribers",
-      "link": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
-      "pubDate": "Wed, 04 Nov 2026 21:49:29 +0000",
-      "source": "techcrunch.com"
+      "title": "Apple MacBook Pro OLED (2026) Review: The Best Comes at a Cost",
+      "link": "https://www.wired.com/review/apple-macbook-pro-oled-2026/",
+      "pubDate": "Thu, 05 Nov 2026 14:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "OpenAI is already trying to shape the 2028 election",
-      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-      "pubDate": "Wed, 04 Nov 2026 21:25:44 +0000",
-      "source": "techcrunch.com"
+      "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+      "link": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+      "pubDate": "Thu, 05 Nov 2026 13:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Meta acquires AI coding startup Conductor",
-      "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "pubDate": "Wed, 04 Nov 2026 21:10:56 +0000",
-      "source": "techcrunch.com"
+      "title": "Motorola Signature 27: Specs, Price, Features, Release Date",
+      "link": "https://www.wired.com/story/motorola-wants-to-sell-you-a-1600-phone-that-doesnt-fold/",
+      "pubDate": "Thu, 05 Nov 2026 13:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
-      "link": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
-      "pubDate": "Wed, 04 Nov 2026 20:36:57 +0000",
-      "source": "techcrunch.com"
+      "title": "Best Wireless Chargers (2026): My Picks After Testing 100+",
+      "link": "https://www.wired.com/gallery/best-wireless-chargers/",
+      "pubDate": "Thu, 05 Nov 2026 12:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-      "pubDate": "Wed, 04 Nov 2026 19:30:04 +0000",
-      "source": "techcrunch.com"
+      "title": "AI’s Next Trick? Speaking Dolphin",
+      "link": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
+      "pubDate": "Thu, 05 Nov 2026 12:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-      "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-      "pubDate": "Wed, 04 Nov 2026 19:29:52 +0000",
-      "source": "techcrunch.com"
+      "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
+      "link": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
+      "pubDate": "Thu, 05 Nov 2026 11:45:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
-      "link": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
-      "pubDate": "Wed, 04 Nov 2026 18:12:30 +0000",
-      "source": "techcrunch.com"
+      "title": "The ‘Ocarina of Time’ Remake Is Finally Here, but Why Does Link Look so Yassified?",
+      "link": "https://www.wired.com/story/the-legend-of-zelda-ocarina-of-time-remake-yassified-link/",
+      "pubDate": "Thu, 05 Nov 2026 11:30:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet",
-      "link": "https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/",
-      "pubDate": "Wed, 04 Nov 2026 18:10:11 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Sequoia hits rewind, undoing 20 years of expansion",
-      "link": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
-      "pubDate": "Wed, 04 Nov 2026 17:11:15 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
-      "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-      "pubDate": "Wed, 04 Nov 2026 16:51:35 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-      "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-      "pubDate": "Wed, 04 Nov 2026 16:17:22 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
-      "link": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
-      "pubDate": "Wed, 04 Nov 2026 15:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
-      "link": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
-      "pubDate": "Wed, 04 Nov 2026 14:10:10 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-      "link": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-      "pubDate": "Wed, 04 Nov 2026 13:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Canva lays off over 1,200 people amid slowing growth",
-      "link": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
-      "pubDate": "Wed, 04 Nov 2026 11:59:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Particle Physicists Are Getting a First Glimpse Into the ‘Zeptoverse’",
+      "link": "https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/",
+      "pubDate": "Thu, 05 Nov 2026 10:30:00 +0000",
+      "source": "wired.com"
     },
     {
       "title": "The Best Smart Ring for Discreet Fitness Tracking in 2026",
@@ -137,36 +203,6 @@
       "title": "A New UK Porn Ban Sparks Fears of Unprecedented Sex Censorship",
       "link": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
       "pubDate": "Thu, 05 Nov 2026 07:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Zoro Coupon Codes: 20% Off November 2026",
-      "link": "https://www.wired.com/story/zoro-promo-code/",
-      "pubDate": "Thu, 05 Nov 2026 06:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "B&H Photo Promo Codes and Deals This November 2026",
-      "link": "https://www.wired.com/story/bh-photo-coupon/",
-      "pubDate": "Thu, 05 Nov 2026 06:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Booking.com Promo Codes: 20% Off | November 2026",
-      "link": "https://www.wired.com/story/booking-com-promo-code/",
-      "pubDate": "Thu, 05 Nov 2026 06:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Corsair Discount Code: Up to 50% Off for November 2026",
-      "link": "https://www.wired.com/story/corsair-coupon/",
-      "pubDate": "Thu, 05 Nov 2026 06:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Udemy Coupon Codes: 20% Off November 2026",
-      "link": "https://www.wired.com/story/udemy-promo-code/",
-      "pubDate": "Thu, 05 Nov 2026 06:00:00 +0000",
       "source": "wired.com"
     },
     {
@@ -188,57 +224,21 @@
       "source": "wired.com"
     },
     {
-      "title": "Herman Miller Promo Codes: 40% Off November 2026",
-      "link": "https://www.wired.com/story/herman-miller-promo-code/",
+      "title": "B&H Photo Promo Codes and Deals This November 2026",
+      "link": "https://www.wired.com/story/bh-photo-coupon/",
       "pubDate": "Thu, 05 Nov 2026 06:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "HP Coupon Codes and Deals November 2026",
-      "link": "https://www.wired.com/story/hp-coupon-code/",
+      "title": "Booking.com Promo Codes: 20% Off | November 2026",
+      "link": "https://www.wired.com/story/booking-com-promo-code/",
       "pubDate": "Thu, 05 Nov 2026 06:00:00 +0000",
       "source": "wired.com"
     },
     {
-      "title": "Altra Running Promo Codes: 10% Off November 2026",
-      "link": "https://www.wired.com/story/altra-promo-code/",
+      "title": "Corsair Discount Code: Up to 50% Off for November 2026",
+      "link": "https://www.wired.com/story/corsair-coupon/",
       "pubDate": "Thu, 05 Nov 2026 06:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "HostGator Coupon Codes: 76% Off Hosting in November 2026",
-      "link": "https://www.wired.com/story/hostgator-coupon/",
-      "pubDate": "Thu, 05 Nov 2026 06:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
-      "link": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
-      "pubDate": "Wed, 04 Nov 2026 23:13:14 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "‘We Have No Shared Reality’: Two Political Influencers on the Future of Politics Online",
-      "link": "https://www.wired.com/story/wired-world-fair-2026-cj-pearson-and-kat-abughazaleh/",
-      "pubDate": "Wed, 04 Nov 2026 21:04:05 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
-      "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
-      "pubDate": "Wed, 04 Nov 2026 20:41:29 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "‘Blade Runner 2099’ Shows the ‘Silver Linings’ of a Replicant Takeover",
-      "link": "https://www.wired.com/story/wired-world-fair-2026-blade-runner-2099/",
-      "pubDate": "Wed, 04 Nov 2026 20:24:14 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
-      "link": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
-      "pubDate": "Wed, 04 Nov 2026 20:06:21 +0000",
       "source": "wired.com"
     }
   ],

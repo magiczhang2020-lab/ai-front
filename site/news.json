@@ -1,8 +1,110 @@
 {
-  "updatedAt": "2026-11-09T10:43:43.098380+00:00",
+  "updatedAt": "2026-11-09T21:14:09.617494+00:00",
   "items": [
     {
-      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "title": "Fervo now has $12B in orders for its geothermal power tech",
+      "link": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+      "pubDate": "Mon, 09 Nov 2026 20:55:34 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "pubDate": "Mon, 09 Nov 2026 20:09:06 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+      "link": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
+      "pubDate": "Mon, 09 Nov 2026 19:39:41 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "pubDate": "Mon, 09 Nov 2026 19:24:51 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+      "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+      "pubDate": "Mon, 09 Nov 2026 19:21:46 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+      "link": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
+      "pubDate": "Mon, 09 Nov 2026 19:19:24 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "pubDate": "Mon, 09 Nov 2026 18:09:52 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "pubDate": "Mon, 09 Nov 2026 18:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+      "link": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
+      "pubDate": "Mon, 09 Nov 2026 17:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "pubDate": "Mon, 09 Nov 2026 16:56:54 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+      "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+      "pubDate": "Mon, 09 Nov 2026 16:12:28 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Meta expands Instagram’s AI age-guessing tech globally",
+      "link": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
+      "pubDate": "Mon, 09 Nov 2026 15:32:27 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
+      "link": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
+      "pubDate": "Mon, 09 Nov 2026 15:24:59 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
+      "link": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/",
+      "pubDate": "Mon, 09 Nov 2026 14:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+      "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "pubDate": "Mon, 09 Nov 2026 14:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
+      "link": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+      "pubDate": "Mon, 09 Nov 2026 13:43:28 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Tesla expands robotaxi service to San Antonio",
+      "link": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
+      "pubDate": "Mon, 09 Nov 2026 11:30:24 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
       "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
       "pubDate": "Mon, 09 Nov 2026 05:26:29 +0000",
       "source": "techcrunch.com"
@@ -20,106 +122,52 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
-      "link": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
-      "pubDate": "Sun, 08 Nov 2026 21:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "The 9 Best TV Shows to Stream This Month (November 2026)",
+      "link": "https://www.wired.com/story/the-9-best-shows-to-stream-right-now/",
+      "pubDate": "Mon, 09 Nov 2026 20:47:28 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
-      "link": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
-      "pubDate": "Sun, 08 Nov 2026 20:30:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
+      "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
+      "pubDate": "Mon, 09 Nov 2026 14:30:56 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
-      "link": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
-      "pubDate": "Sun, 08 Nov 2026 19:51:30 +0000",
-      "source": "techcrunch.com"
+      "title": "King Arthur Baking Sourdough Sidekick Review: Rising to the Occasion",
+      "link": "https://www.wired.com/review/king-arthur-baking-sourdough-sidekick/",
+      "pubDate": "Mon, 09 Nov 2026 12:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
-      "link": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
-      "pubDate": "Sun, 08 Nov 2026 18:00:04 +0000",
-      "source": "techcrunch.com"
+      "title": "New Hulu Doc ‘Get Huge’ Shows the Deadly Toll of Looksmaxxing",
+      "link": "https://www.wired.com/story/hulu-doc-get-huge-shows-the-deadly-toll-of-looksmaxxing/",
+      "pubDate": "Mon, 09 Nov 2026 12:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
-      "link": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-      "pubDate": "Sun, 08 Nov 2026 17:30:00 +0000",
-      "source": "techcrunch.com"
+      "title": "The Midterms Were a Pretty Good Sign for the Right-to-Repair Movement",
+      "link": "https://www.wired.com/story/the-midterms-were-a-pretty-good-sign-for-right-to-repair/",
+      "pubDate": "Mon, 09 Nov 2026 11:30:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "TechCrunch Mobility: The Cybertruck experiment is over",
-      "link": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
-      "pubDate": "Sun, 08 Nov 2026 17:02:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Scientists May Have Discovered a Massive Starless Galaxy",
+      "link": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+      "pubDate": "Mon, 09 Nov 2026 11:15:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
-      "link": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
-      "pubDate": "Sun, 08 Nov 2026 15:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Audioengine Color of the Year Kit Review: Bright Look, Good Sound",
+      "link": "https://www.wired.com/review/audioengine-2026-color-of-the-year-kit/",
+      "pubDate": "Mon, 09 Nov 2026 11:00:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "pubDate": "Sat, 07 Nov 2026 22:07:22 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "pubDate": "Sat, 07 Nov 2026 21:17:08 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Parents want safer phones for kids. These companies are answering the call.",
-      "link": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
-      "pubDate": "Sat, 07 Nov 2026 19:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
-      "link": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
-      "pubDate": "Sat, 07 Nov 2026 17:24:07 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
-      "link": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
-      "pubDate": "Sat, 07 Nov 2026 17:18:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Sequoia shutting down its Scouts program marks the end of an era",
-      "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-      "pubDate": "Sat, 07 Nov 2026 05:01:54 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-      "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-      "pubDate": "Sat, 07 Nov 2026 04:16:43 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "pubDate": "Sat, 07 Nov 2026 01:40:28 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "pubDate": "Fri, 06 Nov 2026 22:53:46 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "The Duo apps are coming, says Apple",
-      "link": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
-      "pubDate": "Fri, 06 Nov 2026 21:38:05 +0000",
-      "source": "techcrunch.com"
+      "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
+      "link": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
+      "pubDate": "Mon, 09 Nov 2026 11:00:00 +0000",
+      "source": "wired.com"
     },
     {
       "title": "These Robotic Arms Are Powered by Algae. Watch How They Move",
@@ -191,54 +239,6 @@
       "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
       "link": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
       "pubDate": "Sun, 08 Nov 2026 10:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
-      "link": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
-      "pubDate": "Sun, 08 Nov 2026 10:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
-      "link": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/",
-      "pubDate": "Sat, 07 Nov 2026 13:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+",
-      "link": "https://www.wired.com/gallery/best-wifi-routers/",
-      "pubDate": "Sat, 07 Nov 2026 12:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "The 10 Best Early Black Friday Headphone Deals (2026)",
-      "link": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-6-26/",
-      "pubDate": "Sat, 07 Nov 2026 11:45:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
-      "link": "https://www.wired.com/gallery/best-cat-water-fountains/",
-      "pubDate": "Sat, 07 Nov 2026 11:37:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "This Totally Free App Can Free Up Space on Your Mac",
-      "link": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
-      "pubDate": "Sat, 07 Nov 2026 11:15:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "GoRuck Black Friday Sale: My Favorite Packs and Weighted Vests Are Nearly 50% Off",
-      "link": "https://www.wired.com/story/goruck-black-friday-sale-2026/",
-      "pubDate": "Sat, 07 Nov 2026 11:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
-      "link": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
-      "pubDate": "Sat, 07 Nov 2026 11:00:00 +0000",
       "source": "wired.com"
     }
   ],

@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-11T07:24:46.803470+00:00",
+  "updatedAt": "2026-11-11T15:44:15.326138+00:00",
   "items": [
+    {
+      "title": "Siri co-founder backs Helix for its voice ID tech",
+      "link": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
+      "pubDate": "Wed, 11 Nov 2026 15:02:47 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "pubDate": "Wed, 11 Nov 2026 15:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "pubDate": "Wed, 11 Nov 2026 14:00:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "pubDate": "Wed, 11 Nov 2026 07:30:51 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "X launches its own clipping feature to spur influencer engagement",
       "link": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
@@ -98,28 +122,76 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-      "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-      "pubDate": "Tue, 10 Nov 2026 15:29:30 +0000",
-      "source": "techcrunch.com"
+      "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+      "link": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+      "pubDate": "Wed, 11 Nov 2026 15:30:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Reddit is turning user conversations into AI-powered product reviews",
-      "link": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
-      "pubDate": "Tue, 10 Nov 2026 15:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules",
+      "link": "https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/",
+      "pubDate": "Wed, 11 Nov 2026 13:36:15 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
-      "link": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
-      "pubDate": "Tue, 10 Nov 2026 15:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Best Indoor Garden Systems I’ve Been Testing for Years (2026)",
+      "link": "https://www.wired.com/gallery/best-indoor-gardening-systems/",
+      "pubDate": "Wed, 11 Nov 2026 12:30:00 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-      "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
-      "pubDate": "Tue, 10 Nov 2026 14:05:10 +0000",
-      "source": "techcrunch.com"
+      "title": "Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech",
+      "link": "https://www.wired.com/story/your-smartphone-camera-could-get-a-big-upgrade-with-this-tech/",
+      "pubDate": "Wed, 11 Nov 2026 12:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Best OLED TVs of 2026: LG, Samsung, Sony, and More",
+      "link": "https://www.wired.com/story/best-oled-tv/",
+      "pubDate": "Wed, 11 Nov 2026 11:30:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities Are Suing",
+      "link": "https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/",
+      "pubDate": "Wed, 11 Nov 2026 11:15:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Best Air Purifiers (2026): Tested Picks for Every Room",
+      "link": "https://www.wired.com/gallery/best-air-purifiers/",
+      "pubDate": "Wed, 11 Nov 2026 11:02:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
+      "link": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+      "pubDate": "Wed, 11 Nov 2026 11:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "A New Benchmark for De-Aging Comes From Slowly Turning Back Cells’ Clocks",
+      "link": "https://www.wired.com/story/a-new-benchmark-for-de-aging-comes-from-slowly-turning-back-cells-clocks/",
+      "pubDate": "Wed, 11 Nov 2026 10:30:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "Early Black Friday Deals Under $100 (2026)",
+      "link": "https://www.wired.com/story/best-early-black-friday-deals-under-100-11-11-2026/",
+      "pubDate": "Wed, 11 Nov 2026 10:12:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "The Best iPad to Buy (and What to Avoid) in 2026: Air, Pro, Mini",
+      "link": "https://www.wired.com/gallery/the-best-ipad/",
+      "pubDate": "Wed, 11 Nov 2026 10:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
+      "title": "LinkedIn Is Testing a Feature That Lets You See Your Profile Stalkers",
+      "link": "https://www.wired.com/story/linkedin-is-testing-a-feature-that-lets-you-see-your-profile-stalkers/",
+      "pubDate": "Wed, 11 Nov 2026 10:00:00 +0000",
+      "source": "wired.com"
     },
     {
       "title": "Noom Promo Codes: 50% Off Best Deals for November 2026",
@@ -167,78 +239,6 @@
       "title": "Visible Promo Codes and Coupons for November 2026",
       "link": "https://www.wired.com/story/visible-promo-code/",
       "pubDate": "Wed, 11 Nov 2026 06:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Vivid Seats Promo Codes and Deals: Get 10% Off",
-      "link": "https://www.wired.com/story/vivid-seats-promo-code/",
-      "pubDate": "Wed, 11 Nov 2026 06:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Factor Promo Code: 50% Off Off Meal Prep",
-      "link": "https://www.wired.com/story/factor-promo-code/",
-      "pubDate": "Wed, 11 Nov 2026 06:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Squarespace Promo Codes: 20% Off in November 2026",
-      "link": "https://www.wired.com/story/squarespace-promo-code/",
-      "pubDate": "Wed, 11 Nov 2026 06:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "T-Mobile Promo Codes: 25% Off | November 2026",
-      "link": "https://www.wired.com/story/t-mobile-business-promo-code/",
-      "pubDate": "Wed, 11 Nov 2026 06:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Best Early Amazon Black Friday Deals (2026)",
-      "link": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
-      "pubDate": "Tue, 10 Nov 2026 22:42:06 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "‘We Have to Take Over’: Far-Right Extremists Want to Seize Control of the GOP",
-      "link": "https://www.wired.com/story/we-have-to-take-over-far-right-extremists-want-to-seize-control-of-the-gop/",
-      "pubDate": "Tue, 10 Nov 2026 16:40:19 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Kitchen Gear From Our Place Is Steeply Discounted",
-      "link": "https://www.wired.com/story/our-place-sale-november-2026/",
-      "pubDate": "Tue, 10 Nov 2026 15:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Rocco’s Mini Mini Fridge Is Here (2026)",
-      "link": "https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/",
-      "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "4DX Movies Are Entering Their Thirsty Romance Era",
-      "link": "https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry/",
-      "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
-      "link": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
-      "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI",
-      "link": "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/",
-      "pubDate": "Tue, 10 Nov 2026 13:30:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "The Grindr 1 Percent Is Getting Its Own Gated Community",
-      "link": "https://www.wired.com/story/the-grindr-1-percent-is-getting-its-own-gated-community/",
-      "pubDate": "Tue, 10 Nov 2026 12:00:00 +0000",
       "source": "wired.com"
     }
   ],

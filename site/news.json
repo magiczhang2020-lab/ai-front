@@ -1,14 +1,80 @@
 {
-  "updatedAt": "2026-11-17T18:56:39.117711+00:00",
+  "updatedAt": "2026-11-18T01:28:35.431493+00:00",
   "items": [
     {
-      "title": "Apple services, including iCloud, App Store, and Apple Music, hit by outage",
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "pubDate": "Wed, 18 Nov 2026 00:16:50 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Stripe backer Atomico calls for Europe to own its success stories",
+      "link": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
+      "pubDate": "Wed, 18 Nov 2026 00:01:00 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "pubDate": "Tue, 17 Nov 2026 23:37:48 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "pubDate": "Tue, 17 Nov 2026 23:04:35 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "pubDate": "Tue, 17 Nov 2026 22:42:27 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "pubDate": "Tue, 17 Nov 2026 22:29:05 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+      "pubDate": "Tue, 17 Nov 2026 21:48:07 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Google joins the tech outage trend by announcing it’s not having one",
+      "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+      "pubDate": "Tue, 17 Nov 2026 21:34:50 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Waymo suspends freeway rides nationwide after California DMV order",
+      "link": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+      "pubDate": "Tue, 17 Nov 2026 19:49:41 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "pubDate": "Tue, 17 Nov 2026 19:32:11 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "pubDate": "Tue, 17 Nov 2026 19:02:20 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
       "link": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
       "pubDate": "Tue, 17 Nov 2026 18:55:40 +0000",
       "source": "techcrunch.com"
     },
     {
-      "title": "Google to keep Gemini chats for two months, up from 72 hours, even with history off",
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
       "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
       "pubDate": "Tue, 17 Nov 2026 18:48:23 +0000",
       "source": "techcrunch.com"
@@ -56,70 +122,40 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Meta launches Direct, a stand-alone messaging app for Instagram",
-      "link": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/",
-      "pubDate": "Tue, 17 Nov 2026 15:01:46 +0000",
-      "source": "techcrunch.com"
+      "title": "‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse",
+      "link": "https://www.wired.com/story/the-predators-are-real-senate-hearing-slams-roblox-over-child-sex-abuse/",
+      "pubDate": "Wed, 18 Nov 2026 00:32:39 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-      "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
-      "pubDate": "Tue, 17 Nov 2026 15:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Review: Nubia Redmagic 12 Pro | Camera",
+      "link": "https://www.wired.com/gallery/review-nubia-redmagic-12-pro-or-camera/",
+      "pubDate": "Tue, 17 Nov 2026 23:34:44 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Instagram’s new tool for creators targets unauthorized reposts and AI-modified videos",
-      "link": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/",
-      "pubDate": "Tue, 17 Nov 2026 15:00:00 +0000",
-      "source": "techcrunch.com"
+      "title": "Best Early Amazon Black Friday Deals (2026)",
+      "link": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
+      "pubDate": "Tue, 17 Nov 2026 22:57:54 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-      "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
-      "pubDate": "Tue, 17 Nov 2026 14:50:58 +0000",
-      "source": "techcrunch.com"
+      "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+      "link": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
+      "pubDate": "Tue, 17 Nov 2026 22:19:19 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-      "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
-      "pubDate": "Tue, 17 Nov 2026 14:26:46 +0000",
-      "source": "techcrunch.com"
+      "title": "How to Tell If It’s a Cyberattack or Just an Outage",
+      "link": "https://www.wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage/",
+      "pubDate": "Tue, 17 Nov 2026 19:40:57 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
-      "link": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
-      "pubDate": "Tue, 17 Nov 2026 14:05:30 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-      "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
-      "pubDate": "Tue, 17 Nov 2026 14:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Genesis AI raises $500M to deploy glove-wearing robots",
-      "link": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/",
-      "pubDate": "Tue, 17 Nov 2026 14:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Upside Foods can now make a million pounds of chicken a year without killing any animals",
-      "link": "https://techcrunch.com/2026/11/17/upside-foods-can-now-make-one-million-pounds-of-chicken-each-year-without-killing-a-single-animal/",
-      "pubDate": "Tue, 17 Nov 2026 14:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids",
-      "link": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids/",
-      "pubDate": "Tue, 17 Nov 2026 14:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-      "pubDate": "Mon, 16 Nov 2026 23:32:32 +0000",
-      "source": "techcrunch.com"
+      "title": "Waymo Pauses All Highway Rides After California Safety Ban",
+      "link": "https://www.wired.com/story/waymo-pulls-its-robotaxis-from-highways-after-california-incidents/",
+      "pubDate": "Tue, 17 Nov 2026 19:38:08 +0000",
+      "source": "wired.com"
     },
     {
       "title": "The Nvidia Scandal Could Upend Chip Sales to China. Trump Wants to Keep Them Going",
@@ -158,12 +194,6 @@
       "source": "wired.com"
     },
     {
-      "title": "Congratulations to WIRED’s Class of 2026",
-      "link": "https://www.wired.com/story/wired-yearbook-2026/",
-      "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
       "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
       "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
       "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
@@ -188,6 +218,12 @@
       "source": "wired.com"
     },
     {
+      "title": "Congratulations to WIRED’s Class of 2026",
+      "link": "https://www.wired.com/story/wired-yearbook-2026/",
+      "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
+      "source": "wired.com"
+    },
+    {
       "title": "How a Bunch of YouTube Auteurs Are Reinventing Hollywood",
       "link": "https://www.wired.com/story/wired-yearbook-2026-youtube-directors/",
       "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
@@ -203,42 +239,6 @@
       "title": "Tesla’s Cybercab Is the Subscription Hell They Told You Not to Worry About",
       "link": "https://www.wired.com/story/tesla-cybercab-is-the-subscription-hell-they-told-you-not-to-worry-about/",
       "pubDate": "Tue, 17 Nov 2026 10:15:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Are Smart Car Seats Worth It? I Tested Two to Find Out (2026)",
-      "link": "https://www.wired.com/story/do-you-need-a-smart-car-seat/",
-      "pubDate": "Tue, 17 Nov 2026 10:06:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Oobah Butler Can Sell You Anything—If You’re a Rich Idiot",
-      "link": "https://www.wired.com/story/oobah-butler-exclusive-interview-scams-for-a-better-tomorrow/",
-      "pubDate": "Tue, 17 Nov 2026 08:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Chewy Promo Codes: 25% Off November 2026",
-      "link": "https://www.wired.com/story/chewy-promo-code/",
-      "pubDate": "Tue, 17 Nov 2026 06:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Uber Eats Promo Codes: $15 Off│November 2026",
-      "link": "https://www.wired.com/story/uber-eats-promo-code/",
-      "pubDate": "Tue, 17 Nov 2026 06:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "50% Off DoorDash Promo Code | November 2026",
-      "link": "https://www.wired.com/story/doordash-promo-code/",
-      "pubDate": "Tue, 17 Nov 2026 06:00:00 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "Booking.com Promo Codes: 20% Off | November 2026",
-      "link": "https://www.wired.com/story/booking-com-promo-code/",
-      "pubDate": "Tue, 17 Nov 2026 06:00:00 +0000",
       "source": "wired.com"
     }
   ],

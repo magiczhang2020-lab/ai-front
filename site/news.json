@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-11-25T11:56:41.119146+00:00",
+  "updatedAt": "2026-11-25T21:00:21.395887+00:00",
   "items": [
+    {
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "pubDate": "Wed, 25 Nov 2026 20:56:44 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "pubDate": "Wed, 25 Nov 2026 20:03:27 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "pubDate": "Wed, 25 Nov 2026 19:54:57 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+      "link": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+      "pubDate": "Wed, 25 Nov 2026 19:54:32 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "pubDate": "Wed, 25 Nov 2026 19:44:24 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+      "link": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+      "pubDate": "Wed, 25 Nov 2026 18:49:52 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "pubDate": "Wed, 25 Nov 2026 18:11:46 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
+      "link": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
+      "pubDate": "Wed, 25 Nov 2026 17:36:51 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "pubDate": "Wed, 25 Nov 2026 17:35:58 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "X’s latest update for creators focuses on vertical video",
+      "link": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
+      "pubDate": "Wed, 25 Nov 2026 17:28:29 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "WhatsApp now lets you schedule messages in group and individual chats",
+      "link": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/",
+      "pubDate": "Wed, 25 Nov 2026 16:57:51 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Allstate suffers multi-day tech outage ahead of Thanksgiving",
+      "link": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
+      "pubDate": "Wed, 25 Nov 2026 15:08:37 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Todoist confirms 6% of customers’ details were stolen in data breach",
+      "link": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
+      "pubDate": "Wed, 25 Nov 2026 14:20:28 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "pubDate": "Wed, 25 Nov 2026 14:10:18 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+      "link": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
+      "pubDate": "Wed, 25 Nov 2026 13:08:19 +0000",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "pubDate": "Wed, 25 Nov 2026 13:00:00 +0000",
+      "source": "techcrunch.com"
+    },
     {
       "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
       "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
@@ -26,100 +122,22 @@
       "source": "techcrunch.com"
     },
     {
-      "title": "Even the best AI agents struggle with everyday life",
-      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "pubDate": "Tue, 24 Nov 2026 21:33:29 +0000",
-      "source": "techcrunch.com"
+      "title": "The Iowa Lead Detonation Happened. Now the Real Work Begins to Study It",
+      "link": "https://www.wired.com/story/iowa-lead-detonation-real-monitoring-work-begins/",
+      "pubDate": "Wed, 25 Nov 2026 18:38:12 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-      "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-      "pubDate": "Tue, 24 Nov 2026 21:32:38 +0000",
-      "source": "techcrunch.com"
+      "title": "The 30 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
+      "link": "https://www.wired.com/story/best-black-friday-deals-11-25-2026/",
+      "pubDate": "Wed, 25 Nov 2026 15:03:16 +0000",
+      "source": "wired.com"
     },
     {
-      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-      "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
-      "pubDate": "Tue, 24 Nov 2026 21:19:52 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
-      "link": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
-      "pubDate": "Tue, 24 Nov 2026 21:09:04 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-      "pubDate": "Tue, 24 Nov 2026 18:30:42 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-      "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-      "pubDate": "Tue, 24 Nov 2026 18:02:59 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
-      "link": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
-      "pubDate": "Tue, 24 Nov 2026 17:44:34 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
-      "link": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
-      "pubDate": "Tue, 24 Nov 2026 17:29:09 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-      "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-      "pubDate": "Tue, 24 Nov 2026 17:00:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-      "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-      "pubDate": "Tue, 24 Nov 2026 16:46:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
-      "link": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
-      "pubDate": "Tue, 24 Nov 2026 16:40:46 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-      "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-      "pubDate": "Tue, 24 Nov 2026 16:10:00 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
-      "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
-      "pubDate": "Tue, 24 Nov 2026 16:02:37 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-      "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-      "pubDate": "Tue, 24 Nov 2026 15:51:07 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
-      "link": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
-      "pubDate": "Tue, 24 Nov 2026 13:29:53 +0000",
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Figma employee sues, alleging company forced her to confront harassers",
-      "link": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
-      "pubDate": "Mon, 23 Nov 2026 23:07:49 +0000",
-      "source": "techcrunch.com"
+      "title": "How Jump-Roping Toy Soldiers Accidentally Took Over Your FYP",
+      "link": "https://www.wired.com/story/hot-jump-roping-toy-soldiers-accidentally-made-their-own-psyop/",
+      "pubDate": "Wed, 25 Nov 2026 12:00:00 +0000",
+      "source": "wired.com"
     },
     {
       "title": "The 36 Best Gifts for Dads (2026)",
@@ -176,7 +194,7 @@
       "source": "wired.com"
     },
     {
-      "title": "‘Rejection Will Have Consequences’: Inside Trump’s Demands to Another Chips CEO",
+      "title": "Not Just Nvidia: Inside Team Trump’s Takeover of Intel",
       "link": "https://www.wired.com/story/inside-trumps-demands-to-another-chips-ceo/",
       "pubDate": "Wed, 25 Nov 2026 10:00:00 +0000",
       "source": "wired.com"
@@ -221,24 +239,6 @@
       "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
       "link": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
       "pubDate": "Tue, 24 Nov 2026 23:39:04 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "16 Best Black Friday Headphone Deals (2026): Up to 57% Off",
-      "link": "https://www.wired.com/story/best-black-friday-headphone-deals-11-24-26/",
-      "pubDate": "Tue, 24 Nov 2026 22:22:20 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
-      "link": "https://www.wired.com/story/11-things-jensen-huang-actually-said-at-his-first-all-hands-back-at-nvidia/",
-      "pubDate": "Tue, 24 Nov 2026 19:33:23 +0000",
-      "source": "wired.com"
-    },
-    {
-      "title": "iRestore Elite Laser Hair Growth System Review: Husband-Approved",
-      "link": "https://www.wired.com/review/irestore-elite-laser-hair-growth-system/",
-      "pubDate": "Tue, 24 Nov 2026 19:00:00 +0000",
       "source": "wired.com"
     }
   ],
